@@ -1,13 +1,13 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "repo", reaction: "🦈", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "repo", reaction: "📰", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '𝗚𝗢𝗧𝗛𝗔🤛𝗠𝗚𝗢𝗧𝗛𝗘👊𝗧𝗛𝗜𝗦 𝗜𝗦 𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞 𝗠𝗗  \n\n ' + "𝗙𝗢𝗥𝗞 𝗔𝗡𝗗 𝗦𝗧𝗔𝗥 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *CARL-SHARK MD*𝗥𝗘𝗣𝗢.*";
-    let d = ' https://github.com/CARL165/CarlTech';
+    let z = '𝗧𝗛𝗘 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1  \n\n ' + "𝗙𝗢𝗥𝗞 𝗔𝗡𝗗 𝗦𝗧𝗔𝗥 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *𝗖𝘆𝗯𝗲𝗿𝗶𝗼𝗻-𝗩1*𝗥𝗘𝗣𝗢.*";
+    let d = ' https://github.com/carl24tech/Cyberion-V1';
     let varmess = z + d;
-    var mp4 = 'https://telegra.ph/file/ff54cca772253fac85ea1.mp4';
-    await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
+    var mp4 = 'https://telegra.ph/file/8b604ffc937bd694516a9.jpg';
+    await zk.sendMessage(dest, { img: { url: mp3 }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
