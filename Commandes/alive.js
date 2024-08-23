@@ -39,11 +39,12 @@ const date = moment().format('DD/MM/YYYY');
 *Mode* : ${mode}
 *Date* : ${date}
 *Hours(EAT)* : ${temps}
+*Prefix* : [${s.PREFIXE}]
 
  ${message}
  
  
- *CARL-TECH ACTIVE RUNNING SPEED 90000MS✅*`
+ *𝗧𝗵𝗲 𝗮𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀 𝗖𝘆𝗻𝗲𝗿𝗶𝗼𝗻-𝗩1 𝗶𝘀 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝘀𝗺𝗼𝗼𝘁𝗵*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -88,7 +89,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre('message alive refresh successfully')
+repondre('message alive updated successfully')
 
 }
     });
