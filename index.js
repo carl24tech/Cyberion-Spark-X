@@ -871,8 +871,8 @@ ${metadata.desc}
  
 
 
-║❒ *JOIN OUR 𝖶𝖠_𝖦𝖱𝖮𝖴𝖯*
-💈https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO
+║❒ *JOIN OUR 𝖶𝖠_CHANNEL*
+💈https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
 ║❒ *CONTACT THE DEVELOPER* 🪄 
 🪀https://wa.link/c9qf2z
