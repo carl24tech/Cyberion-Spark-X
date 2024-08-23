@@ -58,7 +58,7 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 ➡️➡️[`𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
 
 
-<img src="https://telegra.ph/file/8b604ffc937bd694516a9.jpg" widh="700" height="600" />
+<img src="https://telegra.ph/file/8b604ffc937bd694516a9.jpg" widh="500" height="500" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
