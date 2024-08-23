@@ -41,7 +41,7 @@ const date = moment().format('DD/MM/YYYY');
 ⨀🔑 ignition : [${s.PREFIXE}]
 ❂🚀 *Commands* : ${cm.length} 
 ⚉⌚️ *Time* : ${temps}
-⦿🖥️ System : 𝗖𝗔𝗥𝗟✦𝗦𝗛𝗔𝗥𝗞✦𝗠𝗗
+⦿🖥️ System : 𝗖𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
 ✪📰 Bot ID : VZ67IPO
 └─────═━┈┈━═─────┘
 ❂📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
