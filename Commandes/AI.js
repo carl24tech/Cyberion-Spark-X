@@ -6,7 +6,7 @@ const { default: axios } = require('axios');
 
 
 
-zokou({nomCom:"bot",reaction:"🥏",categorie:"IA"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"bot",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
@@ -45,7 +45,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
 
 
 
-  zokou({ nomCom: "dalle", reaction: "🥏", categorie: "IA" }, async (dest, zk, commandeOptions) => {
+  zokou({ nomCom: "dalle", reaction: "📡", categorie: "IA" }, async (dest, zk, commandeOptions) => {
     const { repondre, arg, ms } = commandeOptions;
   
     try {
@@ -73,7 +73,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
     }
   });
   
-  zokou({ nomCom: "gpt", reaction: "🥏", categorie: "IA" }, async (dest, zk, commandeOptions) => {
+  zokou({ nomCom: "gpt", reaction: "📡", categorie: "IA" }, async (dest, zk, commandeOptions) => {
     const { repondre, arg, ms } = commandeOptions;
   
     try {
