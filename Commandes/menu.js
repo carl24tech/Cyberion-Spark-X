@@ -36,26 +36,28 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭━━━∙⋆🙉⋅𝐖𝐄𝐋𝐂𝐎𝐌𝐄🙈⋆━━━╮
 👋 *Hello* : ${s.OWNER_NAME}
-╭────》《𝗦𝗬𝗦𝗧𝗘𝗠》《────|
-✪🛸 *Mode* : 【${mode}】
-⨀🔑 ignition : [${s.PREFIXE}]
-❂🚀 *Commands* : ${cm.length} 
-⚉⌚️ *Time* : ${temps}
-⦿🖥️ System : 𝗖𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
-✪📰 Bot ID : VZ67IPO
-└─────═━┈┈━═─────┘
+┌──═━┈━═──⊶──═━┈━═─
+╽『𝗦𝗬𝗦𝗧𝗘𝗠』
+╻✪🛸 *Mode* : 【${mode}】
+╻⨀🔑 ignition : [${s.PREFIXE}]
+╻❂🚀 *Commands* : ${cm.length} 
+╻⚉⌚️ *Time* : ${temps}
+╻⦿🖥️ System : 𝗖𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
+╿✪📰 Bot ID : VZ67IPO
+└──⊶─═━┈┈━═──═━┈━═─
 ❂📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ╰ ─┉─¡! • !¡─┉─ ╯
-╭━━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─ ╮
-⨀🖥 *Devlp* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
-❂🪀 *Commander* : ${s.OWNER_NAME}
-└──═━┈━═─ ═──═━┈━═──┘
-╭━━━━━∙⋆⋅⋆∙𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦━∙⋆⋅⋆∙━━━━━╮
-⚉🛡️ Security : encrypted
-⚉📡 *Platform* : ${os.platform}
-✪🗺️ Region : Kenya
-✪☋️ Version : [5.1.×]
-╚══•●❂✺❂✺❂✺❂✺❂✺❂•══╝ \n\n`;
+┌─═━┈┈━═────═━┈┈━═──
+╻⨀🖥 *Devlp* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
+╻❂🪀 *Commander* : ${s.OWNER_NAME}
+└──═━┈━═─⊶═──═━┈━═──
+┌─────═━┈┈━═────═━┈┈━═──
+╽『𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦』
+╻⚉🛡️ Security : encrypted
+╻⚉📡 *Platform* : ${os.platform}
+╻✪🗺️ Region : Kenya
+╿✪☋️ Version : [5.1.×]
+└─────═━┈┈━═──────═━┈┈━═ \n\n`;
  
     let menuMsg=` 
 ╭━━━━━∙⋆⋅⋆∙━━ ─┉─ • ─┉─ ╮
@@ -78,7 +80,7 @@ const date = moment().format('DD/MM/YYYY');
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭──╯🛸* *${cat}* *🛸*`;
+        menuMsg += `*⊷🛸* *${cat}* *🛸⊶*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
 *✳* ${cmd}`;
@@ -89,11 +91,11 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
            
-     *⦿--⨀--❂---⚉-*
+     *তততততততততততত*
 
-  *ᴄᴀʀʟ ᴡɪʟʟɪᴀᴍ 2024🏆* 
-     *▀▄▀▄▀▄▀▄▀▄▀▄*
-     *▄▀▄▀▄▀▄▀▄▀▄▀*
+  *🏹_____________ ׂׂૢ་༘࿐2024🏆* 
+     
+     *▄︻デ══━一💥*
        𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛
 *☯┈┈┈┈┈❂ 𓃰 ❂┈┈┈┈┈💫*
 `;
