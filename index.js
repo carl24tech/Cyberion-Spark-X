@@ -670,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇IBRAHIM-MD◇
+            let msg = `◇Cyberion-V1◇
 `;
              
             let membres = group.participants;
@@ -860,13 +860,13 @@ ${metadata.desc}
                 let cmsg = `
 *『𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐕1 𝐈𝐒 𝐑𝐔𝐍𝐍𝐈𝐍𝐆』*
 
-     
+┌─═━┈━═─═━┈━═──┐    
 ║❒Creator: *𝗖𝗮𝗿𝗹𝗧𝗲𝗰𝗵*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *26.7.2024*
 ║❒Total Commands : ${evt.cm.length}︎
-
+└─═━┈━═─═━┈━═──┘
    
  
 
