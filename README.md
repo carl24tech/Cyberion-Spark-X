@@ -15,7 +15,7 @@
  
 1✅️, Fork the repo to encourage the [`❣️💞💜💚💙𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹🌟🦾🤖`](https://github.com/Carl165) 
 
-   ***Click➡️⏩️ [`𝑭𝑶𝑹𝑲🍴`](https://github.com/Carl165/Cyberion-V1/fork) and `Star ☆repository`for encouragement.***
+   ***Click➡️⏩️ [`𝑭𝑶𝑹𝑲🍴`](https://github.com/carl24tech/Cyberion-V1/fork) and `Star ☆repository`for encouragement.***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
@@ -59,3 +59,6 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 
 
 <img src="https://telegra.ph/file/8b604ffc937bd694516a9.jpg" widh="700" height="600" />
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
