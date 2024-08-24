@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{CYBERION-V1}...[][]");
+            console.log("\t [][]...{CYBERION}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -663,7 +663,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/37ad9456847e2ad3403e7.jpg';
+        ppgroup = 'https://telegra.ph/file/8b604ffc937bd694516a9.jpg';
     }
 
     try {
@@ -862,7 +862,7 @@ ${metadata.desc}
 
 ┌──═━┈━═─═━┈━═──┐    
 ║❒Creator: *CARLTECH*
-║❒Prefix : [ ${prefixe} ]
+║❒Prefix : ${prefixe} 
 ║❒Mode :${md}
 ║❒Created on : *22.7.2024*
 ║❒Total Commands : ${evt.cm.length}︎
