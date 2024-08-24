@@ -35,7 +35,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*Yes my G what's up* 😎
+*Yes buddy what's up* 😎
 
 
 *Any way just follow the following channels*
