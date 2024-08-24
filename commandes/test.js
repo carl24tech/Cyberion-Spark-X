@@ -7,7 +7,7 @@ zokou({ nomCom: "repo", reaction: "♨️", nomFichier: __filename }, async (des
     let d = ' https://github.com/carl24tech/Cyberion-V1';
     let varmess = z + d;
     var mp4 = 'https://telegra.ph/file/8b604ffc937bd694516a9.jpg';
-    await zk.sendMessage(dest, { image: { url: mp3 }, caption: varmess });
+    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
