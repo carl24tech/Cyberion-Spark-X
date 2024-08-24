@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "carltech", reaction: "🧑‍💻", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "carlos", reaction: "🧑‍💻", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = 'CARL-HD-PHOTO \n\n ' + "*ᴄᴀʀʟᴛᴇᴄʜ.*";
     let d = ' #KING'S';
