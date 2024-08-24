@@ -828,10 +828,10 @@ ${metadata.desc}
                 console.log("le bot est en ligne 🕸\n\n");
                 //chargement des commandes 
                 console.log("chargement des commandes ...\n");
-                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/Commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/commandes/" + fichier);
+                            require(__dirname + "/Commandes/" + fichier);
                             console.log(fichier + " installé ✔️");
                         }
                         catch (e) {
