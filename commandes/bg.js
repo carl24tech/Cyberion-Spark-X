@@ -55,7 +55,7 @@ let infoMsg =  `
 ❐ unlimitedgcbug <grouplink>
 ❐ docugcbug <grouplink>
 
-> ⏲️ *TIME* : ${temps}
+> 🕰 *TIME* : ${temps}
 > 📅 *DATE* : ${date} `;
     
 let menuMsg = `
@@ -64,12 +64,12 @@ let menuMsg = `
   
 
 
-▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+╭───────────────────❒
+│Credit to divibraah❒⁠⁠⁠⁠
+│CARLTECH❒⁠⁠
+⁠⁠⁠⁠╰───────────────────❒
 
-> ©devibraah and carltech
+> just a reminder mehn this menu is meant to work on scammers
 
  `;
 
