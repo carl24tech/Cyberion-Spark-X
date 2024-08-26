@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{IBRAHIM-MD}...[][]");
+            console.log("\t [][]...{CYBERION}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -858,32 +858,32 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
+*『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 CONNECTED 』*
 
-     
-║❒Creator: *IBRAHIM ADAMS*
+┌─────═━┈━═─────┐    
+║❒Creator: *CARLTECH*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.2.2024*
 ║❒Total Commands : ${evt.cm.length}︎
-
+└─────═━┈━═─────┘
    
  
 
 
-║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
+║❒ *JOIN OUR WhatsApp*
+https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
 ║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/message/74F2PC4JA4F3P1
+https://wa.me/254770954948
 
-║❒ *YOUTUBE*
-https://www.youtube.com/@ibrahimaitech
-
-
+║❒ *TELEGRAM*
+https://t.me.carlltecch 
 
 
-              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
+
+
+              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
