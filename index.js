@@ -670,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇IBRAHIM-MD◇
+            let msg = `◇CYBERION◇
 `;
              
             let membres = group.participants;
@@ -688,7 +688,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *Ibrahim King*`;
+📌Powred by *Carltech*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -860,13 +860,13 @@ ${metadata.desc}
                 let cmsg = `
 *『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 CONNECTED 』*
 
-┌─────═━┈━═─────┐    
+    
 ║❒Creator: *CARLTECH*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.2.2024*
 ║❒Total Commands : ${evt.cm.length}︎
-└─────═━┈━═─────┘
+
    
  
 
@@ -883,7 +883,7 @@ https://t.me.carlltecch
 
 
 
-              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*`;
+              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡* `;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
