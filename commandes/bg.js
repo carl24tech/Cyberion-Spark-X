@@ -65,7 +65,7 @@ let menuMsg = `
 
 
 ╭───────────────────❒
-│Credit to divibraah❒⁠⁠⁠⁠
+│Credit to devibraah❒⁠⁠⁠⁠
 │CARLTECH❒⁠⁠
 ⁠⁠⁠⁠╰───────────────────❒
 
