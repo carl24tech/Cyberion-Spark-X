@@ -36,14 +36,14 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭━━━∙⋆🙉⋅𝐖𝐄𝐋𝐂𝐎𝐌𝐄🙈⋆━━━╮
 |👋 *Hello* : ${s.OWNER_NAME}
-╭────》《𝗦𝗬𝗦𝗧𝗘𝗠》《────|
+❒───────────────────❒
 |✪🛸 *Mode* : 【${mode}】
 |⨀🔑 ignition : [${s.PREFIXE}]
 |❂🚀 *Commands* : ${cm.length} 
 |⚉⌚️ *Time* : ${temps}
 |⦿🖥️ System : 𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
 |✪📰 Bot ID : VZ67IPO
-└─────═━┈┈━═─────┘
+└─────═━┈┈━═─────
 |❂📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ╰ ─┉─¡! • !¡─┉─ ╯
 ╭━━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─ ╮
