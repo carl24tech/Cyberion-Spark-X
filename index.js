@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{CYBERION}...[][]");
+            console.log("\t [][]...{IBRAHIM-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -670,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇CYBERION◇
+            let msg = `◇IBRAHIM-MD◇
 `;
              
             let membres = group.participants;
@@ -688,7 +688,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *Carltech*`;
+📌Powred by *Ibrahim King*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -858,10 +858,10 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 CONNECTED 』*
+*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
 
-    
-║❒Creator: *CARLTECH*
+     
+║❒Creator: *IBRAHIM ADAMS*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.2.2024*
@@ -871,19 +871,19 @@ ${metadata.desc}
  
 
 
-║❒ *JOIN OUR WhatsApp*
-https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
+║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
+https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
 
 ║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/254770954948
+https://wa.me/message/74F2PC4JA4F3P1
 
-║❒ *TELEGRAM*
-https://t.me.carlltecch 
-
-
+║❒ *YOUTUBE*
+https://www.youtube.com/@ibrahimaitech
 
 
-              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡* `;
+
+
+              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
