@@ -58,11 +58,11 @@
  
  𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐖𝐀𝐓𝐂𝐇 𝐇𝐎𝐖 𝐓𝐎 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
  
- [`𝐕𝐈𝐃𝐄𝐎`](https://whatsapp.com/channel/0029VaePv7T72WTq4R6Pxr0t)
+ [`𝐕𝐈𝐃𝐄𝐎`](https://files.fm/f/hqnjmf6v4z)
 
 
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-V1"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=mercedes" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-V1"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
