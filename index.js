@@ -663,14 +663,14 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/37ad9456847e2ad3403e7.jpg';
+        ppgroup = 'https://telegra.ph/file/8607b7de6ec512c7886aa.jpg';
     }
 
     try {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇IBRAHIM-MD◇
+            let msg = `◇CARLTECH◇
 `;
              
             let membres = group.participants;
@@ -688,11 +688,11 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *Ibrahim King*`;
+📌Powred by *CARLTECH*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*;\n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*;\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -858,32 +858,32 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
+*『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 CONNECTED 』*
 
      
-║❒Creator: *IBRAHIM ADAMS*
+║❒Creator: *CARLTECH*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
-║❒Created on : *22.2.2024*
+║❒Created on : *22.5.2024*
 ║❒Total Commands : ${evt.cm.length}︎
 
    
  
 
 
-║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
+║❒ *JOIN OUR WhatsApp*
+https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
 ║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/message/74F2PC4JA4F3P1
+https://wa.me/254770954948
 
-║❒ *YOUTUBE*
-https://www.youtube.com/@ibrahimaitech
-
-
+║❒ *TELEGRAM*
+https://t.me.carlltecch 
 
 
-              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
+
+
+              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
