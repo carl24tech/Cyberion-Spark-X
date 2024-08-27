@@ -7,7 +7,6 @@
 <p align="center"> 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐕1 A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
   
 <img src="https://telegra.ph/file/0596b8d5a93154f1bca1d.jpg" width="700" height="600"/>
-
 <p align="cente">
 <a href="https://github.com/carl24tech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?label=Followers&style=social"></a>
 <a href="https://github.com/carl24tech/Cyberion-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-V1?&style=social"></a>
