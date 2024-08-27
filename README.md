@@ -43,7 +43,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##__`CYBERION-V1 FEATURES`_
+_`CYBERION-V1 FEATURES`_
 
 
 | Feature                          | Description                                             | Available    | Version    |
