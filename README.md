@@ -1,7 +1,10 @@
  <h1 align="center"> 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗖𝗢𝗗𝗘 𝗕𝗬 𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛</h1> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡+𝗩1+𝗕𝗬+𝗖𝗔𝗥𝗟)](https://git.io/typing-svg)
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THE+CYBERION-V1-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+CARL+;RELEASED+2.8.2024;ENJOY" alt="Typing SVG" /></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center"> 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐕1 A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
