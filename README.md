@@ -43,15 +43,23 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+##__`CYBERION-V1 FEATURES`_
 
- 
 
-## License
+| Feature                          | Description                                             | Available    | Version    |
+| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 1.0        |
+| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 1.0        |
+| Downloader Commands              | Download various types of content from the internet     | ✅           | 1.0        |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 1.0        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 1.0        |
+| Anime Commands                   | Explore anime-related commands and features             | ✅           | 1.0        |
+| Bot Control Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 1.0        |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 1.0        |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
+| Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
 
-The 𝐂𝐲𝐛𝐞𝐫𝐢𝐨𝐧-𝐕1 is released under the [`MIT License`](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the CarlTech  to enhance your conversations and make your WhatsApp experience more interesting!
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Developer INFO:
 
