@@ -3,7 +3,7 @@
  
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THE+CYBERION-V1-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+CARL+;RELEASED+2.8.2024;ENJOY" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THE+CYBERION-V1;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+CARL+;RELEASED+2.8.2024;ENJOY" alt="Typing SVG" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
