@@ -22,7 +22,10 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
- 2✅️,TO GET SESSION 🆔 CLICK[`𝐓𝐇𝐈𝐒💞❣️𝐁𝐔𝐓𝐓𝐎𝐍𝐍`](https://github.com/Carl165/SESSION_SITE)TO GO TO THE SESSION-SITE AND GET THE SESSION ID
+
+
+  <a href="https://github.com/Carl165/SESSION_SITE"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=audi" width="220" height="38.45"/></a></p>
+
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
