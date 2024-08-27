@@ -19,7 +19,7 @@
  
 1✅️, Fork the repo to encourage the [`❣️💞💜💚💙𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹`](https://github.com/Carl165) 
 
-   ***Click➡️⏩️ [`𝑭𝑶𝑹𝑲🍴`](https://github.com/carl24tech/Cyberion-V1/fork) and `Star ☆repository`for encouragement.***
+   <a href="https://github.com/carl24tech/Cyberion-V1/fork"><img title="FORK REPO" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=ferari" width="220" height="38.45"/></a></p>
 
 
  
