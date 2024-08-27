@@ -24,7 +24,7 @@
  
 
 
-  <a href="https://github.com/Carl165/SESSION_SITE"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=audi" width="220" height="38.45"/></a></p>
+  <a href="https://github.com/Carl165/SESSION_SITE"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=mercedes" width="220" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -45,7 +45,7 @@
 
 
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-V1"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=ford" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-V1"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=mercedes" width="220" height="38.45"/></a></p>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
