@@ -30,7 +30,7 @@
 
 
 
-[`𝐃𝐄𝐏𝐋𝐎𝐘`](https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-V1/tree/main?tab=readme-ov-file)
+
 
  𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗬𝗢𝗨𝗥 𝗙𝗢𝗥𝗞𝗘𝗗 𝗥𝗘𝗣𝗢 𝗪𝗜𝗧𝗛 𝗧𝗛𝗜𝗦  𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘  𝗧𝗢 𝗔𝗩𝗢𝗜𝗗 𝗛𝗘𝗥𝗢𝗞𝗨 𝗕𝗔𝗡
 
@@ -39,6 +39,10 @@
  𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐖𝐀𝐓𝐂𝐇 𝐇𝐎𝐖 𝐓𝐎 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
  
  [`𝐕𝐈𝐃𝐄𝐎`](https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO)
+
+
+
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-V1"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
