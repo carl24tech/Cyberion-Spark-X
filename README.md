@@ -80,4 +80,5 @@ _`CYBERION-V1 FEATURES`_
 <img src="https://telegra.ph/file/8b604ffc937bd694516a9.jpg" widh="400" height="400" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
+AND THANKS TO MY LIL BRO
+<img src="https://telegra.ph/file/34d9e1797802c5c866246.jpg" widh="400" height="400" />
