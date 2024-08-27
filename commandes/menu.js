@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭──╯👾* *${cat}* *👾*`;
+        menuMsg += `*╭────○👾* *${cat}* *👾*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
 *●* ${cmd}`;
