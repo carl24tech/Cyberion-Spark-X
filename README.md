@@ -40,13 +40,13 @@
 
 
 
- 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗬𝗢𝗨𝗥 𝗙𝗢𝗥𝗞𝗘𝗗 𝗥𝗘𝗣𝗢 𝗪𝗜𝗧𝗛 𝗧𝗛𝗜𝗦  𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘  𝗧𝗢 𝗔𝗩𝗢𝗜𝗗 𝗛𝗘𝗥𝗢𝗞𝗨 𝗕𝗔𝗡
+ ⚠️𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗬𝗢𝗨𝗥 𝗙𝗢𝗥𝗞𝗘𝗗 𝗥𝗘𝗣𝗢 𝗪𝗜𝗧𝗛 𝗧𝗛𝗜𝗦  𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘  𝗧𝗢 𝗔𝗩𝗢𝗜𝗗 𝗛𝗘𝗥𝗢𝗞𝗨 𝗕𝗔𝗡⚠️
 
  https://dashboard.heroku.com/new?template=
  
  𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐖𝐀𝐓𝐂𝐇 𝐇𝐎𝐖 𝐓𝐎 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
  
- [`𝐕𝐈𝐃𝐄𝐎`](https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO)
+ [`𝐕𝐈𝐃𝐄𝐎`](https://whatsapp.com/channel/0029VaePv7T72WTq4R6Pxr0t)
 
 
 
