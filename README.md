@@ -7,8 +7,12 @@
 <p align="center"> 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐕1 A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
   
 <img src="https://telegra.ph/file/0596b8d5a93154f1bca1d.jpg" width="700" height="600"/>
+
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  `
+  
 
 
 ##𝑭𝑶𝑳𝑳𝑶𝑾 𝑻𝑯𝑬 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝑺𝑻𝑬𝑷𝑺 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵-𝑽1
