@@ -60,7 +60,7 @@ zokou({ nomCom: "sos", categorie: "General", reaction: "🆘" }, async (dest, zk
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to ☆CarlTech .10!* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to CarlTech* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -91,7 +91,7 @@ else {
 }
 });
 
-zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "curl", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
