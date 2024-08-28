@@ -35,31 +35,31 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ┏━━━━━━━━━━━━━━━━━━━━┓
-|👋 *Hello* : ${s.OWNER_NAME}
+| 👋 *Hello* : ${s.OWNER_NAME}
 ❒───────────────────❒
-| 🛸 *Mode* : 【${mode}】
-| 🔑 ignition : [${s.PREFIXE}]
-| 🚀 *Commands* : ${cm.length} 
-| ⌚️ *Time* : ${temps}
-| 🖥️ System : 𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
-| 📰 Bot ID : VZ67IPO
+|  🛸 *Mode* : 【${mode}】
+|  🔑 ignition : [${s.PREFIXE}]
+|  🚀 *Commands* : ${cm.length} 
+|  ⌚️ *Time* : ${temps}
+|  🖥️ System : 𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
+|  📰 Bot ID : VZ67IPO
 └─────═━┈┈━═─────
-| 📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-╰ ─┉─¡! • !¡─┉─ ╯
+|  📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+└─────═━┈┈━═─────┘
 ╭━━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─ ╮
-| 🖥 *Devlp* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
-| 🪀 *Commander* : ${s.OWNER_NAME}
+|  🖥 *Devlp* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
+|  🪀 *User* : ${s.OWNER_NAME}
 └──═━┈━═─ ═──═━┈━═──┘
 ╒══════════════════╕
-|『𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦』
-| 🛡️ Security : encrypted
-| 📡 *Platform* : ${os.platform}
-| 🗺️ Region : Kenya
-| ☋️ Version : [5.1.×]
+| 『𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦』
+|  🛡️ Security : encrypted
+|  📡 *Platform* : ${os.platform}
+|  🗺️ Region : Kenya
+|  ☋️ Version : [5.1.×]
 ╘══════════════════╛ \n\n`;
  
     let menuMsg=` 
-╭━━━━━∙⋆⋅⋆∙━━ ─┉─ • ─┉─ ╮
+┌─────═━┈┈━═─═━┈┈━═─────┐
 『𝗦𝗨𝗣𝗣𝗢𝗥𝗧』
  🪀 Whatsapp:
  ✪https://wa.me/254770954948
@@ -70,7 +70,7 @@ const date = moment().format('DD/MM/YYYY');
  🐈‍⬛ 𝗚𝗜𝗧𝗛𝗨𝗕1:
  ⨀https://github.com/carl24tech 
    𝗘𝗡𝗝𝗢𝗬 𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
-╰━━━━━∙⋆⋅⋆∙━━━━━━∙⋆⋅⋆∙━━━━━╯
+└─────═━┈┈━═──═━┈┈━═─────┘
 ╭───────────────────❒
 │BOT COMMANDS❒⁠⁠⁠⁠
 │CYBERION❒⁠⁠
@@ -91,11 +91,11 @@ const date = moment().format('DD/MM/YYYY');
            
      
 
-  *ᴄᴀʀʟ ᴡɪʟʟɪᴀᴍ 2024🏆* 
-     
-      
+   
+   *█✪█▓▓▓▓▓▓▓▓▓█✪█*
+   *█✪█▓▓▓▓▓▓▓▓▓█✪█*   
           
-       𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛
+      *ᴄᴀʀʟᴛᴇᴄʜ 2024🏆* 
 *❒───────────────────❒*
 `;
 
