@@ -69,7 +69,7 @@ let menuMsg = `
 │CARLTECH❒⁠⁠
 ⁠⁠⁠⁠╰───────────────────❒
 
-> just a reminder mehn this menu is meant to work on scammers
+> Lol just a reminder mehn this menu is meant to work on scammers destroy their fucking whatsapps and destroy their phones
 
  `;
 
