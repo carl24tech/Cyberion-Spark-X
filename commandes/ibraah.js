@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "channel", reaction: "🧒", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '*Yoo support me by following my channel* 🙏 \n\n ' + "║❒ 𝙒𝘼𝘾𝙃𝘼𝙉𝙉𝙀𝙇 https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y";
-    let d = '                                                     ║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 ';
+    let z = '*Yoo support me by following my channel* 🙏 \n\n ' + "║❒ 𝙒𝘼𝘾𝙃𝘼𝙉𝙉𝙀𝙇 https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h";
+    let d = '                                                     ║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h';
     let varmess = z + d;
     var mp4 = 'https://telegra.ph/file/cc5fd0e19ae11164bd813.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
