@@ -663,7 +663,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/8607b7de6ec512c7886aa.jpg';
+        ppgroup = 'https://telegra.ph/file/cc5fd0e19ae11164bd813.jpg';
     }
 
     try {
@@ -860,13 +860,14 @@ ${metadata.desc}
                 let cmsg = `
 *『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 CONNECTED 』*
 
-     
+ 
+┌─────═━┈┈━═─────┐    
 ║❒Creator: *CARLTECH*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.5.2024*
 ║❒Total Commands : ${evt.cm.length}︎
-
+└─────═━┈┈━═─────┘
    
  
 
