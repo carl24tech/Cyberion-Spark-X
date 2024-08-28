@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "ibrahim", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "host", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -35,7 +35,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*Yes my G what's up* 😎
+*Hey there wanna support carltech* 😎
 
 
 *Any way just follow the following channels*
@@ -44,11 +44,11 @@ const date = moment().format('DD/MM/YYYY');
 *Whatsapp channel*
 > https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
 
-*Youtube*
-> https://www.youtube.com/@ibrahimaitech
+*Telegram*
+> https://t.me.carlltecch 
 
 *For more info*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/Carl165/CARLTECH-INFO 
   `;
     
 let menuMsg = `
