@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 
 
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
 *Telegram*
 > https://t.me.carlltecch 
