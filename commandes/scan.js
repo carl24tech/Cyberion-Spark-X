@@ -47,6 +47,11 @@ https://github.com/Carl165/SESSION_SITE
  5. It will load for sometime then Trex will send A long session to your inbox on whatsapp at your own number
  6. Copy that long session and send it to your deployer or deploy it yourself.
  
+ ╭───────────────────❒
+ │ CYBERION❒⁠⁠⁠⁠
+ │ CARLTECH❒⁠⁠
+ ⁠⁠⁠⁠╰───────────────────❒
+ 
  
  `;
     
