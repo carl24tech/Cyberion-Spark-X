@@ -30,13 +30,14 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   } ;
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
-  tag += `========================\n  
-        🌟 *CARL-SHARK MD* 🌟
-========================\n
-👥 Group : ${nomGroupe} 🚀 
-👤 Author : *${nomAuteurMessage}* 👋 
-📜 Message : *${mess}* 📝
-========================\n
+  tag += `  
+╭─────────────━┈⊷ 
+│🔰 𝐁𝐌𝐖 𝐌𝐃 𝐓𝐀𝐆
+╰─────────────━┈⊷ \n
+│👥 *Group* : ${nomGroupe} 
+│👤 *Hey😀* : *${nomAuteurMessage}* 
+│📜 *Message* : *${mess}* 
+╰─────────────━┈⊷\n
 \n
 
 ` ;
@@ -62,7 +63,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
 });
 
 
-zokou({ nomCom: "invite", categorie: 'Group', reaction: "🙋" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "link", categorie: 'Group', reaction: "🙋" }, async (dest, zk, commandeOptions) => {
   const { repondre, nomGroupe, nomAuteurMessage, verifGroupe } = commandeOptions;
   if (!verifGroupe) { repondre("wait bro , you want the link to my dm?"); return; };
 
@@ -70,9 +71,9 @@ zokou({ nomCom: "invite", categorie: 'Group', reaction: "🙋" }, async (dest, z
   var link = await zk.groupInviteCode(dest)
   var lien = `https://chat.whatsapp.com/${link}`;
 
-  let mess = `Hello ${nomAuteurMessage} , here is the group link of ${nomGroupe} \n
+  let mess = `hey🖐️ ${nomAuteurMessage} , here is the group link for ${nomGroupe} \n
 
-Click Here To Join :${lien}`
+Group link :${lien} \n\n©𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬 𝐒𝐜𝐢𝐞𝐧𝐜𝐞`
   repondre(mess)
 
 
@@ -121,7 +122,8 @@ zokou({ nomCom: "promote", categorie: 'Group', reaction: "👨🏿‍💼" }, as
         if (zkad) {
           if (membre) {
             if (admin == false) {
-              var txt = `🎊🍾  @${auteurMsgRepondu.split("@")[0]} Has been promoted as a group Admin.`
+              var txt = `🎊🎊🎊  @${auteurMsgRepondu.split("@")[0]} rose in rank.\n
+                      he/she has been named group administrator.`
               await zk.groupParticipantsUpdate(dest, [auteurMsgRepondu], "promote");
               zk.sendMessage(dest, { text: txt, mentions: [auteurMsgRepondu] })
             } else { return repondre("This member is already an administrator of the group.") }
@@ -250,7 +252,7 @@ zokou({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
             if (admin == false) {
               const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif"
               var sticker = new Sticker(gifLink, {
-                pack: 'FLASH-MD', // The pack name
+                pack: 'Zokou-Md', // The pack name
                 author: nomAuteurMessage, // The author name
                 type: StickerTypes.FULL, // The sticker type
                 categories: ['🤩', '🎉'], // The sticker category
@@ -274,45 +276,6 @@ zokou({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
       } else { repondre("please tag the member to be removed"); }
     } else { return repondre("Sorry I cannot perform this action because you are not an administrator of the group .") }
   } catch (e) { repondre("oups " + e) }
-
-})
-
-
-
-/** ***fin démettre****  **
-/** *****fin retirer */
-
-zokou({ nomCom: "add", categorie: 'Group', reaction: "👨🏿‍💼" }, async (dest, zk, commandeOptions) => {
-  let { repondre, msgRepondu, infosGroupe, auteurMsgRepondu, verifGroupe, nomAuteurMessage, auteurMessage, superUser, idBot } = commandeOptions;
-  let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
-  if (!verifGroupe) { return repondre("for groups only");} 
-
-  const participants = await message.groupMetadata(message.jid)
-		const isImAdmin = await isAdmin(participants, message.client.user.jid)
-		if (!isImAdmin) return await message.send(`_I'm not admin._`)
-		match = match || message.reply_message.jid
-		if (!match) return await message.send('Example : add 254757835036')
-		// if (!match.startsWith('@@')) {
-		// 	match = jidToNum(match)
-		// 	const button = await genButtonMessage(
-		// 		[
-		// 			{ id: `@@`, text: 'NO' },
-		// 			{ id: `add @@${match}`, text: 'YES' },
-		// 		],
-		// 		`Your Number maybe banned, Do you want add @${match}`,
-		// 		''
-		// 	)
-		// 	return await message.send(
-		// 		button,
-		// 		{ contextInfo: { mentionedJid: [numToJid(match)] } },
-		// 		'button'
-		// 	)
-		// }
-		match = jidToNum(match)
-		const res = await message.Add(match)
-		if (res == '403') return await message.send('_Failed, Invite sent_')
-		else if (res && res != '200')
-			return await message.send(res, { quoted: message.data })
 
 })
 
@@ -381,7 +344,7 @@ zokou({ nomCom: "info", categorie: 'Group' }, async (dest, zk, commandeOptions) 
 
     let mess = {
       image: { url: ppgroup },
-      caption:  `*━━━━『GROUP INFO』━━━━*\n\n*🎐Name:* ${info.subject}\n\n*🔩Group's ID:* ${dest}\n\n*🔍Desc:* \n\n${info.desc}`
+      caption:  `*━━━━『Group Info』━━━━*\n\n*🎐Name:* ${info.subject}\n\n*🔩Group's ID:* ${dest}\n\n*🔍Desc:* \n\n${info.desc}`
     }
 
 
@@ -460,7 +423,7 @@ zokou({ nomCom: "info", categorie: 'Group' }, async (dest, zk, commandeOptions) 
 
  //------------------------------------antibot-------------------------------
 
- zokou({ nomCom: "antibot", categorie: 'Group', reaction: "🔗" }, async (dest, zk, commandeOptions) => {
+ zokou({ nomCom: "antibot", categorie: 'Group', reaction: "😬" }, async (dest, zk, commandeOptions) => {
 
 
   var { repondre, arg, verifGroupe, superUser, verifAdmin } = commandeOptions;
@@ -698,7 +661,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'FLASH-MD-tag',
+          pack: 'Bmw-mdtag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -764,7 +727,7 @@ zokou({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, z
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *FLASH-MD App* 』\n\n*Name :* " + appData.name +
+      "『 *Bmw-Md Application* 』\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +
