@@ -1232,7 +1232,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault('Nairobi/Kenya');
+    moment.tz.setDefault("Africa/Nairobi");
 
 // Créer une date et une heure en EAT
 const temps = moment().format('HH:mm:ss');
