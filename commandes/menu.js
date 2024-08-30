@@ -1275,6 +1275,9 @@ const date = moment().format('DD/MM/YYYY');
  ⨀https://github.com/carl24tech 
    𝗘𝗡𝗝𝗢𝗬 𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
 └─────═━┈┈━═──═━┈┈━═─────⊷
+
+
+
 ╭───────────────────❒
 │BOT COMMANDS❒⁠⁠⁠⁠
 │CYBERION❒⁠⁠
@@ -1283,7 +1286,7 @@ const date = moment().format('DD/MM/YYYY');
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────○■* *${cat}* *■⊷*`;
+        menuMsg += `*╭────■* *${cat}* *■⊷*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
 *●* ${cmd}`;
