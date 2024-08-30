@@ -27,7 +27,8 @@
   
 
 
-##𝑭𝑶𝑳𝑳𝑶𝑾 𝑻𝑯𝑬 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝑺𝑻𝑬𝑷𝑺 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵-𝑽1
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
   
