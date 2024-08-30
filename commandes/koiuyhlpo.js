@@ -6,7 +6,7 @@ const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
-zokou({ nomCom: "menu3", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "spark", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//france");
     var coms = {};
@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《Carl-Shark MD》────☣
+╭────《CYBERION-V1》────☣
 |🔱 *User* : ${s.OWNER_NAME}
 |🔱 *Mode* : ${mode}
 |🔱 *Commands* : ${cm.length} 
@@ -46,21 +46,24 @@ const date = moment().format('DD/MM/YYYY');
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────❇* *${cat}* *❇⊷*`;
+        menuMsg += `*╭────□* *${cat}* *□⊷*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-*|* ${cmd}`;
+*○* ${cmd}`;
         }
         menuMsg += `
-*☑═════════════✴* \n`
+*◇═════════════◇* \n`
     }
 
     menuMsg += `
-◇            ◇
+           
 *————— ✨ —————*
 
-  *ᴄᴀʀʟ ᴡɪʟʟɪᴀᴍ 2024🎇*                                         
-*✔═════════════✔*
+  
+
+
+  
+*◇═════════════◇*
 `;
 
    var lien = mybotpic();
