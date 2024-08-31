@@ -91,7 +91,7 @@ else {
 }
 });
 
-zokou({ nomCom: "curl", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "host", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
