@@ -1,3 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const { zokou } = require("../framework/zokou");
 const canvacord = require("canvacord");
 const {uploadImageToImgur} = require("../framework/imgur")
