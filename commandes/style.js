@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function apply(map, text) {
     let result = "";
     for (let character of text.split("")) {
