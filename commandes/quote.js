@@ -1,3 +1,50 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const { zokou } = require('../framework/zokou');
 
 zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
@@ -13,7 +60,7 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   CARL-SHARK-MD              ║
+║   CYBERION-V1             ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
@@ -33,7 +80,7 @@ Powered by *Carl William*`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   CARL-SHARK-MD               ║
+║   CYBERION-V1               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
