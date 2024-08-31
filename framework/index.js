@@ -1,3 +1,5 @@
+
+
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.genererNomFichier = exports.stick = exports.format = exports.styletext = exports.zJson = exports.getBuffer = exports.reaction = exports.police = exports.zokou = void 0;
