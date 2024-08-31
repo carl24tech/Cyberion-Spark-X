@@ -1,3 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const {zokou} = require("../framework/zokou");
 const conf = require("../set");
 const {getMessagesAndXPByJID,getBottom10Users} = require("../bdd/level");
@@ -135,7 +232,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ CARL-TECH Ranking┗━━━┓
+┏━━━┛ CYBERION-V1 Ranking┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -211,7 +308,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛☆CARL-TECH☆ ┗━━━┓
+┏━━━┛☆CYBERION-V1 ☆ ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
