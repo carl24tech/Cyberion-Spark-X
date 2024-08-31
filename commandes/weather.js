@@ -1,3 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const {
   zokou
 } = require("../framework/zokou");
@@ -22,5 +45,5 @@ zokou({
   const _0x39a4af = _0x4bfc6.clouds.all;
   const _0x41b2f8 = new Date(_0x4bfc6.sys.sunrise * 0x3e8);
   const _0x4393a0 = new Date(_0x4bfc6.sys.sunset * 0x3e8);
-  await _0xecdf09(" *CARL-SHARK-MD WEATHER UPDATES* \n\n❄️ Weather in " + _0x3cf19a + "\n\n🌡️ *Temperature:* " + _0x52e997 + "°C\n📝 *Description:* " + _0x32180e + "\n❄️ *Humidity:* " + _0x2da493 + "%\n🌀 *Wind Speed:* " + _0x368581 + " m/s\n🌧️ *Rain Volume (last hour):* " + _0x28a97c + " mm\n☁️ *Cloudiness:* " + _0x39a4af + "%\n🌄 *Sunrise:* " + _0x41b2f8.toLocaleTimeString() + "\n🌅 *Sunset:* " + _0x4393a0.toLocaleTimeString() + "\n🌫️ *Latitude:* " + _0x4bfc6.coord.lat + "\n🌪️ *Longitude:* " + _0x4bfc6.coord.lon + "\n\n🗺 *Country:* " + _0x4bfc6.sys.country + "\n\n\n*°Powered by BELTAH-MD*");
+  await _0xecdf09(" *Cyberion-V1 WEATHER UPDATES* \n\n❄️ Weather in " + _0x3cf19a + "\n\n🌡️ *Temperature:* " + _0x52e997 + "°C\n📝 *Description:* " + _0x32180e + "\n❄️ *Humidity:* " + _0x2da493 + "%\n🌀 *Wind Speed:* " + _0x368581 + " m/s\n🌧️ *Rain Volume (last hour):* " + _0x28a97c + " mm\n☁️ *Cloudiness:* " + _0x39a4af + "%\n🌄 *Sunrise:* " + _0x41b2f8.toLocaleTimeString() + "\n🌅 *Sunset:* " + _0x4393a0.toLocaleTimeString() + "\n🌫️ *Latitude:* " + _0x4bfc6.coord.lat + "\n🌪️ *Longitude:* " + _0x4bfc6.coord.lon + "\n\n🗺 *Country:* " + _0x4bfc6.sys.country + "\n\n\n*°Powered by BELTAH-MD*");
 });
