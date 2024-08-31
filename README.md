@@ -19,9 +19,10 @@
 
   
 
- 
-   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=😭+𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+😢+😩)](https://git.io/typing-svg)
+
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
