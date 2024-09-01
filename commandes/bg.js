@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-┏❏ ⌜ *Cyberion V1 CRASHER* ⌟  ❐
+┏●■ ⌜ *Cyberion V1 BUGGER* ⌟  ■
 ❐ bug
 ❐ crash
 ❐ loccrash
@@ -65,7 +65,7 @@ let menuMsg = `
 
 
 ╭───────────────────❒
-│Credit to devibraah❒⁠⁠⁠⁠
+│CYBERION V1 🐛BUGMENU❒⁠⁠⁠⁠
 │CARLTECH❒⁠⁠
 ⁠⁠⁠⁠╰───────────────────❒
 
