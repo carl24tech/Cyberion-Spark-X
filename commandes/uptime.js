@@ -90,7 +90,7 @@ function _0x4925() {
         'To\x20check\x20r',
         'sdsWy',
         'toFixed',
-        'D\x20is:\x20',
+        '\x20is:\x20',
         'DDxeJ',
         'YLmEC',
         'oldyc',
@@ -240,7 +240,7 @@ zokou({
     'nomCom': _0x65381a(0x119),
     'desc': _0x65381a(0x103) + _0x65381a(0x10c),
     'Categorie': _0x65381a(0xf3),
-    'reaction': '🌍',
+    'reaction': '💬',
     'fromMe': _0x65381a(0xc6)
 }, async (_0x42052a, _0x2cadb5, _0x100e6b) => {
     const _0xa057a9 = _0x65381a, _0x222d40 = {
