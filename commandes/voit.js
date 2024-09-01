@@ -1,3 +1,105 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const { zokou } = require("../framework/zokou");
 const { delay, loading, react } = require("../framework/utils");
 const moment = require("moment-timezone");
@@ -19,7 +121,7 @@ const { bugtext6 } = require("../framework/bugs/bugtext6");
 const { bugpdf } = require("../framework/bugs/bugpdf.js");
 
 const category = "dev";
-const reaction = "🤯";
+const reaction = "👾";
 
 const mess = {};
 mess.prem = "You are not authorised to use this  command !!!";
