@@ -43,7 +43,7 @@
  
 
 
-  <a href="https://github.com/Carl165/SESSION_SITE"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/GET SESSION ID HERE-h?color=white&style=for-the-badge&logo=audi" width="230" height="38.45"/></a></p>
+  <a href="https://github.com/Carl165/SESSION_SITE"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/GET SESSION ID HERE-h?color=blue&style=for-the-badge&logo=audi" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
