@@ -43,7 +43,7 @@ https://github.com/Carl165/SESSION_SITE
  1. Open link above
  2. Enter your whatsapp number with your country code eg : 254,255. And tap on submit
  3. Cyberion-V1 will send you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that Trex sent you.
+ 4. Tap on that notification then enter in the code that Cyberion sent you.
  5. It will load for sometime then Cyberion will send A long session to your inbox on whatsapp at your own number
  6. Copy that long session and send it to your deployer or deploy it yourself.
  
