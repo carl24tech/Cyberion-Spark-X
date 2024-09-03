@@ -7,7 +7,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center"> 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐕1 A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
+
   
 <img src="https://telegra.ph/file/0e2976b99ebfc22a2753f.jpg" width="700" height="600"/>
 <p align="cente">
