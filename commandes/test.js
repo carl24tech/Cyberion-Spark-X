@@ -6,7 +6,7 @@ zokou({ nomCom: "repo", reaction: "🥴", nomFichier: __filename }, async (dest,
     let z = '𝗧𝗛𝗘 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦🗿𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡 𝗕𝗬 𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛😎  \n\n ' + "𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡 𝗥𝗘𝗣𝗢*";
     let d = 'https://github.com/carl24tech/Cyberion-V1';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/6e44a1d716ebdfa1dd2ca.jpg';
+    var img = 'https://telegra.ph/file/506033ba9c46afad117f8.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
