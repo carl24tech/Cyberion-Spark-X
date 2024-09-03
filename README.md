@@ -25,7 +25,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=RockstarExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=𝗞𝗜𝗡𝗗𝗟𝗬+𝗥𝗘𝗔𝗗+𝗥𝗘𝗣𝗢+𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=RockstarExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=600&height=60&lines=𝗞𝗜𝗡𝗗𝗟𝗬+𝗥𝗘𝗔𝗗+𝗥𝗘𝗣𝗢+𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦)](https://git.io/typing-svg)
 
 
 
