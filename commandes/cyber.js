@@ -20,19 +20,22 @@ zokou({ nomCom: "cyberion", categorie: "General" }, async (dest, zk, commandeOpt
             coms[com.categorie] = [];
         coms[com.categorie].push(com.nomCom);
     });
-    moment.tz.setDefault('Etc/GMT');
+    
+    moment.tz.setDefault("Africa/Nairobi");
+    
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
+ Welcome: ${nomAuteurMessage}
 ╭━━〔 *${s.BOT}* 〕━━┈⊷
 ┃⊛╭───────────
 ┃⊛│◆ 𝗢𝘄𝗻𝗲𝗿 : ${s.OWNER_NAME}
 ┃⊛│◆ 𝗣𝗿𝗲𝗳𝗶𝘅 : [ ${s.PREFIXE} ] 
 ┃⊛│◆ 𝗠𝗼𝗱𝗲 : *${mode}*
-┃⊛│◆ 𝗥𝗮𝗺  : 𝟴/𝟭𝟯𝟮 𝗚𝗕
+┃⊛│◆ 𝗥𝗮𝗺  : *${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}*
 ┃⊛│◆ 𝗗𝗮𝘁𝗲  : *${date}* 
-┃⊛│◆ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 :  𝗟𝗶𝗻𝘂𝘅
+┃⊛│◆ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 :  ${os.platform}
 ┃⊛│◆ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : ℂ𝔸ℝ𝕃𝕋𝔼ℂℍ
 ┃⊛└───────────☆
 ╰──────────────☆\n${readmore}`;
