@@ -70,7 +70,7 @@
 
     https://dashboard.heroku.com/new?template=
  
- 𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐖𝐀𝐓𝐂𝐇 𝐇𝐎𝐖 𝐓𝐎 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
+## 𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐖𝐀𝐓𝐂𝐇 𝐇𝐎𝐖 𝐓𝐎 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
  
  [`𝐕𝐈𝐃𝐄𝐎`](https://files.fm/f/hqnjmf6v4z)
 
@@ -106,15 +106,15 @@ _`CYBERION-V1 FEATURES`_
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-   CONTACT CARLTECH HERE
+## CONTACT CARLTECH HERE
    
 ➡️➡️[`𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
 
 
-<img src="https://telegra.ph/file/8b604ffc937bd694516a9.jpg" widh="400" height="400" />
+<img src="https://telegra.ph/file/03d3bd6a24603fdda75f0.jpg" widh="400" height="400" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-AND THANKS TO MY LIL BRO
+## AND THANKS TO MY LIL BRO
 
 
 <img src="https://telegra.ph/file/df9564dcca7b1db84fd51.jpg" widh="400" height="400" />
