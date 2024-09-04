@@ -117,4 +117,4 @@ _`CYBERION-V1 FEATURES`_
 AND THANKS TO MY LIL BRO
 
 
-<img src="https://telegra.ph/file/34d9e1797802c5c866246.jpg" widh="400" height="400" />
+<img src="https://telegra.ph/file/df9564dcca7b1db84fd51.jpg" widh="400" height="400" />
