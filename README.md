@@ -10,21 +10,15 @@
 
   
 <img src="https://telegra.ph/file/0e2976b99ebfc22a2753f.jpg" width="700" height="600"/>
-<p align="cente">
-  <a href="https://github.com/carl24tech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?label=Followers&style=social"></a>
-  <a href="https://github.com/carl24tech/Cyberion-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-V1?&style=social"></a>
-  <a href="https://github.com/carl24tech/Cyberion-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/carl24tech/Cyberion-V1?style=social"></a>
-  <a href="https://github.com/carl24tech/Cyberion-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/carl24tech/Cyberion-V1?label=Watching&style=social"></a>
-</p>></a>
+
+
 
   
 
 
 
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=800&height=60&lines=𝗗𝗢𝗡`𝗧+𝗖𝗟𝗢𝗡𝗘+𝗧𝗢+𝗔𝗩𝗢𝗜𝗗+𝗬𝗢𝗨𝗥+𝗥𝗘𝗣𝗢+𝗦𝗨𝗦𝗣𝗘𝗡𝗦𝗜𝗢𝗡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=790&height=60&lines=𝗗𝗢𝗡`𝗧+𝗖𝗟𝗢𝗡𝗘+𝗧𝗢+𝗔𝗩𝗢𝗜𝗗+𝗬𝗢𝗨𝗥+𝗥𝗘𝗣𝗢+𝗦𝗨𝗦𝗣𝗘𝗡𝗦𝗜𝗢𝗡)](https://git.io/typing-svg)
 
 
 
