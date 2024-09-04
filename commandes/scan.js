@@ -36,7 +36,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
  
-https://github.com/Carl165/SESSION_SITE 
+https://github.com/carl24tech/SESSION-SITE 
  
  *STEPS TO GET SESSION ID*
  
