@@ -84,21 +84,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-_`CYBERION-V1 FEATURES`_
 
 
-| Feature                          | Description                                             | Available    | Version    |
-| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 2.1.0       |
-| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 2.1.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅️          | 1.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 1.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 1.0        |
-| Anime Commands                   | Explore anime-related commands and features             | ✅           | 2.1.0        |
-| Bot Control Commands             | Control Bot Without Opening Deploy Platform             | ✅           | 2.1.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 1.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
-| Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
+
+
 
 
 
@@ -107,8 +96,9 @@ _`CYBERION-V1 FEATURES`_
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## CONTACT CARLTECH HERE
-   
-➡️➡️[`𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
+  CONTACT ME FOR ANY ISSUE
+
+   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="240" height="38.45"/></a></p>
 
 
 <img src="https://telegra.ph/file/03d3bd6a24603fdda75f0.jpg" widh="400" height="400" />
