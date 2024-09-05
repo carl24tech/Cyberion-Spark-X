@@ -39,7 +39,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃⊛│◆ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : 𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛
 ┃⊛└───────────☆
 ╰──────────────☆\n${readmore}`;
-    let menuMsg = `CREATED BY`;
+    let menuMsg = `CREATED BY CARLTECH`;
     for (const cat in coms) {
         menuMsg += `
 ╭──「 *${cat}* 」──✫ 
@@ -54,7 +54,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰────────────┈⊷`
     }
     menuMsg += `
-> CARLTECH\n
+> CARLTECH PROJECT 2024\n
 `;
    var lien = mybotpic();
    if (lien.match(/\.(mp4|gif)$/i)) {
