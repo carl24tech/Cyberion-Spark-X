@@ -3876,7 +3876,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
- 👋 *Hello* : ${nomAuteurMessage} welcome to Cyberion V1 menu kindly read the plugin list before commanding the bot but remember that some commands are reserved for ${S.OWNER_NAME}
+ 👋 *Hello* : ${nomAuteurMessage} welcome to Cyberion V1 menu kindly read the plugin list before commanding the bot but remember that some commands are reserved for my owner.
 
 
 ┏───────────────⊷
