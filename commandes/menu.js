@@ -3875,8 +3875,10 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-┏────────────────⊷
- 👋 *Hello* : ${nomAuteurMessage} welcome to Cyberion V1 menu kindly read the plugin list before commanding the bot
+
+ 👋 *Hello* : ${nomAuteurMessage} welcome to Cyberion V1 menu kindly read the plugin list before commanding the bot but remember that some commands are reserved for ${S.OWNER_NAME}
+
+
 ┏───────────────⊷
 ┇ 『𝗠𝗔𝗜𝗡』
 ┇  🌐 *Mode* : 【${mode}】
