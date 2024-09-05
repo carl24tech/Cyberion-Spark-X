@@ -1,11 +1,12 @@
-##                                            𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵-𝑽1 𝑩𝒀 𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯 𝑽𝑬𝑹𝑺𝑰𝑶𝑵 6.1.0
-
- 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THE+CYBERION-V1;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+CARL+;RELEASED+2.8.2024;ENJOY" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵+𝑽1+𝑪𝑹𝑨𝑻𝑬𝑫+𝑩𝒀+𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯)](https://git.io/typing-svg) 
+
+
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
