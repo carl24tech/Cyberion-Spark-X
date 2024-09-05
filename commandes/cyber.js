@@ -39,7 +39,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃⊛│◆ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : ${S.OWNER_NAME}
 ┃⊛└───────────☆
 ╰──────────────☆\n${readmore}`;
-    let menuMsg = `CREATED BY CARLTECH`;
+    let menuMsg = `CREATED BY`;
     for (const cat in coms) {
         menuMsg += `
 ╭──「 *${cat}* 」──✫ 
@@ -54,7 +54,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰────────────┈⊷`
     }
     menuMsg += `
-> CYBERION-V1 BY CARLTECH https://wa.link/c9qf2z\n
+> CARLTECH\n
 `;
    var lien = mybotpic();
    if (lien.match(/\.(mp4|gif)$/i)) {
