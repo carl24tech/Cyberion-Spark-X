@@ -103,11 +103,5 @@
 
    <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="240" height="38.45"/></a></p>
 
-
-<img src="https://telegra.ph/file/03d3bd6a24603fdda75f0.jpg" widh="400" height="400" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## AND THANKS TO MY LIL BRO
-
-
-<img src="https://telegra.ph/file/df9564dcca7b1db84fd51.jpg" widh="400" height="400" />
