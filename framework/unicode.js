@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 module.exports = new StyleText();
 function StyleText() {
   this.tools = {
