@@ -35,7 +35,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
 ┏── ⌜ *Cyberion V1 BUGGER* ⌟ ───□
-┇    ───────────────────
+┇   □───────────────────□
 ☆ bug
 ★ crash
 ☆ loccrash
