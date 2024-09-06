@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "host", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "channels", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -48,7 +48,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://t.me.carlltecch 
 
 *For more info*
-> https://github.com/Carl165/CARLTECH-INFO 
+> https://github.com/carl24tech/CARLTECH-INFO 
   `;
     
 let menuMsg = `
