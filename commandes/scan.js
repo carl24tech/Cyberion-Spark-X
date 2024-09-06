@@ -27,25 +27,25 @@ zokou({ nomCom: "scan", categorie: "General" }, async (dest, zk, commandeOptions
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault('Etc/GMT');
+    moment.tz.setDefault('Africa/Nairobi');
 
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
- *Tap on the link to get session*
+ *THE GIVEN LINK TAKES YOU TO THE SESSION SITE*
  
 https://github.com/carl24tech/SESSION-SITE 
  
- *STEPS TO GET SESSION ID*
+ *𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐀𝐁𝐎𝐕𝐄 𝐒𝐓𝐄𝐏𝐒 𝐀𝐍𝐃 𝐎𝐁𝐓𝐀𝐈𝐍 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃*
  
- 1. Open link above
- 2. Enter your whatsapp number with your country code eg : 254,255. And tap on submit
- 3. Cyberion-V1 will send you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that Cyberion sent you.
- 5. It will load for sometime then Cyberion will send A long session to your inbox on whatsapp at your own number
- 6. Copy that long session and send it to your deployer or deploy it yourself.
+ ☆. Open link above
+ ★. Enter your whatsapp number with your country code eg : 254,255. And tap on submit
+ ☆. Cyberion-V1 will send you a code. Copy that code. Then whatsapp will sent Notification
+ ★. Tap on that notification then enter in the code that Cyberion sent you.
+ ☆. It will load for sometime then Cyberion will send A long session to your inbox on whatsapp at your own number
+ ★. Copy that long session and send it to your deployer or deploy it yourself.
  
  ╭───────────────────❒
  │ CYBERION❒⁠⁠⁠⁠
