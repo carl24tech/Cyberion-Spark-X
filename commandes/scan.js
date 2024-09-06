@@ -27,7 +27,7 @@ zokou({ nomCom: "scan", categorie: "General" }, async (dest, zk, commandeOptions
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault('Africa/Nairobi');
+    moment.tz.setDefault("Africa/Nairobi");
 
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
