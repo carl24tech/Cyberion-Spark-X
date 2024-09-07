@@ -24,7 +24,7 @@ zokou({ nomCom: "spark", categorie: "General" }, async (dest, zk, commandeOption
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault('EAT');
+    moment.tz.setDefault("Africa/Nairobi");
 
 // Créer une date et une heure en EAT
 const temps = moment().format('HH:mm:ss');
