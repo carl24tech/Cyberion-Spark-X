@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-┏── ⌜*👾Cyberion V1 BUGGER👾* ⌟ ───□
+┏── ⌜*Cyberion V1 BUGGER* ⌟ ───□
 ┇   □───────────────────□
 ☆ bug
 ★ crash
@@ -65,14 +65,13 @@ let menuMsg = `
   
 
 
-╭───────────────────❒
-│👾CYBERION V1🐛BUGMENU❒⁠⁠⁠⁠
-│💫PROJECT☢️ CARLTECH🕵❒⁠⁠
-⁠⁠⁠⁠╰───────────────────❒
+╭─────────────────□□□
+│
+│
+⁠⁠⁠⁠╰─────────────────□□□
 
-> Lol just a reminder mehn this menu is meant to work on scammers destroy their fvcking whatsapps and destroy their phones..DISCLAIMER ⚠ CARLTECH is not responsible of any misusage of the bugbot,use carefully and with a thought kindly 🗒 not that every command here is meant for whatsapp crashing,so take care not to use it on yourself👀
-
- `;
+> CARLTECH 
+`;
 
    var lien = mybotpic();
 
