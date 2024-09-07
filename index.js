@@ -858,33 +858,33 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 CONNECTED 』*
+*『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘』*
 
  
 ┌─────═━┈┈━═─────┐    
-║❒Creator: *CARLTECH*
-║❒Prefix : [ ${prefixe} ]
-║❒Mode :${md}
-║❒Created on : *22.5.2024*
-║❒Total Commands : ${evt.cm.length}︎
+|□Creator: *CARLTECH*
+|■Prefix : [ ${prefixe} ]
+|□Mode :${md}
+|■Created on : *27.8.2024*
+|☆Total Commands : ${evt.cm.length}︎
 └─────═━┈┈━═─────┘
    
  
 
 
-║❒ *JOIN OUR WhatsApp*
+☆ *JOIN OUR WhatsApp*
 https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
-║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/254770954948
+☆ *CONTACT THE DEVELOPER* 🕵️ 
+https://wa.link/c9qf2z
 
-║❒ *TELEGRAM*
+☆ *TELEGRAM*
 https://t.me.carlltecch 
 
 
 
 
-              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*`;
+              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
