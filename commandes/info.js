@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "info", catégorie:"Général", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "gitdata", catégorie:"General", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/info/carl24tech/Cyberion-V1';
   const img = 'https://telegra.ph/file/0e2976b99ebfc22a2753f.jpg';
 
