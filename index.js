@@ -858,15 +858,15 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘』*
+*☢️𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘🌐*
 
  
 ┌─────═━┈┈━═─────┐    
-|□Creator: *CARLTECH*
-|■Prefix : [ ${prefixe} ]
-|□Mode :${md}
-|■Created on : *27.8.2024*
-|☆Total Commands : ${evt.cm.length}︎
+| 🕵Creator: *CARLTECH*
+| 💫Prefix : [ ${prefixe} ]
+| 📱Mode :${md}
+| 📊Created on : *27.8.2024*
+| 📃Total Commands : ${evt.cm.length}︎
 └─────═━┈┈━═─────┘
    
  
