@@ -861,24 +861,24 @@ ${metadata.desc}
 *☢️𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘🌐*
 
  
-┌─────═━┈┈━═─────┐    
-| 🕵Creator: *CARLTECH*
-| 💫Prefix : [ ${prefixe} ]
-| 📱Mode :${md}
-| 📊Created on : *27.8.2024*
-| 📃Total Commands : ${evt.cm.length}︎
-└─────═━┈┈━═─────┘
+   ■───────────────────■   
+   🕵Creator: *CARLTECH*
+   💫Prefix : [ ${prefixe} ]
+   📱Mode : ${md}
+   📊Created on : *27.8.2024*
+   📃Total Commands : ${evt.cm.length}︎
+   ■───────────────────■
    
  
 
 
-☆ *JOIN OUR WhatsApp*
+🪀 *FOLLOW OUR WhatsApp updates Channel*
 https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
-☆ *CONTACT THE DEVELOPER* 🕵️ 
+☎️ *CONTACT THE DEVELOPER* 🕵️ 
 https://wa.link/c9qf2z
 
-☆ *TELEGRAM*
+🖇 *TELEGRAM*
 https://t.me.carlltecch 
 
 
