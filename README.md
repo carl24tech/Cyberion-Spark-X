@@ -14,7 +14,7 @@
 
 
   
-<img src="https://telegra.ph/file/0e2976b99ebfc22a2753f.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/0e2976b99ebfc22a2753f.jpg" width="700" height="700"/>
 
 
 
