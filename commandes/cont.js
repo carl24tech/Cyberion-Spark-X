@@ -42,15 +42,15 @@ const date = moment().format('DD/MM/YYYY');
  
  ☆. Ibrahim Adams:
  
- > The Right hand man that took part in the development of Cyberion V1 and gave the every needed assistance.
+ ● The Right hand man that took part in the development of Cyberion V1 and gave the every needed assistance.
  
  ★. CARLTECH:
  
- > He is the individual who came up with a great idea of generating Cyberion V1.
+ ● He is the individual who came up with a great idea of generating Cyberion V1.
  
  ☆ Devibraah:
  
- > He is the official provider of the base where Cyberion V1 runs.
+ ● He is the official provider of the base where Cyberion V1 runs.
  
  ╭───────────────────❒
  │ CYBERION❒⁠⁠⁠⁠
