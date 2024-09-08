@@ -34,18 +34,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
- *HELLO DEAR THE ABOVE ARE THE CONTRIBUTORS ON THUS PROJECT*
+ *HELLO DEAR THE ABOVE ARE THE CONTRIBUTORS ON THIS PROJECT*
  
  
  
 *𝐊𝐢𝐧𝐝𝐥𝐲 𝐤𝐧𝐨𝐰 𝐭𝐡𝐢𝐬*
  
  ☆. Ibrahim Adams:
+ 
  > The Right hand man that took part in the development of Cyberion V1 and gave the every needed assistance.
+ 
  ★. CARLTECH:
- > He was the individual who came up with a great idea of generating Cyberion V1.
+ 
+ > He is the individual who came up with a great idea of generating Cyberion V1.
+ 
  ☆ Devibraah:
+ 
  > He is the official provider of the base where Cyberion V1 runs.
+ 
  ╭───────────────────❒
  │ CYBERION❒⁠⁠⁠⁠
  │ CARLTECH❒⁠⁠
