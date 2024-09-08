@@ -34,27 +34,27 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-┏── ⌜*Cyberion V1 BUGGER* ⌟ ───□
+┏── ⌜*👾Cyberion V1 BUGGER👾* ⌟ ───□
 ┇   □───────────────────□
-☆ bug
-★ crash
-☆ loccrash
-★ amountbug <amount>
-☆ crashbug 254XXXX
-★ pmbug 254XXXX
-☆ delaybug 254XXXX
-★ trollybug 254XXXX
-☆ docubug 254XXXX
-★ unlimitedbug 254XXXX
-☆ bombug 254XXXX
-★ lagbug 254XXXX
-☆ gcbug <grouplink>
-★ delaygcbug <grouplink>
-☆ trollygcbug <grouplink>
-★ laggcbug <grouplink>
-☆ bomgcbug <grouplink>
-★ unlimitedgcbug <grouplink>
-☆ docugcbug <grouplink>
+⛔️ bug
+🛃 crash
+🕵 loccrash
+⚡️ amountbug <amount>
+🔎 crashbug 254XXXX
+🛄 pmbug 254XXXX
+🛅 delaybug 254XXXX
+🪫 trollybug 254XXXX
+🔥 docubug 254XXXX
+⛓️‍💥 unlimitedbug 254XXXX
+👽 bombug 254XXXX
+🤖 lagbug 254XXXX
+☠️ gcbug <grouplink>
+🤡 delaygcbug <grouplink>
+👹 trollygcbug <grouplink>
+💀 laggcbug <grouplink>
+👺 bomgcbug <grouplink>
+🐛 unlimitedgcbug <grouplink>
+☄️ docugcbug <grouplink>
 
 > ⌚️ *TIME* : ${temps}
 > 📅 *DATE* : ${date} `;
@@ -66,11 +66,11 @@ let menuMsg = `
 
 
 ╭─────────────────□□□
-│
-│
+│▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+│✩̣̣̣̣̣ͯ┄•͙✧⃝•͙┄✩ͯ•͙͙✧⃝•͙͙✩ͯ┄•͙✧⃝•͙┄✩̣̣̣̣̣ͯ
 ⁠⁠⁠⁠╰─────────────────□□□
 
-> CARLTECH 
+> ◢◤◢◤◢◤◢◤◢◤◢◤◢◤CARLTECH◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 `;
 
    var lien = mybotpic();
