@@ -867,11 +867,10 @@ ${metadata.desc}
    ┋ 💫Prefix : [${prefixe}]
    ┋ 📱Mode : ${md}
    ┋ 📊Created on : *27.8.2024*
-   ┋ 📃Total Commands : ${evt.cm.length}                                                                                               |
+   ┋ 📃Total Commands : ${evt.cm.length}                                                                                            |
    ⁠⁠⁠⁠╰───────────────────❒
-
-*CONTACT CARLTECH*
-https://wa.link/c9qf2z
+   *CONTACT CARLTECH*
+   https://wa.link/c9qf2z
 
       *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
