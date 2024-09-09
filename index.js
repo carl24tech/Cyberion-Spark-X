@@ -867,9 +867,7 @@ ${metadata.desc}
    ┋ 💫Prefix : [ ${prefixe} ]
    ┋ 📱Mode : ${md}
    ┋ 📊Created on : *27.8.2024*
-   ┋ 📃Total Commands : ${evt.cm.length}
-   ︎┋ ⌚️time :  ${temps}
-   ┋ 💻Platform : ${os.platform}                                                                                              |
+   ┋ 📃Total Commands : ${evt.cm.length}                                                                                               |
    ⁠⁠⁠⁠╰───────────────────❒
 
       *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1*`;
