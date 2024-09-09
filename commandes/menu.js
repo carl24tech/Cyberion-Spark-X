@@ -3876,9 +3876,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
- 👋 *Hello* : ${nomAuteurMessage} welcome to Cyberion V1 menu kindly read the plugin list before commanding the bot but beware that some commands are strictly reserved for my owner.
-
-
+ 👋 *Hello* : ${nomAuteurMessage} welcome to Cyberion V1 menu📃
 ┏───────────────⊷
 ┇ 『𝗠𝗔𝗜𝗡』
 ┇  🌐 *Mode* : 【${mode}】
@@ -3909,25 +3907,12 @@ const date = moment().format('DD/MM/YYYY');
  
     let menuMsg=` 
 ┌─────═━┈┈━═─═━┈┈━═─────⊷
-┇ 『𝗦𝗨𝗣𝗣𝗢𝗥𝗧』
-┇  ─┉┈◈◉◈┈┉
-┇  🪀 Whatsapp:
-┇  ✪https://wa.me/254770954948
-┇
-┇  📥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :
-┇  ⚉https://t.me.carlltecch
-┇
-┇  🟢 WACHANNEL :
-┇  ⚉https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
-
-┇  🐈‍⬛ 𝗚𝗜𝗧𝗛𝗨𝗕1:
-┇  ⨀https://github.com/carl24tech 
-┇  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-┇  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+┇   ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+┇  ▄▄✩̣̣̣̣̣ͯ┄•͙✧⃝•͙┄✩ͯ•͙͙✧⃝•͙͙✩ͯ┄•͙✧⃝•͙┄✩̣̣̣̣̣ͯ▄▄▄
 └─────═━┈┈━═──═━┈┈━═────⊷
-
-
-
+◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
+> CYBERION-V1 BY CARLTECH 
+◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
 ╭───────────────────⊷❒
 │BOT COMMANDS❒⁠⁠⁠⁠
 │CYBERION V1❒⁠⁠
@@ -3951,10 +3936,10 @@ const date = moment().format('DD/MM/YYYY');
 
 
    
-   *▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄*
+   *▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀*
     *✩̣̣̣̣̣ͯ┄•͙✧⃝•͙┄✩ͯ•͙͙✧⃝•͙͙✩ͯ┄•͙✧⃝•͙┄✩̣̣̣̣̣ͯ*
-   *▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄*
-   
+   *▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀*
+
      *ᴄᴀʀʟᴛᴇᴄʜ 2024🏆* 
 *❒───────────────────❒*
 `;
