@@ -3916,6 +3916,8 @@ const date = moment().format('DD/MM/YYYY');
 │BOT COMMANDS❒⁠⁠⁠⁠
 │CYBERION V1❒⁠⁠
 ⁠⁠⁠⁠╰───────────────────⊷❒
+> BOT CHANNEL : https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
+
 > CARLTECH PROJECT 2024🎖
 `;
 
