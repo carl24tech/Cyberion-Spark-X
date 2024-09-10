@@ -1,120 +1,428 @@
-const { zokou } = require("../framework/zokou");
-const axios = require("axios");
-const Genius = require("genius-lyrics");
-const Client = new Genius.Client("jKTbbU-6X2B9yWWl-KOm7Mh3_Z6hQsgE4mmvwV3P3Qe7oNa9-hsrLxQV5l5FiAZO");
 
-zokou({
-  'nomCom': "bible",
-  'reaction': '📖',
-  'categorie': "General"
-}, async (message, sender, args) => {
-  const { repondre: respond, arg: arguments, ms: metadata } = args;
-  const searchQuery = arguments.join(" ");
-  if (!searchQuery) {
-    return respond("Please specify the book, the chapter and the verse you want to read. Example: bible Romans 6:23");
-  }
-  let response = await fetch("https://bible-api.com/" + searchQuery);
-  if (!response.ok) {
-    return respond("Please specify the chapter number or name. Example: bible john 3:16");
-  }
-  let data = await response.json();
-  let replyText = "📖 *THE HOLY BIBLE*\n\n📜 *_IN THE BOOK OF:_* " + data.reference + "\n\n🔢 *_NUMBER OF VERSES:_* " + data.verses.length + "\n\n🤍 *_NOW READ:_* " + data.text + "\n\n🌍 *_LANGUAGE_:* " + data.translation_name + "\n\n\n╭────────────────◆\n│ *_POWEREDBY CARLTECH._*\n╰─────────────────◆";
-  await respond(replyText);
-});
 
-zokou({
-  'nomCom': "poll",
-  'reaction': '✨',
-  'categorie': "General"
-}, async (message, sender, args) => {
-  const { repondre: respond, arg: arguments, ms: metadata } = args;
-  const pollContent = arguments.join(" ");
-  let [question, options] = pollContent.split('/');
-  if (pollContent.split('/').length < 2) {
-    return respond("Incorrect format.\nExample: poll what is 1+1/2, 3, 4");
-  }
-  let optionsArray = [];
-  for (let option of options.split(',')) {
-    optionsArray.push(option);
-  }
-  await sender.sendMessage(message, {
-    'poll': {
-      'name': question,
-      'values': optionsArray
-    }
-  });
-});
 
-zokou({
-  'nomCom': "fact",
-  'reaction': '✌️',
-  'categorie': "User"
-}, async (message, sender, args) => {
-  const { repondre: respond, arg: arguments, ms: metadata } = args;
-  const factResponse = await fetch("https://nekos.life/api/v2/fact");
-  const factData = await factResponse.json();
-  respond("◆━━━━━━✦FACT✦━━━━━━◆ \n*◇* " + factData.fact + "\n\n\n\n\n*◇* Engine by *CARLTECH*\n\n╔═════◇\n║◇ *CYBERION FOREVER*\n╚════════════════════> ");
-});
 
-zokou({
-  'nomCom': "quotes",
-  'reaction': '🗿',
-  'categorie': "User"
-}, async (message, sender, args) => {
-  const { repondre: respond, arg: arguments, ms: metadata } = args;
-  const quoteResponse = await fetch("https://favqs.com/api/qotd");
-  const quoteData = await quoteResponse.json();
-  const quoteMessage = "\n◆━━━━━━✦QUOTE✦━━━━━━◆ \n◇ _" + quoteData.quote.body + "_\n\n\n◇ *AUTHOR:* " + quoteData.quote.author + "\n\n\n\n\n◇ _Engine by:_ *CARLTECH*\n\n\n╔═════◇\n║◇ *CYBERION FOREVER*\n╚════════════════════> ";
-  respond(quoteMessage);
-});
 
-zokou({
-  'nomCom': "define",
-  'reaction': '🧐',
-  'categorie': "Search"
-}, async (message, sender, args) => {
-  const { repondre: respond, arg: arguments, ms: metadata } = args;
-  if (!arguments || arguments.length === 0) {
-    return respond("Provide a term");
-  }
-  const term = arguments.join(" ");
-  try {
-    let { data: definitionData } = await axios.get("http://api.urbandictionary.com/v0/define?term=" + term);
-    var definitionText = "\n Word: " + term + "\n Definition: " + definitionData.list[0].definition.replace(/\[/g, '').replace(/\]/g, '') + "\n Example: " + definitionData.list[0].example.replace(/\[/g, '').replace(/\]/g, '');
-    return respond(definitionText);
-  } catch {
-    return respond("No result for " + term);
-  }
-});
 
-zokou({
-  'nomCom': "lyrics",
-  'reaction': '🎼',
-  'categorie': "Search"
-}, async (message, sender, args) => {
-  const { repondre: respond, arg: arguments, ms: metadata } = args;
-  try {
-    if (!arguments || arguments.length === 0) {
-      return respond("Uuh dear Please provide me the song name");
-    }
-    const songName = arguments.join(" ");
-    const songs = await Client.songs.search(songName);
-    const firstSong = songs[0];
-    console.log(firstSong);
-    const lyrics = await firstSong.lyrics();
-    const artist = await firstSong.artist.name;
-    const title = await firstSong.title;
-    const lyricsMessage = "*Cyberion-V1LYRICS FINDER*\n\n*TITLE* - " + title + "\n\n*ARTIST* - " + artist + "\n\n" + lyrics;
-    await sender.sendMessage(message, {
-      'image': {
-        'url': "./media/lyrics-img.jpg"
-      },
-      'caption': lyricsMessage
-    }, {
-      'quoted': metadata
-    });
-  } catch (error) {
-    respond("Error occurred: " + error);
-    console.log(error);
-  }
-});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const _0x1227d7=_0x3c4d;function _0x547b(){const _0x4371a8=['songs','2qdYflj','list','quotes','title','sendMessage','body','search','378901TPTKlb','24VYsKsd','729276iBTyOo','4VysgTZ','replace','get','https://nekos.life/api/v2/fact','fact','genius-lyrics','axios','1523208MVFKQp','\x0a\x0aðŸ¤\x20*_NOW\x20READ:_*\x20','https://bible-api.com/','bible','\x0aâ—†â”â”â”â”â”â”âœ¦QUOTEâœ¦â”â”â”â”â”â”â—†\x20\x0aâ—‡\x20_','\x0a\x0a*ARTIST*\x20-\x20','json','\x0a\x0a\x0a\x0a\x0aâ—‡\x20_Engine\x20by:_\x20*CARLTECH*\x0a\x0a\x0aâ•”â•â•â•â•â•â—‡\x0aâ•‘â—‡\x20*CYBERION\x20FOREVER*\x0aâ•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•>\x20','lyrics','https://favqs.com/api/qotd','Error\x20occurred:\x20','http://api.urbandictionary.com/v0/define?term=','\x0a\x0aðŸ”¢\x20*_NUMBER\x20OF\x20VERSES:_*\x20','name','quote','split','1749wvrcTH','Uuh\x20dear\x20Please\x20provide\x20me\x20the\x20song\x20name','text','author','\x0a\x0a\x0a\x0a\x0a*â—‡*\x20Engine\x20by\x20*CARLTECH*\x0a\x0aâ•”â•â•â•â•â•â—‡\x0aâ•‘â—‡\x20*CYBERION\x20FOREVER*\x0aâ•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•>\x20','Incorrect\x20format.\x0aExample:\x20poll\x20what\x20is\x201+1/2,\x203,\x204','4396256jdmYcD','artist','Search','143YmCApX','join','_\x0a\x0a\x0aâ—‡\x20*AUTHOR:*\x20','â—†â”â”â”â”â”â”âœ¦FACTâœ¦â”â”â”â”â”â”â—†\x20\x0a*â—‡*\x20','User','jKTbbU-6X2B9yWWl-KOm7Mh3_Z6hQsgE4mmvwV3P3Qe7oNa9-hsrLxQV5l5FiAZO','63335pvhrHf','\x0a\x20Definition:\x20','59860ErjKsZ','General','ðŸ“–\x20*THE\x20HOLY\x20BIBLE*\x0a\x0aðŸ“œ\x20*_IN\x20THE\x20BOOK\x20OF:_*\x20','\x0a\x0aðŸŒ\x20*_LANGUAGE_:*\x20','Provide\x20a\x20term','translation_name','example','length','../framework/zokou','reference','\x0a\x20Word:\x20','definition','3466449wzdmWf','Please\x20specify\x20the\x20chapter\x20number\x20or\x20name.\x20Example:\x20bible\x20john\x203:16','9ExwQEb','verses'];_0x547b=function(){return _0x4371a8;};return _0x547b();}(function(_0x1e80d1,_0x58fc75){const _0x4f287d=_0x3c4d,_0x5d8cb8=_0x1e80d1();while(!![]){try{const _0x39fd3a=parseInt(_0x4f287d(0x1c9))/0x1*(-parseInt(_0x4f287d(0x205))/0x2)+parseInt(_0x4f287d(0x1d3))/0x3*(parseInt(_0x4f287d(0x1cc))/0x4)+-parseInt(_0x4f287d(0x1f2))/0x5*(parseInt(_0x4f287d(0x1ca))/0x6)+-parseInt(_0x4f287d(0x200))/0x7+-parseInt(_0x4f287d(0x1e9))/0x8*(parseInt(_0x4f287d(0x202))/0x9)+-parseInt(_0x4f287d(0x1f4))/0xa*(-parseInt(_0x4f287d(0x1e3))/0xb)+-parseInt(_0x4f287d(0x1cb))/0xc*(-parseInt(_0x4f287d(0x1ec))/0xd);if(_0x39fd3a===_0x58fc75)break;else _0x5d8cb8['push'](_0x5d8cb8['shift']());}catch(_0xfd1519){_0x5d8cb8['push'](_0x5d8cb8['shift']());}}}(_0x547b,0x9f989));function _0x3c4d(_0x3c52e4,_0x4dbe39){const _0x547b42=_0x547b();return _0x3c4d=function(_0x3c4d7c,_0x4bea8b){_0x3c4d7c=_0x3c4d7c-0x1c8;let _0x25d231=_0x547b42[_0x3c4d7c];return _0x25d231;},_0x3c4d(_0x3c52e4,_0x4dbe39);}const {zokou}=require(_0x1227d7(0x1fc)),axios=require(_0x1227d7(0x1d2)),Genius=require(_0x1227d7(0x1d1)),Client=new Genius['Client'](_0x1227d7(0x1f1));zokou({'nomCom':_0x1227d7(0x1d6),'reaction':'ðŸ“–','categorie':'General'},async(_0x592302,_0xcf379f,_0x1cd462)=>{const _0x5eb685=_0x1227d7,{repondre:_0x48a10e,arg:arguments,ms:_0x33c357}=_0x1cd462,_0x170380=arguments[_0x5eb685(0x1ed)]('\x20');if(!_0x170380)return _0x48a10e('Please\x20specify\x20the\x20book,\x20the\x20chapter\x20and\x20the\x20verse\x20you\x20want\x20to\x20read.\x20Example:\x20bible\x20Romans\x206:23');let _0x1f5ead=await fetch(_0x5eb685(0x1d5)+_0x170380);if(!_0x1f5ead['ok'])return _0x48a10e(_0x5eb685(0x201));let _0x56cffb=await _0x1f5ead[_0x5eb685(0x1d9)](),_0x4261ee=_0x5eb685(0x1f6)+_0x56cffb[_0x5eb685(0x1fd)]+_0x5eb685(0x1df)+_0x56cffb[_0x5eb685(0x203)][_0x5eb685(0x1fb)]+_0x5eb685(0x1d4)+_0x56cffb[_0x5eb685(0x1e5)]+_0x5eb685(0x1f7)+_0x56cffb[_0x5eb685(0x1f9)]+'\x0a\x0a\x0aâ•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â—†\x0aâ”‚\x20*_POWEREDBY\x20CARLTECH._*\x0aâ•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â—†';await _0x48a10e(_0x4261ee);}),zokou({'nomCom':'poll','reaction':'âœ¨','categorie':_0x1227d7(0x1f5)},async(_0x1ad0b5,_0x3a224a,_0x4436c9)=>{const _0x89b451=_0x1227d7,{repondre:_0x29f522,arg:arguments,ms:_0x4ec740}=_0x4436c9,_0x4515b4=arguments['join']('\x20');let [_0x390e94,_0x39a376]=_0x4515b4['split']('/');if(_0x4515b4['split']('/')[_0x89b451(0x1fb)]<0x2)return _0x29f522(_0x89b451(0x1e8));let _0x5b6bc7=[];for(let _0x4120e8 of _0x39a376[_0x89b451(0x1e2)](',')){_0x5b6bc7['push'](_0x4120e8);}await _0x3a224a[_0x89b451(0x209)](_0x1ad0b5,{'poll':{'name':_0x390e94,'values':_0x5b6bc7}});}),zokou({'nomCom':_0x1227d7(0x1d0),'reaction':'âœŒï¸','categorie':_0x1227d7(0x1f0)},async(_0x57608c,_0x190b18,_0x14a2f5)=>{const _0x4f5328=_0x1227d7,{repondre:_0x9b0633,arg:arguments,ms:_0x344eee}=_0x14a2f5,_0x27f949=await fetch(_0x4f5328(0x1cf)),_0x5916ae=await _0x27f949[_0x4f5328(0x1d9)]();_0x9b0633(_0x4f5328(0x1ef)+_0x5916ae[_0x4f5328(0x1d0)]+_0x4f5328(0x1e7));}),zokou({'nomCom':_0x1227d7(0x207),'reaction':'ðŸ—¿','categorie':_0x1227d7(0x1f0)},async(_0x5334cd,_0x5607e8,_0x27f276)=>{const _0x476bce=_0x1227d7,{repondre:_0x3135e4,arg:arguments,ms:_0x5afdd4}=_0x27f276,_0x4e3ca7=await fetch(_0x476bce(0x1dc)),_0x5ac3b5=await _0x4e3ca7[_0x476bce(0x1d9)](),_0x1601d7=_0x476bce(0x1d7)+_0x5ac3b5[_0x476bce(0x1e1)][_0x476bce(0x20a)]+_0x476bce(0x1ee)+_0x5ac3b5['quote'][_0x476bce(0x1e6)]+_0x476bce(0x1da);_0x3135e4(_0x1601d7);}),zokou({'nomCom':'define','reaction':'ðŸ§','categorie':'Search'},async(_0x4bb49a,_0x4f49f1,_0x42eb23)=>{const _0x516bb1=_0x1227d7,{repondre:_0x42ccaf,arg:arguments,ms:_0x18cd79}=_0x42eb23;if(!arguments||arguments[_0x516bb1(0x1fb)]===0x0)return _0x42ccaf(_0x516bb1(0x1f8));const _0x5d5acb=arguments[_0x516bb1(0x1ed)]('\x20');try{let {data:_0x3e5929}=await axios[_0x516bb1(0x1ce)](_0x516bb1(0x1de)+_0x5d5acb);var _0x2bf7ed=_0x516bb1(0x1fe)+_0x5d5acb+_0x516bb1(0x1f3)+_0x3e5929[_0x516bb1(0x206)][0x0][_0x516bb1(0x1ff)][_0x516bb1(0x1cd)](/\[/g,'')[_0x516bb1(0x1cd)](/\]/g,'')+'\x0a\x20Example:\x20'+_0x3e5929[_0x516bb1(0x206)][0x0][_0x516bb1(0x1fa)][_0x516bb1(0x1cd)](/\[/g,'')[_0x516bb1(0x1cd)](/\]/g,'');return _0x42ccaf(_0x2bf7ed);}catch{return _0x42ccaf('No\x20result\x20for\x20'+_0x5d5acb);}}),zokou({'nomCom':_0x1227d7(0x1db),'reaction':'ðŸŽ¼','categorie':_0x1227d7(0x1eb)},async(_0x44b90f,_0x184871,_0x51b1ad)=>{const _0x4f4b9c=_0x1227d7,{repondre:_0x3fb786,arg:arguments,ms:_0x350c7e}=_0x51b1ad;try{if(!arguments||arguments['length']===0x0)return _0x3fb786(_0x4f4b9c(0x1e4));const _0xfc3117=arguments['join']('\x20'),_0x51c8c7=await Client[_0x4f4b9c(0x204)][_0x4f4b9c(0x1c8)](_0xfc3117),_0x12f0df=_0x51c8c7[0x0];console['log'](_0x12f0df);const _0x37b9e6=await _0x12f0df[_0x4f4b9c(0x1db)](),_0x2cb038=await _0x12f0df[_0x4f4b9c(0x1ea)][_0x4f4b9c(0x1e0)],_0x4b0811=await _0x12f0df[_0x4f4b9c(0x208)],_0x12cb6e='*Cyberion-V1LYRICS\x20FINDER*\x0a\x0a*TITLE*\x20-\x20'+_0x4b0811+_0x4f4b9c(0x1d8)+_0x2cb038+'\x0a\x0a'+_0x37b9e6;await _0x184871['sendMessage'](_0x44b90f,{'image':{'url':'./media/lyrics-img.jpg'},'caption':_0x12cb6e},{'quoted':_0x350c7e});}catch(_0x508f1a){_0x3fb786(_0x4f4b9c(0x1dd)+_0x508f1a),console['log'](_0x508f1a);}});
