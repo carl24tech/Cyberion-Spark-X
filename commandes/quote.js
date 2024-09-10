@@ -45,7 +45,7 @@
 
 
 
-const { zokou } = require('../framework/zokou');
+/*const { zokou } = require('../framework/zokou');
 
 zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, verifGroupe, arg } = commandeOptions;
