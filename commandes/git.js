@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "carltech", catégorie:"Général", reaction: "🔎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/git/carl24tech/Cyberion-V1';
+  const githubRepo = 'https://github.com/carl24tech/Cyberion-V1';
   const img = 'https://telegra.ph/file/0e2976b99ebfc22a2753f.jpg';
 
   try {
@@ -21,7 +21,7 @@ zokou({ nomCom: "carltech", catégorie:"Général", reaction: "🔎", nomFichier
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*𝐇𝐞𝐥𝐥𝐨 𝐦𝐲 𝐄𝐬𝐭𝐞𝐞𝐦𝐞𝐝 𝐮𝐬𝐞𝐫.𝐖𝐞𝐥𝐜𝐢𝐦𝐞 𝐭𝐨 𝐂𝐲𝐛𝐞𝐞𝐢𝐨𝐧 𝐕1 𝐢𝐧𝐟𝐨*\n  
+      const gitdata = `*𝐇𝐞𝐥𝐥𝐨 𝐦𝐲 𝐄𝐬𝐭𝐞𝐞𝐦𝐞𝐝 𝐮𝐬𝐞𝐫.𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐂𝐲𝐛𝐞𝐫𝐢𝐨𝐧 𝐕1 𝐢𝐧𝐟𝐨*\n  
       *𝐓𝐡𝐞 𝐚𝐛𝐨𝐯𝐞 𝐢𝐧𝐟𝐨 𝐢𝐬 𝐟𝐨𝐫 𝐲𝐨𝐮 𝐭𝐨 𝐤𝐧𝐨𝐰.*
 ╭──▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
 │⛲️│ *𝐒𝐞𝐬𝐬𝐢𝐨𝐧* https://github.com/carl24tech/SESSION-SITE
