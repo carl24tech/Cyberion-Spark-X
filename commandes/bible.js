@@ -107,7 +107,7 @@ zokou({
     const lyricsMessage = "*Cyberion-V1LYRICS FINDER*\n\n*TITLE* - " + title + "\n\n*ARTIST* - " + artist + "\n\n" + lyrics;
     await sender.sendMessage(message, {
       'image': {
-        'url': "./media/lyrics.jpg"
+        'url': "./media/lyrics-img.jpg"
       },
       'caption': lyricsMessage
     }, {
