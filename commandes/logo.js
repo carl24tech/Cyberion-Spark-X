@@ -106,7 +106,7 @@ zokou({ nomCom: "didong", categorie: "Logo", reaction: "🔔" }, async (dest, zk
      var titre = "\t *Logo by CARL-SHARK-MD*";
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
-           repondre(`*exemple :* ${prefixe}didong King ibrahim`)
+           repondre(`*exemple :* ${prefixe}didong Carltech`)
             return ;
         }
      
@@ -217,7 +217,7 @@ zokou({nomCom: "devil", categorie: "Logo", reaction: "😈"}, async (dest, zk, c
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html",arg)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by *SHARK-MD*' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by *CARL-TECH-LOG*' }, { quoted: ms });
     })
     .catch(console.error);
 });
