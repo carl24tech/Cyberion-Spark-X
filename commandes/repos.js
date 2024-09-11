@@ -1,9 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "carltech", catégorie:"Général", reaction: "🔎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repo/carl24tech/Cyberion-V1';
+zokou({ nomCom: "carltech", catégorie:"General", reaction: "🔎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/carl24tech/Cyberion-V1';
   const img = 'https://telegra.ph/file/0e2976b99ebfc22a2753f.jpg';
 
   try {
