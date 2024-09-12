@@ -51,6 +51,8 @@
    <a href="https://github.com/carl24tech/Cyberion-V1/fork"><img title="TAP HERE TO FORK REPO" src="https://img.shields.io/badge/TAP HERE TO FORK REPO-h?color=black&style=for-the-badge&logo=github" width="290" height="38.45"/></a></p>
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
  
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
