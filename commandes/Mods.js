@@ -66,14 +66,14 @@ const sleep =  (ms) =>{
     const { ms, repondre, arg, nomAuteurMessage, superUser } = commandeOptions;
   
     if (!superUser) {
-      repondre('Only Mods can use this command'); return;
+      repondre('Lol fam this command is only for my boss'); return;
     }
     //const apikey = conf.APILOLHUMAIN
   
    // if (apikey === null || apikey === 'null') { repondre('Veillez vérifier votre apikey ou si vous en avez pas , veiller crée un compte sur api.lolhuman.xyz et vous en procurer une.'); return; };
   
     if (!arg[0]) {
-      repondre("put a telegram sticker link ");
+      repondre("Huuh dear!put a telegram sticker link ");
       return;
     }
   
@@ -148,8 +148,8 @@ zokou({ nomCom: "crew", categorie: "Mods" }, async (dest, zk, commandeOptions) =
 
   if (!superUser) { repondre("only my boss can use this command"); return };
 
-  if (!arg[0]) { repondre('Please enter the name of the group to create'); return };
-  if (!msgRepondu) { repondre('Please mention a member added '); return; }
+  if (!arg[0]) { repondre('Please enter the name of the group to be created'); return };
+  if (!msgRepondu) { repondre('Please mention a to be member added '); return; }
 
   const name = arg.join(" ")
 
@@ -176,7 +176,7 @@ zokou({ nomCom: "join", categorie: "Mods" }, async (dest, zk, commandeOptions) =
   const { arg, ms, repondre, verifGroupe, msgRepondu, verifAdmin, superUser, auteurMessage } = commandeOptions;
 
   if (!superUser) {
-    repondre("command reserved for the bot owner");
+    repondre("Lol command reserved for the bot owner");
     return;
   }
   let result = arg[0].split('https://chat.whatsapp.com/')[1] ;
@@ -194,7 +194,7 @@ zokou({ nomCom: "jid", categorie: "Mods" }, async (dest, zk, commandeOptions) =>
   const { arg, ms, repondre, verifGroupe, msgRepondu, verifAdmin, superUser, auteurMessage,auteurMsgRepondu } = commandeOptions;
 
          if (!superUser) {
-    repondre("command reserved for the bot owner");
+    repondre(" Lol command reserved for the bot owner");
     return;
   }
               if(!msgRepondu) {
@@ -213,13 +213,13 @@ zokou({ nomCom: "block", categorie: "Mods" }, async (dest, zk, commandeOptions) 
   const { arg, ms, repondre, verifGroupe, msgRepondu, verifAdmin, superUser, auteurMessage,auteurMsgRepondu } = commandeOptions;
 
          if (!superUser) {
-    repondre("Excuse you can'tjust command me.I have an own");
+    repondre("Excuse you can't just command me.I have an owner");
     return;
   }
              
               if(!msgRepondu) { 
                 if(verifGroupe) {
-                  repondre('Be sure to mention the person to block'); return
+                  repondre('Be sure to mention the person to block dont be fake'); return
                 } ;
                 jid = dest
 
@@ -228,7 +228,7 @@ zokou({ nomCom: "block", categorie: "Mods" }, async (dest, zk, commandeOptions) 
               } else {
                 jid = auteurMsgRepondu
              await zk.updateBlockStatus(jid, "block")
-    .then( repondre('succes'))   } ;
+    .then( repondre('successfully blocked'))   } ;
 
   });
 
@@ -247,7 +247,7 @@ zokou({ nomCom: "unblock", categorie: "Mods" }, async (dest, zk, commandeOptions
                 jid = dest
 
                  await zk.updateBlockStatus(jid, "unblock")
-    .then( repondre('succes')) 
+    .then( repondre('successfully unblocked')) 
               } else {
                 jid = auteurMsgRepondu
              await zk.updateBlockStatus(jid, "unblock")
