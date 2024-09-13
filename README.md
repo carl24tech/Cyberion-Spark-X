@@ -14,9 +14,7 @@
 
 
   
-## 𝐈𝐒 𝐈𝐓 𝐀 𝐌𝐔𝐒𝐓 𝐈 𝐏𝐔𝐓 𝐀 𝐏𝐇𝐎𝐓𝐎 𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐁𝐎𝐓 𝐓𝐎 𝐁𝐄 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓𝐈𝐍𝐆?😂😂😂😀
-
-
+<p
   
 
 
@@ -64,6 +62,11 @@
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+
+
+ 
+ 
+ <img src="https://i.imgur.com/SKzbptd.jpeg" widh="600" height="700" />
 
 
 
