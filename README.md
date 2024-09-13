@@ -18,7 +18,15 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝗗𝗢𝗡`𝗧+𝗖𝗟𝗢𝗡𝗘+𝗧𝗢+𝗔𝗩𝗢𝗜𝗗+𝗬𝗢𝗨𝗥+𝗥𝗘𝗣𝗢+𝗦𝗨𝗦𝗣𝗘𝗡𝗦𝗜𝗢𝗡)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=600&height=60&lines=𝗞𝗜𝗡𝗗𝗟𝗬+𝗥𝗘𝗔𝗗+𝗥𝗘𝗣𝗢+𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦)](https://git.io/typing-svg)
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐓𝐇𝐄+𝐁𝐄𝐒𝐓+𝐅𝐑𝐎𝐌+𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇)](https://git.io/typing-svg)
 
 
 
@@ -30,15 +38,11 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=600&height=60&lines=𝗞𝗜𝗡𝗗𝗟𝗬+𝗥𝗘𝗔𝗗+𝗥𝗘𝗣𝗢+𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦)](https://git.io/typing-svg)
 
 
 
 
   
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
