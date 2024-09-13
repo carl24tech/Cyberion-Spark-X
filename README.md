@@ -14,7 +14,7 @@
 
 
   
- <img src="https://i.imgur.com/SKzbptd.jpeg" widh="700" height="700" />
+ <img src="https://i.imgur.com/SKzbptd.jpeg" widh="500" height="500" />
 
 
 
