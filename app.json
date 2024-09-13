@@ -15238,11 +15238,11 @@
 
 
 {
-  "name":"Cyberion-V1",
+  "name":"Cyberion-Spark-X",
   "description":"Best whatsapp bot developed by Carl william",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/0596b8d5a93154f1bca1d.jpg",
-  "repository":"https://github.com/carl24tech/Cyberion-V1",
+  "repository":"https://github.com/carl24tech/Cyberion-Spark-X",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -15286,7 +15286,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Cyberion-V1",
+      "value":"Cyberion-Spark-X",
       "required":false
 
     } ,
