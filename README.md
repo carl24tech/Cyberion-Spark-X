@@ -14,9 +14,7 @@
 
 
   
-<p
-  
-
+ <img src="https://i.imgur.com/SKzbptd.jpeg" widh="600" height="700" />
 
 
 
@@ -36,7 +34,7 @@
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
   
 
 
@@ -66,7 +64,7 @@
 
  
  
- <img src="https://i.imgur.com/SKzbptd.jpeg" widh="600" height="700" />
+
 
 
 
