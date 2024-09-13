@@ -48,7 +48,7 @@
 
   
    
-   <a href="https://github.com/carl24tech/Cyberion-V1/fork"><img title="TAP HERE TO FORK REPO" src="https://img.shields.io/badge/TAP HERE TO FORK REPO-h?color=black&style=for-the-badge&logo=github" width="290" height="38.45"/></a></p>
+   <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="TAP HERE TO FORK REPO" src="https://img.shields.io/badge/TAP HERE TO FORK REPO-h?color=black&style=for-the-badge&logo=github" width="290" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -85,7 +85,7 @@
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-V1"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-Spark-X"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
