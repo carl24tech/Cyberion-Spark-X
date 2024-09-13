@@ -232,7 +232,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ CYBERION-V1 Ranking┗━━━┓
+◢◤◢◤◤◢◤◢◤◢◤ CYBERION-SPARK-X ◢◤◢◤◢◤◢◤◢◤◢◤
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -244,8 +244,8 @@ zokou( {
 
     *Messages :* ${rank.messages}
     
-   ┕━✿━┑  ┍━✿━┙`
-    
+    █▒▒▒▒▒█▒▒▒▒▒██▒▒▒▒▒█ `
+     
      zk.sendMessage( 
         dest,
         {
