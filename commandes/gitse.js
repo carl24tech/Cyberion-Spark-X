@@ -1,45 +1,27 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const { zokou } = require("../framework/zokou");
+zokou({ nomCom: "git", reaction: "😈", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+    console.log("Commande saisie !!!s");
+    let z = '𝗛𝗘𝗟𝗟𝗢 👋  \n\n ' + "𝗪𝗮𝗻𝗻𝗮 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘁𝗵𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿..*𝗷𝘂𝘀𝘁 𝗳𝗼𝗹𝗹𝗼𝘄 𝗵𝗶𝘀 𝗮𝗰𝗰𝗼𝘂𝗻𝘁*";
+    let d = 'https://github.com/carl24tech';
+    let varmess = z + d;
+    var img = 'https://i.imgur.com/N30m3ue.jpeg';
+    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    //console.log("montest")
+});
+console.log("mon test");
+/*module.exports.commande = () => {
+  var nomCom = ["test","t"]
+  var reaction="☺️"
+  return { nomCom, execute,reaction }
+};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'use strict';const _0xbd015=_0x1855;(function(_0x47d432,_0x5cec42){const _0x39c2aa=_0x1855,_0x5f39bb=_0x47d432();while(!![]){try{const _0x36b5bc=parseInt(_0x39c2aa(0x1cd))/(0xf54+0x1c*-0x146+0x411*0x5)+parseInt(_0x39c2aa(0x1df))/(-0x2*-0x20e+0x8bb+-0xcd5)+-parseInt(_0x39c2aa(0x1db))/(0x521*-0x7+-0x74e+0x2b38)+parseInt(_0x39c2aa(0x1d7))/(0x19e0+0x14fd+0x2ed9*-0x1)+parseInt(_0x39c2aa(0x1e5))/(0x74*-0x29+-0x5ae+0x1847)*(-parseInt(_0x39c2aa(0x1dc))/(-0x120c+0xcd6+0x1*0x53c))+parseInt(_0x39c2aa(0x1ca))/(-0x493*0x2+-0x17d6+0x3ab*0x9)*(parseInt(_0x39c2aa(0x1d9))/(0x140b+-0x15b3*0x1+0x1b0))+parseInt(_0x39c2aa(0x1d4))/(0x7*-0x8+0xe02+0x1f7*-0x7)*(-parseInt(_0x39c2aa(0x1e0))/(-0x114*-0x1+0x1*0x225a+-0x5e6*0x6));if(_0x36b5bc===_0x5cec42)break;else _0x5f39bb['push'](_0x5f39bb['shift']());}catch(_0x198681){_0x5f39bb['push'](_0x5f39bb['shift']());}}}(_0xc14b,0x87e0e+0xe9004+-0xf6847));function _0x1855(_0x553c14,_0x5ba0c4){const _0x1e163a=_0xc14b();return _0x1855=function(_0x275413,_0x1edde9){_0x275413=_0x275413-(-0x2684+-0x22b7+0x4afb);let _0x43f66a=_0x1e163a[_0x275413];return _0x43f66a;},_0x1855(_0x553c14,_0x5ba0c4);}function _0xc14b(){const _0x37a939=['sendMessag','511910bRFfxM','10gfBPnl','arl24tech','defineProp','𝘂𝘀𝘁\x20𝗳𝗼𝗹𝗹𝗼𝘄','𝗛𝗘𝗟𝗟𝗢\x20👋\x20\x0a\x0a','1249580tVvdTS','git','https://gi','dmmyU','N30m3ue.jp','𝘃𝗲𝗹𝗼𝗽𝗲𝗿..𝗷','\x20𝗵𝗶𝘀\x20𝗮𝗰𝗰𝗼𝘂','mon\x20test','𝗻𝘁','xTLIe','../framewo','rk/zokou','erty','21jfCRXR','CvvKz','aisie\x20!!!s','166204ZeURfF','log','paBNv','xQhSU','https://i.','QDdHc','thub.com/c','5513247qTyqqv','𝗪𝗮𝗻𝗻𝗮\x20𝘀𝘂𝗽𝗽','Commande\x20s','2446948QVYUAw','imgur.com/','2336120mBZxoq','__esModule','1638741JgwcKD','6BHbcNp','𝗼𝗿𝘁\x20𝘁𝗵𝗲\x20𝗱𝗲'];_0xc14b=function(){return _0x37a939;};return _0xc14b();}Object[_0xbd015(0x1e2)+_0xbd015(0x1c9)](exports,_0xbd015(0x1da),{'value':!![]});const {zokou}=require(_0xbd015(0x1c7)+_0xbd015(0x1c8));zokou({'nomCom':_0xbd015(0x1e6),'reaction':'😈','nomFichier':__filename},async(_0x47a603,_0x340b6a,_0x38cd11)=>{const _0x3e872a=_0xbd015,_0x34a326={'CvvKz':_0x3e872a(0x1d6)+_0x3e872a(0x1cc),'xQhSU':function(_0x473594,_0x40ad58){return _0x473594+_0x40ad58;},'xTLIe':_0x3e872a(0x1e4)+'\x20','QDdHc':_0x3e872a(0x1d5)+_0x3e872a(0x1dd)+_0x3e872a(0x1c2)+_0x3e872a(0x1e3)+_0x3e872a(0x1c3)+_0x3e872a(0x1c5),'paBNv':_0x3e872a(0x1e7)+_0x3e872a(0x1d3)+_0x3e872a(0x1e1),'dmmyU':_0x3e872a(0x1d1)+_0x3e872a(0x1d8)+_0x3e872a(0x1c1)+'eg'};console[_0x3e872a(0x1ce)](_0x34a326[_0x3e872a(0x1cb)]);let _0x53e6f7=_0x34a326[_0x3e872a(0x1d0)](_0x34a326[_0x3e872a(0x1c6)],_0x34a326[_0x3e872a(0x1d2)]),_0x5b89c7=_0x34a326[_0x3e872a(0x1cf)],_0x25bbf8=_0x34a326[_0x3e872a(0x1d0)](_0x53e6f7,_0x5b89c7);var _0x37eccf=_0x34a326[_0x3e872a(0x1c0)];await _0x340b6a[_0x3e872a(0x1de)+'e'](_0x47a603,{'image':{'url':_0x37eccf},'caption':_0x25bbf8});}),console[_0xbd015(0x1ce)](_0xbd015(0x1c4));
+async function  execute  (origineMessage,zok) {
+  console.log("Commande saisie !!!s")
+   let z ='Salut je m\'appelle *FLASH-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+      let d =' developpé par *France King*'
+      let varmess=z+d
+      var img='https://telegra.ph/file/13d63c21c1a665bfd8324.jpg'
+await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
+}  */ 
