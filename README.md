@@ -14,7 +14,7 @@
 
 
   
- <img src="https://i.imgur.com/nLk2Z69.mp4" widh="500" height="500" />
+ <img src="https://i.imgur.com/1omQA7g.jpeg" widh="500" height="500" />
 
 
 
