@@ -6,7 +6,7 @@ zokou({ nomCom: "git", reaction: "😈", nomFichier: __filename }, async (dest, 
     let z = '𝗛𝗘𝗟𝗟𝗢 👋  \n\n ' + "𝗪𝗮𝗻𝗻𝗮 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘁𝗵𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿..𝗷𝘂𝘀𝘁 𝗳𝗼𝗹𝗹𝗼𝘄 𝗵𝗶𝘀 𝗮𝗰𝗰𝗼𝘂𝗻𝘁";
     let d = 'https://github.com/carl24tech';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/51b372ed62c6d83eef249.jpg';
+    var img = 'https://i.imgur.com/N30m3ue.jpeg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
