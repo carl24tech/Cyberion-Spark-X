@@ -6,7 +6,7 @@ const giftedapikey = 'giftedtechk';
 zokou({
   nomCom: "mp3",
   categorie: "Download",
-  reaction: "💿"
+  reaction: "🎵"
 }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
 
@@ -72,7 +72,7 @@ zokou({
 zokou({
   nomCom: "audio",
   categorie: "Download",
-  reaction: "💿"
+  reaction: "🔊"
 }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
 
