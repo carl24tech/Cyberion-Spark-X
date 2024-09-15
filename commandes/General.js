@@ -94,7 +94,7 @@ else {
 zokou({ nomCom: "owner", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("look on pm sir ")
+  repondre("Hello..wanna contact my handsome developer ")
   await zk.sendMessage(auteurMessage,{text : `254740271632`},{quoted :ms})
 
 })
