@@ -97,7 +97,7 @@ const {
 const _0x4ca7ae = {
   nomCom: "vcf",
   categorie: "Group",
-  reaction:'📄'
+  reaction: '📄'
 };
 zokou(_0x4ca7ae, async (_0x4f12b5, _0x50892c, _0x3b76b3) => {
   const {
