@@ -457,7 +457,7 @@ function mybotpic() {
                                     await fs.unlink("st1.webp"); } 
                                         
                                        else if (action === 'delete') {
-                                        txt += `Goodbye \n @${auteurMessage.split("@")[0]} Sending other group links here is prohibited!.`;
+                                        txt += `Goodbye \n @${auteurMessage.split("@")[0]} Any external link is totally rolled out here!.`;
                                         // await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") }, { quoted: ms });
                                        await zk.sendMessage(origineMessage, { text: txt, mentions: [auteurMessage] }, { quoted: ms });
                                        await zk.sendMessage(origineMessage, { delete: key });
@@ -578,7 +578,7 @@ function mybotpic() {
 
     } else {
         var rest = warnlimit - warn ;
-      var  msg = `bot detected , your warn_count was upgrade ;\n rest : ${rest} `;
+      var  msg = `bot detected , your warn_count was upgraded ;\n rest : ${rest} `;
 
       await ajouterUtilisateurAvecWarnCount(auteurMessage)
 
@@ -678,9 +678,9 @@ zk.ev.on('group-participants.update', async (group) => {
                 msg += `Hello @${membre.split("@")[0]}\n`;
             }
 
-            msg += `*You are welcomed here.* 
+            msg += ` *You are welcomed here.* 
             
-*You MAY read the group description FOR more info and Avoid getting removed*
+*You MAY read the group description FOR more info and Avoid getting remove*
             
      
             
@@ -866,7 +866,7 @@ ${metadata.desc}
     ┃  ❂──────────────────❂
     ┃  💫Prefix : 〔${prefixe}〕
     ┃  📱Mode : 〚${md}〛
-    ┃  ⚙️Created on : *27.8.2024*
+    ┃  ⚙️Created on : *23.8.2024*
     ┃  📃Total Commands : ${evt.cm.length}
     ✰⁠⁠⁠⁠▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰✰
          *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗦𝗣𝗔𝗥𝗞-𝗫*`;
