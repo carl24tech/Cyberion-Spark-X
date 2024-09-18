@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Ibrahim-Md',
+                pack: 'Cyberion-Spark-X',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -684,11 +684,11 @@ zk.ev.on('group-participants.update', async (group) => {
             
      
             
- ◇ *GROUP DESCRIPTION*  ◇
+  *GROUP DESCRIPTION*  
 
 ${metadata.desc}
 
-📌Powred by *CARLTECH*`;
+📌Powred by *CARLTECH* `;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
