@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Flash-Md', "safari", "1.0.0"],
+            browser: ['Cyberion-Spark-X', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -670,25 +670,21 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇CARLTECH◇
+            let msg =`╔════◇◇◇═════╗
+║ welcome to new(s) member(s)
+║ *New(s) Member(s) :*
 `;
-             
+
             let membres = group.participants;
             for (let membre of membres) {
-                msg += `Hello @${membre.split("@")[0]}\n`;
+                msg += `║ @${membre.split("@")[0]}\n`;
             }
 
-            msg += ` *You are welcomed here.* 
-            
-*You MAY read the group description FOR more info and Avoid getting remove*
-            
-     
-            
-  *GROUP DESCRIPTION*  
+            msg += `║
+╚════◇◇◇═════╝
+◇ *Descriptioon*   ◇
 
-${metadata.desc}
-
-📌Powred by *CARLTECH* `;
+${metadata.desc}\n\n> Cyberion-Spark-X.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
