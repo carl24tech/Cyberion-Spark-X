@@ -146,6 +146,7 @@ Product By CarlTech 2024
     
 let menuMsg = `
 > Servers supported by Thinkpad 
+> Beneficials to CARLTECH 2024
 `;
 
    var lien = mybotpic();
