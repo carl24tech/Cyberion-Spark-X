@@ -41,7 +41,6 @@ const creerTableevents = async () => {
 creerTableevents();
 
 
-
 // Fonction pour ajouter un utilisateur à la liste des bannis
 async function attribuerUnevaleur(jid, row, valeur) {
     const client = await pool.connect();
