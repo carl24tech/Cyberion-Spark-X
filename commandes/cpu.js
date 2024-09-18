@@ -43,90 +43,90 @@ external    : 33.21 MB
 arrayBuffers: 29.87 MB
 
 _Total CPU Usage of Spark X_
-Thinkpad 5 3600 i7 Core Processor (14th Generation)
+Thinkpad 5 3600 i7Core Processor(14thGeneration)
 - *user* : 65.92%
 - *nice* : 0.00%
 - *sys*  : 20.61%
 - *idle* : 13.47%
 - *irq*  : 0.00%
 _CPU Core(s) Usage (12 intel Core)_
-1. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+1. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 66.87%
 - *Blaz* : 0.00%
 - *Mods*  : 20.18%
 - *cache* : 12.94%
 - *temp*  : 0.00%
 
-2. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+2. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 67.82%
 - *Blaz* : 0.00%
 - *Mods*  : 12.61%
 - *cache* : 19.57%
 - *temp*  : 0.00%
 
-3. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+3. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 66.77%
 - *Blaz* : 0.00%
 - *Mods*  : 20.29%
 - *cache* : 12.95%
 - *temp*  : 0.00%
 
-4. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+4. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 65.12%1
 - *Mods*  : 21.69%
 - *cache* : 13.19%
 - *temp*  : 0.00%
 
-5. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+5. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 64.55%
 - *Blaz* : 0.00%
 - *Mods*  : 22.22%
 - *cache* : 13.19%
 - *temp* : 0.00%
 
-6. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+6. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 64.58%
 - *Blaz* : 0.00%
 - *Mods*  : 22.23%
 - *cache* : 13.18%
 - *temp*  : 0.00%
 
-7. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+7. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 66.02%
 - *Blaz* : 0.00%
 - *Mods*  : 20.93%
 - *cache* : 13.05%
 - *temp*  : 0.00%
 
-8. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+8. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 71.50%
 - *Blaz* : 0.00%
 - *Mods*  : 15.27%
 - *cache* : 13.23%
 - *temp*  : 0.00%
 
-9. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+9. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 65.79%
 - *Blaz* : 0.00%
 - *Mods*  : 21.12%
 - *cache* : 13.09%
 - *temp*  : 0.00%
 
-10. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+10. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 64.58%
 - *Blaz* : 0.00%
 - *Mods*  : 22.01%
 - *cache* : 13.40%
 - *temp*  : 0.00%
 
-11. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+11. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 64.22%
 - *Blaz* : 0.00%
 - *Mods*  : 22.44%
 - *cache* : 13.34%
 - *temp*  : 0.00%
 
-12. Thinkpad 5 3600 i7 Core Processor (14th Gen)
+12. Thinkpad 5 3600 i7Core Processor(14thGen)
 - *AI* : 64.18%
 - *Blaz* : 0.00%
 - *Mods*  : 22.45%
