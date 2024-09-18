@@ -8,7 +8,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "cpu", categorie: "Mods" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "cpu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -35,13 +35,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
  
- Welcome : ${NomAuteurMessage}
-Response Speed 0.0093 _Second_ 
-
-ðŸ’»  Server Info
-RAM: 117.3 GB / 125.72 GB
-
-_NodeJS Memory Usaage_
+_Node.js Memory Usaage_
 rss         : 165.25 MB
 heapTotal   : 62.66 MB
 heapUsed    : 49.72 MB
@@ -140,9 +134,7 @@ _CPU Core(s) Usage (12 Core CPU)_
 - *idle* : 13.38%
 - *irq*  : 0.00%
 Product By CarlTech 2024
-
- 
-  `;
+ `;
     
 let menuMsg = `
 > Servers supported by Thinkpad 
