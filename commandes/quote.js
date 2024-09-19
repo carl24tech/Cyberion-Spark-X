@@ -39,12 +39,6 @@
 
 
 
-
-
-
-
-
-
 /*const { zokou } = require('../framework/zokou');
 
 zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
@@ -93,4 +87,4 @@ Powered by CARL-MD`);
       repondre('Erreur lors de la génération de la citation : ' + e.message);
     }
   }
-});
+});*/
