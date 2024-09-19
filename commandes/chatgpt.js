@@ -35,12 +35,6 @@
 
 
 
-
-
-
-
-
-
 const { bot, getGPTResponse, getDallEResponse } = require('../lib')
 
 bot(
