@@ -47,12 +47,6 @@
 
 
 
-
-
-
-
-
-
 const {zokou} = require("../framework/zokou");
 const conf = require("../set")
 const {jidDecode}=require("@whiskeysockets/baileys")
