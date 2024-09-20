@@ -23,7 +23,7 @@ zokou({
     return _0x1a95da("Please specify the chapter number or name. Example: bible john 3:16");
   }
   let _0x1fe2d4 = await _0x15e3d3.json();
-  let _0x50bf4f = "📖 *THE HOLY SCRIPTURE*\n\n📜 *_IN THE BOOK OF:_* " + _0x1fe2d4.reference + "\n\n🌐 *_THE VERSE:_* " + _0x1fe2d4.verses.length + "\n\n🤍 *_NOW READ:_* " + _0x1fe2d4.text + "\n\n🌐 *_SUPPORTED IN_:* " + _0x1fe2d4.translation_name + "\n\n\n╭▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\n│ *_HOLY SCRIPT BY CYBERION._*\n╰▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣";
+  let _0x50bf4f = "📖 *THE HOLY SCRIPTURE*\n\n📜 *_IN THE BOOK OF:_* " + _0x1fe2d4.reference + "\n\n🌐 *_VERSE:_* " + _0x1fe2d4.verses.length + "\n\n🤔 *_AND IT SAYS:_* " + _0x1fe2d4.text + "\n\n🌐 *_SUPPORTED IN_:* " + _0x1fe2d4.translation_name + "\n\n\n╭▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\n│ *_HOLY SCRIPT BY CYBERION._*\n╰▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣";
   await _0x1a95da(_0x50bf4f);
 });
 zokou({
