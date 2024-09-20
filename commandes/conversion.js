@@ -83,7 +83,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"FLASH-MD",
+      pack:"Cyberion-Spark-X",
       author: nomAuteurMessage,
       type:
         arg.includes("crop") || arg.includes("c")
@@ -107,7 +107,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"FLASH-MD", // pack stick
+      pack:"Cyberion-Spark-X", // pack stick
       author:  nomAuteurMessage, // name of the author of the stick
       type:
         arg.includes("-r") || arg.includes("-c")
@@ -163,7 +163,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: Flash-Md,
+            pack: Cyberion-Spark-X,
             
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
@@ -199,7 +199,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: FLASH-MD,
+            pack: Cyberion-Spark-X,
             
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
@@ -265,7 +265,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'FLASH-MD',
+      author: 'Cyberion-Spark-X',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
