@@ -43,8 +43,8 @@ const date = moment().format('DD/MM/YYYY');
 ▯  🌐 *Mode* : 【${mode}】
 ▮  🔑 ignition : [${s.PREFIXE}]
 ▯  📜 Plugins : [${cm.length}] 
-▮  ⌚️ *Time* : ${temps}
-▯  🖥️ System : 𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗩1
+▮  ⌚️ *Time* :  ${temps}
+▯  🖥️ System : CYBERION-SPARK-X
 ▮  🌌 Theme : GALAXY
 ▯  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█
 └▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
@@ -59,8 +59,7 @@ const date = moment().format('DD/MM/YYYY');
 └▪︎─═━┈━═─ ═▪︎─═━┈━═─⊷
 ╒✦•··············•••••••••··············•··•✦
 ┇ 『𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦』
-┇  ─┉┈◈◉◈┈┉
-┇  🛡️ Security : encrypted
+┇   ─┉┈◈◉◈┈┉
 ┇  📡 *Platform* : ${os.platform}
 ┇  🤒 Status : Perfect 
 ┇  ☋️  Series : [Spark-X]
@@ -83,7 +82,7 @@ const date = moment().format('DD/MM/YYYY');
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────⊙* *${cat}* *⊙*`;
+        menuMsg += `*╭────❒⁠⁠⁠⁠* *${cat}* *❒⁠⁠⁠⁠*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
 *┋* ${cmd}`;
