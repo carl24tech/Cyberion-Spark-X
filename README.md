@@ -23,19 +23,24 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
 
 ## Key Features
 
-- **File Download:** Cyberion can download audio and video files from links you send, making it easy to share them with your contacts.
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Cyberion
 
-- **Group Management:** Cyberion offers group management features, such as adding or removing members, configuring rules, and other settings.
+1. **Natural Language Processing**: Cyberion is powered by NLP technology can understand human language better and carry out meaningful conversations.
 
-- **Text to Img:** The best logos have been selected for your convenience.
+2. **Personalization**: Cyberion can remember past interactions and tailor responses based on user preferences, making the conversation more relevant and engaging.
 
-## Fun Features
+3. **Multi-platform Integration**:  Cyberion can be integrated with various messaging platforms such as Facebook Messenger, WhatsApp, and Slack, ensuring a seamless user experience across different channels.
 
-- **Jokes and Riddles:** Cyberion comes with a collection of jokes and riddles to liven up your conversations.
+4. **Voice Recognition** Cyberion is equipped with voice recognition technology can interact with users through speech, offering a hands-free and convenient experience.
 
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
+5. **Sentiment Analysis**: Cyberion can analyze the sentiment behind user messages to gauge emotions and respond accordingly, providing a more empathetic and human-like interaction.
+
+6. **Context Retention**: Cyberion can maintain context throughout a conversation, allowing for more fluid and coherent interactions, even across multiple topics or queries.
+
+7. **Interactive Elements**: Cyberion can incorporate interactive elements such as buttons, carousels, and quick replies to enhance user engagement and facilitate decision-making.
+
+8. **Advanced Analytics**: Cyberion can collect and analyze user data to provide insights into user behavior, preferences, and trends, enabling businesses to make data-driven decisions and improve customer interactions.
+## 𝐀𝐍𝐃 𝐌𝐀𝐍𝐘 𝐌𝐎𝐑𝐄 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
