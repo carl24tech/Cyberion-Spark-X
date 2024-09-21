@@ -1,128 +1,22 @@
 
+//NOW SEE YOU PROSTITUE....WANNA CLONE😅😅😅😅😅...COME TOMORROW.....BUT FOR NOW...SUCK YOUR STUFF YAZA🤣🤣🤣
 
-const util = require('util');
-const fs = require('fs-extra');
-const { zokou } = require(__dirname + "/../framework/zokou");
-const { format } = require(__dirname + "/../framework/mesfonctions");
-const os = require("os");
-const moment = require("moment-timezone");
-const s = require(__dirname + "/../set");
-const more = String.fromCharCode(8206)
-const Taphere = more.repeat(4001)
-
-zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
-    let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
-    let { cm } = require(__dirname + "/../framework//zokou");
-    var coms = {};
-    var mode = "public";
-    
-    if ((s.MODE).toLocaleLowerCase() != "yes") {
-        mode = "private";
-   
-    }
+//SASA UNATAKA KU CLONE..WEWE NYOKA MJANE😅😅😅😅😅....KUBABAKO....USHAI DINYWA HAGA WEWE😂😂😂😂😂😂
 
 
-    
- cm.map(async (com, index) => {
-        if (!coms[com.categorie])
-            coms[com.categorie] = [];
-        coms[com.categorie].push(com.nomCom);
-    });
+//DON'T CHANGE THIS SCRIPT OR ELSE I WILL CUM IN YOUR 👄 MOUTH🤨🤨😑
 
-    moment.tz.setDefault("Africa/Nairobi");
+//DEPLOY THE BOT WITH EVERYTHING ORIGINAL...DON'T DO FAKE THINGS😃😃😃😃😃
 
-// Créer une date et une heure en EAT
-const temps = moment().format('HH:mm:ss');
-const date = moment().format('DD/MM/YYYY');
 
-  let infoMsg =  `
 
- 🤗 *Hello* : ${nomAuteurMessage} welcome to Spark X menu📃
-┏▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-▮ 『𝗠𝗔𝗜𝗡』
-▯  🌐 *Mode* : 【${mode}】
-▮  🔑 ignition : [${s.PREFIXE}]
-▯  📜 Plugins : [${cm.length}] 
-▮  ⌚️ *Time* :  ${temps}
-▯  🖥️ System : CYBERION-SPARK-X
-▮  🌌 Theme : GALAXY
-▯  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█
-└▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-┏────────────────⊷
-┃ 『𝗦𝗧𝗢𝗥𝗔𝗚𝗘』
-┃  📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-└─────═━┈┈━═─────⊷
-╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
-┇ 『𝗖𝗢𝗡𝗧』
-┇  🕵 *Dev* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
-┇  📱 *User* : ${s.OWNER_NAME}
-└▪︎─═━┈━═─ ═▪︎─═━┈━═─⊷
-╒✦•··············•••••••••··············•··•✦
-┇ 『𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦』
-┇   ─┉┈◈◉◈┈┉
-┇  📡 *Platform* : ${os.platform}
-┇  🤒 Status : Perfect 
-┇  ☋️  Series : [Spark-X]
-╘✦•·············•••••••••··················•✦  \n\n`;
- 
-    let menuMsg=` 
 
-▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
- 
-◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
-> CYBERION-SPARK-X 
-◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
-╭───────────────────⊷❒
-│DEDICATED PLUGINS❒⁠⁠⁠⁠
-│CYBERION-SPARK-X❒⁠⁠⁠⁠⁠⁠
-⁠⁠⁠⁠╰───────────────────⊷❒
-> BOT CHANNEL : https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
-> CARLTECH PROJECT 2024🎖
-`;
 
-    for (const cat in coms) {
-        menuMsg += `*╭────❒⁠⁠⁠⁠* *${cat}* *❒⁠⁠⁠⁠*`;
-        for (const cmd of coms[cat]) {
-            menuMsg += `  
-*┋* ${cmd}`;
-        }
-        menuMsg += `
-*┕───────────────────❒* \n`
-    }
 
-    menuMsg += `
-           
-     
 
-*❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
-`;
 
-   var lien = mybotpic();
 
-   if (lien.match(/\.(mp4|gif)$/i)) {
-    try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" , gifPlayback : true }, { quoted: ms });
-    }
-    catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
-    }
-} 
-// Vérification pour .jpeg ou .png
-else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
-    try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*Ibrahim-tech*" }, { quoted: ms });
-    }
-    catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
-    }
-} 
-else {
-    
-    repondre(infoMsg + menuMsg);
-    
-}
 
-});
+
+function _0x1b15(_0x49b17b,_0x7a29ef){const _0x2975ff=_0x4cf8();return _0x1b15=function(_0x2786dd,_0x552208){_0x2786dd=_0x2786dd-(-0x49*0x62+-0x1*0xc6d+-0x11*-0x26f);let _0xa0514e=_0x2975ff[_0x2786dd];return _0xa0514e;},_0x1b15(_0x49b17b,_0x7a29ef);}const _0x1a175d=_0x1b15;(function(_0x3f0c65,_0x18b88d){const _0x55a3c6=_0x1b15,_0x2b73d0=_0x3f0c65();while(!![]){try{const _0x408729=-parseInt(_0x55a3c6(0x147))/(-0x74b+-0x1*-0x22ff+-0x7*0x3f5)+-parseInt(_0x55a3c6(0x128))/(-0x1d9b+-0x1*0x1ad7+-0x4*-0xe1d)*(parseInt(_0x55a3c6(0x110))/(0x20bb+-0x142a+-0xc8e*0x1))+-parseInt(_0x55a3c6(0x133))/(0x1861+0x1e4b+-0x3*0x1238)+-parseInt(_0x55a3c6(0x10b))/(0x865*-0x4+-0x1301+0x349a)*(-parseInt(_0x55a3c6(0x144))/(0x170e+0xaa9*-0x1+0xc5f*-0x1))+parseInt(_0x55a3c6(0x18a))/(0x6e7+0x144c+-0x1b2c)*(parseInt(_0x55a3c6(0x138))/(-0x1c9*0x7+-0x410+0x1097))+-parseInt(_0x55a3c6(0x16d))/(0x33*-0x65+0x135b+0xcd)*(-parseInt(_0x55a3c6(0x139))/(0x4d5*0x3+-0xd3b*0x1+-0x9d*0x2))+-parseInt(_0x55a3c6(0x193))/(0x20cd+0xcf0+-0x2db2)*(parseInt(_0x55a3c6(0x123))/(0x262*-0x3+-0xb*-0x71+0x257));if(_0x408729===_0x18b88d)break;else _0x2b73d0['push'](_0x2b73d0['shift']());}catch(_0x1bf0f8){_0x2b73d0['push'](_0x2b73d0['shift']());}}}(_0x4cf8,-0x5a3d7+0x3b677+-0x11be1*-0x5));const util=require(_0x1a175d(0x129)),fs=require(_0x1a175d(0x14b)),{zokou}=require(__dirname+(_0x1a175d(0x14a)+_0x1a175d(0x181))),{format}=require(__dirname+(_0x1a175d(0x14a)+_0x1a175d(0x130)+_0x1a175d(0x168))),os=require('os'),moment=require(_0x1a175d(0x154)+_0x1a175d(0x153)),s=require(__dirname+_0x1a175d(0x16b)),more=String[_0x1a175d(0x175)+'de'](0xc9*0x3b+0x32ee+-0x4133),Taphere=more[_0x1a175d(0x13c)](0x4ac+0x2251+0x2e*-0x82);zokou({'nomCom':_0x1a175d(0x161),'categorie':_0x1a175d(0x15a)},async(_0x4833c6,_0x3a6a7c,_0x1cb3ee)=>{const _0x321c47=_0x1a175d,_0x7c1745={'sdoiE':function(_0x1dee2e,_0x257eb4){return _0x1dee2e(_0x257eb4);},'ukezd':function(_0x47eb56,_0x456e6e){return _0x47eb56+_0x456e6e;},'jYCuh':_0x321c47(0x14a)+_0x321c47(0x183),'EFcVl':_0x321c47(0x121),'fxEfy':function(_0x5e9ba8,_0x4359c7){return _0x5e9ba8!=_0x4359c7;},'piogb':_0x321c47(0x16f),'UHRZS':_0x321c47(0x1ad),'gCZOL':_0x321c47(0x11d)+_0x321c47(0x136),'YmITU':function(_0x41239e){return _0x41239e();},'UrMvg':_0x321c47(0x149),'tiMlF':function(_0x596ca9){return _0x596ca9();},'Okhpt':_0x321c47(0x125),'ueRKa':function(_0x2ed58b,_0x52587c){return _0x2ed58b(_0x52587c);},'lrLAg':function(_0xc7d707,_0x33cac0){return _0xc7d707-_0x33cac0;},'RACmm':function(_0x4be0f7,_0x2f0c11){return _0x4be0f7(_0x2f0c11);},'LWPHM':function(_0x1efb6c){return _0x1efb6c();},'SYbph':_0x321c47(0x118)+_0x321c47(0x174)+_0x321c47(0x108)+_0x321c47(0x10a)+_0x321c47(0x14f),'WMAtq':_0x321c47(0x192)+_0x321c47(0x131),'LhRFi':function(_0x33910e,_0x220c2d){return _0x33910e+_0x220c2d;},'KELSt':function(_0x214754,_0x23a8ce){return _0x214754+_0x23a8ce;},'kBnnR':_0x321c47(0x171)+_0x321c47(0x15d),'atazm':function(_0x246894,_0x61e438){return _0x246894(_0x61e438);}};let {ms:_0x29453b,repondre:_0x283d9e,prefixe:_0x5438be,nomAuteurMessage:_0x4c24ed,mybotpic:_0x5c70ff}=_0x1cb3ee,{cm:_0x17a33e}=_0x7c1745[_0x321c47(0x13d)](require,_0x7c1745[_0x321c47(0x177)](__dirname,_0x7c1745[_0x321c47(0x176)]));var _0x80cee={},_0x1c022b=_0x7c1745[_0x321c47(0x119)];_0x7c1745[_0x321c47(0x169)](s[_0x321c47(0x194)][_0x321c47(0x127)+_0x321c47(0x191)](),_0x7c1745[_0x321c47(0x184)])&&(_0x1c022b=_0x7c1745[_0x321c47(0x10c)]);_0x17a33e[_0x321c47(0x1ab)](async(_0x4a309f,_0xf7660d)=>{const _0x2601b8=_0x321c47;if(!_0x80cee[_0x4a309f[_0x2601b8(0x112)]])_0x80cee[_0x4a309f[_0x2601b8(0x112)]]=[];_0x80cee[_0x4a309f[_0x2601b8(0x112)]][_0x2601b8(0x198)](_0x4a309f[_0x2601b8(0x163)]);}),moment['tz'][_0x321c47(0x101)](_0x7c1745[_0x321c47(0x106)]);const _0x3714fa=_0x7c1745[_0x321c47(0x126)](moment)[_0x321c47(0x180)](_0x7c1745[_0x321c47(0x1a4)]),_0x2ed9ca=_0x7c1745[_0x321c47(0x19b)](moment)[_0x321c47(0x180)](_0x7c1745[_0x321c47(0x15b)]);let _0x3bcbf1=_0x321c47(0x17e)+_0x321c47(0x100)+_0x4c24ed+(_0x321c47(0x18b)+_0x321c47(0x1a7)+_0x321c47(0x12c)+_0x321c47(0x156)+_0x321c47(0x13f)+_0x321c47(0x18e)+_0x321c47(0x13b))+_0x1c022b+(_0x321c47(0x196)+_0x321c47(0x1a1))+s[_0x321c47(0x16a)]+(_0x321c47(0x185)+_0x321c47(0x13a))+_0x17a33e[_0x321c47(0x13e)]+(_0x321c47(0x178)+_0x321c47(0x134))+_0x3714fa+(_0x321c47(0x18c)+_0x321c47(0x17c)+_0x321c47(0x105)+_0x321c47(0x1ac)+_0x321c47(0x10e)+_0x321c47(0x146)+_0x321c47(0x104)+_0x321c47(0x109)+_0x321c47(0x17a)+_0x321c47(0x14c)+_0x321c47(0x142)+_0x321c47(0x11e)+_0x321c47(0x15c)+':\x20')+_0x7c1745[_0x321c47(0x1a2)](format,_0x7c1745[_0x321c47(0x19a)](os[_0x321c47(0x173)](),os[_0x321c47(0x11b)]()))+'/'+_0x7c1745[_0x321c47(0x12a)](format,os[_0x321c47(0x173)]())+(_0x321c47(0x17d)+_0x321c47(0x197)+_0x321c47(0x167)+_0x321c47(0x120)+_0x321c47(0x166)+_0x321c47(0x11a)+_0x321c47(0x122)+_0x321c47(0x18d)+_0x321c47(0x145))+s[_0x321c47(0x187)]+(_0x321c47(0x19d)+_0x321c47(0x155)+_0x321c47(0x16e)+_0x321c47(0x151)+_0x321c47(0x114)+_0x321c47(0x16c)+_0x321c47(0x199)+_0x321c47(0x124)+_0x321c47(0x14d)+_0x321c47(0x11f)+_0x321c47(0x10f)+'\x20')+os[_0x321c47(0x140)]+(_0x321c47(0x190)+_0x321c47(0x1a0)+_0x321c47(0x188)+_0x321c47(0x111)+_0x321c47(0x132)+_0x321c47(0x16c)+_0x321c47(0x179)+_0x321c47(0x152)+_0x321c47(0x151)+_0x321c47(0x15f)),_0x22f814=_0x321c47(0x19c)+_0x321c47(0x1a8)+_0x321c47(0x158)+_0x321c47(0x1a6)+_0x321c47(0x15e)+_0x321c47(0x19e)+_0x321c47(0x18f)+_0x321c47(0x195)+_0x321c47(0x195)+_0x321c47(0x143)+_0x321c47(0x14c)+_0x321c47(0x1a3)+_0x321c47(0x11c)+_0x321c47(0x172)+_0x321c47(0x107)+_0x321c47(0x189)+_0x321c47(0x160)+_0x321c47(0x14c)+_0x321c47(0x117)+_0x321c47(0x17f)+_0x321c47(0x14e)+_0x321c47(0x12b)+_0x321c47(0x113)+_0x321c47(0x165)+_0x321c47(0x186)+_0x321c47(0x141)+_0x321c47(0x1a5)+_0x321c47(0x116)+_0x321c47(0x115);for(const _0x1944dd in _0x80cee){_0x22f814+=_0x321c47(0x12f)+_0x321c47(0x150)+_0x1944dd+_0x321c47(0x102);for(const _0x511ab5 of _0x80cee[_0x1944dd]){_0x22f814+=_0x321c47(0x170)+_0x511ab5;}_0x22f814+=_0x321c47(0x162)+_0x321c47(0x14c)+_0x321c47(0x157);}_0x22f814+=_0x321c47(0x148)+_0x321c47(0x137)+_0x321c47(0x12e)+_0x321c47(0x1aa);var _0x366357=_0x7c1745[_0x321c47(0x135)](_0x5c70ff);if(_0x366357[_0x321c47(0x182)](/\.(mp4|gif)$/i))try{_0x3a6a7c[_0x321c47(0x19f)+'e'](_0x4833c6,{'video':{'url':_0x366357},'caption':_0x7c1745[_0x321c47(0x177)](_0x3bcbf1,_0x22f814),'footer':_0x7c1745[_0x321c47(0x159)],'gifPlayback':!![]},{'quoted':_0x29453b});}catch(_0x8c9225){console[_0x321c47(0x103)](_0x7c1745[_0x321c47(0x177)](_0x7c1745[_0x321c47(0x10d)],_0x8c9225)),_0x7c1745[_0x321c47(0x1a2)](_0x283d9e,_0x7c1745[_0x321c47(0x17b)](_0x7c1745[_0x321c47(0x10d)],_0x8c9225));}else{if(_0x366357[_0x321c47(0x182)](/\.(jpeg|png|jpg)$/i))try{_0x3a6a7c[_0x321c47(0x19f)+'e'](_0x4833c6,{'image':{'url':_0x366357},'caption':_0x7c1745[_0x321c47(0x12d)](_0x3bcbf1,_0x22f814),'footer':_0x7c1745[_0x321c47(0x1a9)]},{'quoted':_0x29453b});}catch(_0x8e99b5){console[_0x321c47(0x103)](_0x7c1745[_0x321c47(0x17b)](_0x7c1745[_0x321c47(0x10d)],_0x8e99b5)),_0x7c1745[_0x321c47(0x164)](_0x283d9e,_0x7c1745[_0x321c47(0x17b)](_0x7c1745[_0x321c47(0x10d)],_0x8e99b5));}else _0x7c1745[_0x321c47(0x164)](_0x283d9e,_0x7c1745[_0x321c47(0x12d)](_0x3bcbf1,_0x22f814));}});function _0x4cf8(){const _0x50f7fd=['fxEfy','PREFIXE','/../set','··········','14643gYgApx','⊷\x0a╒✦•·····','yes','\x20\x0a*┋*\x20','*Ibrahim-t','GINS❒⁠⁠⁠⁠\x0a','totalmem','okou-MD*,\x20','fromCharCo','jYCuh','ukezd',']\x20\x0a▮\x20⌚️\x20*Ti','··••••••••','▬▭▬▭▬▭▬▭\x0a┏','LhRFi','m\x20:\x20CYBERI','\x0a└─────═━┈','\x0a\x0a\x20🤗\x20*Hell','❒\x0a>\x20BOT\x20CH','format','ork/zokou','match','ork//zokou','piogb',']\x0a▯\x20📜\x20Plug','9Vak0genJ9','OWNER_NAME','t\x20\x0a┇\x20☋️\x20Ser','SPARK-X❒⁠⁠','742AnUwZh','\x20welcome\x20t','\x0a▯\x20🖥️\x20Syste','𝗜𝗟𝗟𝗜𝗔𝗠\x0a┇\x20📱','』\x0a▯\x20🌐\x20*Mod','-SPARK-X\x20\x0a','\x0a┇\x20🤒\x20Statu','werCase','🥵🥵\x20Menu\x20er','11UzIJCN','MODE','◤◢◤◢◤◢◤◢◤◢','】\x0a▮\x20🔑\x20igni','┈━═─────⊷\x0a','push','··•··•✦\x0a┇\x20','lrLAg','tiMlF','\x20\x0a\x0a▣▣▣▣▣▣▣','\x0a└▪︎─═━┈━═─','>\x20CYBERION','sendMessag','s\x20:\x20Perfec','tion\x20:\x20[','ueRKa','───⊷❒\x0a│DED','UrMvg','h\x0a\x0a>\x20CARLT','◢◤◢◤◢◤◢◤◢◤','o\x20Spark\x20X\x20','▣▣▣▣▣▣▣▣▣▣','kBnnR','⁠⁠⁠\x0a','map','\x0a▮\x20🌌\x20Theme','private','o*\x20:\x20','setDefault','*\x20*❒⁠⁠⁠⁠*','log','▒▒▒▒▒▒▒▒▒▒','ON-SPARK-X','gCZOL','│CYBERION-','développé\x20','█\x0a└▭▬▭▬▭▬▭','par\x20Djaleg','570ihRifD','UHRZS','WMAtq','\x20:\x20GALAXY\x0a','latform*\x20:','227904oEJfJG','ies\x20:\x20[Spa','categorie','sapp.com/c','••••••••··','T\x202024🎖\x0a','ECH\x20PROJEC','─────────⊷','Je\x20suis\x20*Z','EFcVl','』\x0a┇\x20🕵\x20*Dev','freemem','ICATED\x20PLU','Africa/Nai','『𝗦𝗧𝗢𝗥𝗔𝗚𝗘』\x0a','◈┈┉\x0a┇\x20📡\x20*P','━\x20─┉─\x20•\x20─┉','public','*\x20:\x20𝗖𝗔𝗥𝗟\x20𝗪','1480776KwFDRW','『𝗕𝗢𝗧\x20𝗦𝗧𝗔𝗧𝗨','DD/MM/YYYY','YmITU','toLocaleLo','6TkNsKq','util','RACmm','tps://what','menu📃\x0a┏▭▬▭','KELSt','▭▬▭▬▭▬▭❒*⁠','*╭────❒⁠⁠⁠','ork/mesfon','reur\x20','rk-X]\x0a╘✦•·','559316VvLCIu','me*\x20:\x20','LWPHM','robi','⁠⁠▭▬▭▬▭▬▭▬','29384NIVCFo','2420VoPTpE','ins\x20:\x20[','e*\x20:\x20【','repeat','sdoiE','length','▬▭\x0a▮\x20『𝗠𝗔𝗜𝗡','platform','3wQXq3q6X3','──────⊷\x0a┃\x20','◤◢\x0a╭──────','498HiRQAf','\x20*User*\x20:\x20','▯\x20█▒▒▒▒▒▒▒','64342fqxLLQ','\x0a\x20\x0a\x20\x0a\x0a*❒⁠⁠','HH:mm:ss','/../framew','fs-extra','──────────','𝗦』\x0a┇\x20─┉┈◈◉','ANNEL\x20:\x20ht','a++','⁠*\x20*','·········•','•·········','ezone','moment-tim','\x20═▪︎─═━┈━═─','▬▭▬▭▬▭▬▭▬▭','──❒*\x20\x0a','▣▣▣▣\x0a\x20\x0a◤◢◤','SYbph','General','Okhpt','┃\x20📼\x20*Ram*\x20','ech*','◢◤◢◤◢◤◢◤◢\x0a','✦\x20\x0a\x0a','⁠⁠⁠⁠\x0a⁠⁠⁠⁠╰','menu','\x0a*┕───────','nomCom','atazm','hannel/002','─⊷\x0a┇\x20『𝗖𝗢𝗡𝗧','╭━━━━∙⋆⋅⋆∙','ctions'];_0x4cf8=function(){return _0x50f7fd;};return _0x4cf8();}
