@@ -14,7 +14,7 @@
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 𝐀𝐍𝐃 𝐓𝐇𝐄 𝐃𝐄𝐕
 <p/>
 <p align="center">
-<a href="https://github.com/carl24tech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?label=Followers&style=social"></a>
+
 <a href="https://github.com/carl24tech/Cyberion-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-V1?&style=social"></a>
 <a href="https://github.com/carl24tech/Cyberion-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/carl24tech/Cyberion-V1?style=social"></a>
 <a href="https://github.com/carl24tech/Cyberion-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/carl24tech/Cyberion-V1?label=Watching&style=social"></a>
