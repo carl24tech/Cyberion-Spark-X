@@ -1,5 +1,34 @@
 
+/*```javascript
+const readline = require('readline');
 
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+rl.setPrompt('You: ');
+rl.prompt();
+
+rl.on('line', (input) => {
+  if (input.toLowerCase() === 'hello') {
+    console.log('Bot: Hi there!');
+  } else if (input.toLowerCase() === 'bye') {
+    console.log('Bot: Goodbye!');
+    rl.close();
+  } else {
+    console.log('Bot: I did not understand that. Can you please repeat?');
+  }
+  rl.prompt();
+});
+
+rl.on('close', () => {
+  console.log('Bot has left the chat.');
+  process.exit(0);
+});
+```
+
+> CARLTECH*/
 
 
 
