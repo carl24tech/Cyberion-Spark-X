@@ -79,7 +79,7 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
  
 
 
-  <a href="https://github.com/carl24tech/SESSION-SITE"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/GET SESSION ID HERE-h?color=blue&style=for-the-badge&logo=audi" width="230" height="38.45"/></a></p>
+  <a href="https://github.com/carl24tech/SESSION-SITE"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/GET SESSION ID HERE-h?color=black&style=for-the-badge&logo=louis vuiton" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -115,7 +115,7 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
 ## CONTACT CARLTECH HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT CARLTECH" src="https://img.shields.io/badge/CONTACT CARLTECH-h?color=pink&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
+   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT CARLTECH" src="https://img.shields.io/badge/CONTACT CARLTECH-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
