@@ -11,7 +11,7 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 𝐀𝐍𝐃 𝐓𝐇𝐄 𝐃𝐄𝐕
+## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
 <p/>
 <p align="center">
 
@@ -113,9 +113,9 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## CONTACT CARLTECH HERE
-  CONTACT ME FOR ANY ISSUE
+  DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="240" height="38.45"/></a></p>
+   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT CARLTECH" src="https://img.shields.io/badge/CONTACT CARLTECH-h?color=pink&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
