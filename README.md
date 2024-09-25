@@ -105,7 +105,7 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
 
    ●IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
-   <a href="https://heroku.com"><img title="CREATE ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
+   <a href="https://heroku.com"><img title="CREATE ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="180" height="38.45"/></a></p>
 
    ●IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
