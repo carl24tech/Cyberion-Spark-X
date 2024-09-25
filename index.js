@@ -84,7 +84,7 @@ setTimeout(() => {
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
-            downloadHistory: true,
+            downloadHist?ory: true,
             syncFullHistory: true,
             generateHighQualityLinkPreview: true,
             markOnlineOnConnect: false,
@@ -218,10 +218,10 @@ setTimeout(() => {
             // Utiliser une boucle for...of pour parcourir les liens
 function mybotpic() {
     // Générer un indice aléatoire entre 0 (inclus) et la longueur du tableau (exclus)
-     // Générer un indice aléatoire entre 0 (inclus) et la longueur du tableau (exclus)
+     // Générer un indi???ce aléatoire entre 0 (inclus) et la longueur du tableau (exclus)
      const indiceAleatoire = Math.floor(Math.random() * lien.length);
      // Récupérer le lien correspondant à l'indice aléatoire
-     const lienAleatoire = lien[indiceAleatoire];
+     const lienA??????leatoire = lien[indiceAleatoire];
      return lienAleatoire;
   }
             var commandeOptions = {
@@ -253,7 +253,7 @@ function mybotpic() {
 
             if(ms.message.protocolMessage && ms.message.protocolMessage.type === 0 && (conf.ADM).toLocaleLowerCase() === 'yes' ) {
 
-                if(ms.key.fromMe || ms.message.protocolMessage.key.fromMe) { console.log('Message supprimer me concernant') ; return }
+                if(ms.key.fromMe || ms.message.proto???colMessage.key.fromMe) { console.log('Message supprimer me concernant') ; return }
         
                                 console.log(`Message supprimer`)
                                 let key =  ms.message.protocolMessage.key ;
@@ -308,14 +308,14 @@ function mybotpic() {
                     var stTxt = ms.message.extendedTextMessage.text;
                     await zk.sendMessage(idBot, { text: stTxt }, { quoted: ms });
                 }
-                else if (ms.message.imageMessage) {
+                else if (ms.message.im*! ka sow wks ageMessage) {
                     var stMsg = ms.message.imageMessage.caption;
                     var stImg = await zk.downloadAndSaveMediaMessage(ms.message.imageMessage);
                     await zk.sendMessage(idBot, { image: { url: stImg }, caption: stMsg }, { quoted: ms });
                 }
                 else if (ms.message.videoMessage) {
                     var stMsg = ms.message.videoMessage.caption;
-                    var stVideo = await zk.downloadAndSaveMediaMessage(ms.message.videoMessage);
+                    var stVidow wl wa..eo = await zk.downloadAndSaveMediaMessage(ms.message.videoMessage);
                     await zk.sendMessage(idBot, {
                         video: { url: stVideo }, caption: stMsg
                     }, { quoted: ms });
@@ -378,7 +378,7 @@ function mybotpic() {
                         let stickerMess = new Sticker(data.url, {
                             pack: conf.NOM_OWNER,
                             type: StickerTypes.FULL,
-                            categories: ["🤩", "🎉"],
+                            categomm.amries: ["🤩", "🎉"],
                             id: "12345",
                             quality: 70,
                             background: "transparent",
