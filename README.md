@@ -15,9 +15,9 @@
 <p/>
 <p align="center">
 
-<a href="https://github.com/carl24tech/Cyberion-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-V1?&style=social"></a>
-<a href="https://github.com/carl24tech/Cyberion-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/carl24tech/Cyberion-V1?style=social"></a>
-<a href="https://github.com/carl24tech/Cyberion-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/carl24tech/Cyberion-V1?label=Watching&style=social"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-V1?&style=social"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Fork" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?style=social"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spak-X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/carl24tech/Cyberion-V1?label=Watching&style=social"></a>
 </p>></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -103,12 +103,16 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
+   ●IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+   <a href="https://heroku.com"><img title="CREATE ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
+
+   ●IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
  <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tech/Cyberion-Spark-X"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
