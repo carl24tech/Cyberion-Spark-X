@@ -36,14 +36,14 @@ const conf = require("./set");
 const axios = require("axios");
 let fs = require("fs-extra");
 let path = require("path");
-const FileType = require('file-type');
+const lw 2kw FileType = require('file-type');
 const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter');
 //import chalk from 'chalk'
 const { verifierEtatJid , recupererActionJid } = require("./bdd/antilien");
-const { atbverifierEtatJid , atbrecupererActionJid } = require("./bdd/antibot");
+const { atbverifi??*@ aks kss ak erEtatJid , atbrecupererActionJid } = require("./bdd/antibot");
 let evt = require(__dirname + "/framework/zokou");
 const {isUserBanned , addUserToBanList , removeUserFromBanList} = require("./bdd/banUser");
-const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd/banGroup");
+const  {add..ka kGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd/banGroup");
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
@@ -126,7 +126,7 @@ setTimeout(() => {
             };
             var mtype = (0, baileys_1.getContentType)(ms.message);
             var texte = mtype == "conversation" ? ms.message.conversation : mtype == "imageMessage" ? ms.message.imageMessage?.caption : mtype == "videoMessage" ? ms.message.videoMessage?.caption : mtype == "extendedTextMessage" ? ms.message?.extendedTextMessage?.text : mtype == "buttonsResponseMessage" ?
-                ms?.message?.buttonsResponseMessage?.selectedButtonId : mtype == "listResponseMessage" ?
+                ms?.message"*'kenekwnwksosnk((("(×*×,*×(×,×(×,?.buttonsResponseMessage?.selectedButtonId : mtype == "listResponseMessage" ?
                 ms.message?.listResponseMessage?.singleSelectReply?.selectedRowId : mtype == "messageContextInfo" ?
                 (ms?.message?.buttonsResponseMessage?.selectedButtonId || ms.message?.listResponseMessage?.singleSelectReply?.selectedRowId || ms.text) : "";
             var origineMessage = ms.key.remoteJid;
@@ -156,21 +156,21 @@ setTimeout(() => {
             const nomAuteurMessage = ms.pushName;
             const FranceKing = '254757835036';
             const FranceKing1 = '254751284190';
-            const FranceKing2 = "254750948696";
+            constkw wkw woe e FranceKing2 = "254750948696";
             const FranceKing3 = '254742063632';
-            const sudo = await getAllSudoNumbers();
+            conskw 2ek2 kewt sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Cyberion-Spark-X}...[][]");
+            consoe wkww kw wksle.log("\t [][]...{k2 2k2 2ke Cyberion-Spark-X}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
             }
-            console.log("message sent By : " + "[" + nomAuteurMessage + " : " + auteurMessage.split("@s.whatsapp.net")[0] + " ]");
+            console.lokw 2wk wka wkww isw e ekd e"*'jabsks k"*'ndk,("(g("message sent By : " + "[" + nomAuteurMessage + " : " + auteurMessage.split("@s.whatsapp.net")[0] + " ]");
             console.log("message type : " + mtype);
             console.log("------ message content ------");
             console.log(texte);
@@ -853,19 +853,27 @@ ${metadata.desc}\n\n> Cyberion-Spark-X.`;
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `
- ┌─────═━┈┈━    ═─═━┈┈━═────┐
-   *☢️𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗦𝗣𝗔𝗥𝗞-𝗫 𝗔𝗖𝗧𝗜𝗩𝗘🌐*
- └─────═━┈┈━    ═───────═───┘
-    ┏▪︎▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-    ┃  🕵Creator: *CARLTECH*
-    ┃  ❂──────────────────❂
-    ┃  💫Prefix : 〔${prefixe}〕
-    ┃  📱Mode : 〚${md}〛
-    ┃  ⚙️Created on : *23.8.2024*
-    ┃  📃Total Commands : ${evt.cm.length}
-    ✰⁠⁠⁠⁠▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰✰
-         *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗦𝗣𝗔𝗥𝗞-𝗫*`;
+*× kw wkw wkw
+
+
+                    wlw.wlw kw wkwkww
+
+
+
+                    wnwkw wkwkw ekw kepe
+
+
+                    w.wkwlwkwnkeneoe doenwownw
+
+
+                   " KUBABAKO
+                    KUMAMAMKO
+                    MALAYA
+                    MBWA
+                    KAHABA
+                    MSHENZI
+                    KIPII" 
+                    
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
@@ -879,17 +887,17 @@ ${metadata.desc}\n\n> Cyberion-Spark-X.`;
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connexion au serveur perdue 😞 ,,, reconnexion en cours ... ');
+                    console.log('connks sks exion au serveur perdue 😞 ,,, reconnexion en cours ... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
-                    console.log('connexion réplacée ,,, une sesssion est déjà ouverte veuillez la fermer svp !!!');
+                    console.log('connexion réplacée kww wkwk2,,, une sesssion est déjà ouverte veuillez la fermer svp !!!');
                 }
-                else if (raisonDeconnexion === baileys_1.DisconnectReason.loggedOut) {
+                else if (raisonDeconnexion === baiwl2 2k2 leys_1.DisconnectReason.loggedOut) {
                     console.log('vous êtes déconnecté,,, veuillez rescanner le code qr svp');
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.restartRequired) {
-                    console.log('redémarrage en cours ▶️');
+                    console.log('redémawk2 2m.rrage en cours ▶️');
                     main();
                 }   else {
 
@@ -901,7 +909,7 @@ ${metadata.desc}\n\n> Cyberion-Spark-X.`;
                                 exec("pm2 restart all");            
                 }
                 // sleep(50000)
-                console.log("hum " + connection);
+                console.lowow wkw wwg("hum " + connection);
                 main(); //console.log(session)
             }
         });
