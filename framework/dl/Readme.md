@@ -1,6 +1,0 @@
-#  CARLTECH
-
-
-
-
-## SPARK-X 
