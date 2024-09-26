@@ -89,7 +89,7 @@
 
 
 <details>
-<summary>𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐃𝐄𝐕</summary>
+<summary>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`𝐒 𝐈𝐍𝐅𝐎</summary>
 ## Developer INFO:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
