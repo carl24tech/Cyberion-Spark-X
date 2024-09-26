@@ -32,34 +32,7 @@
 
 
 
-  
-## CYBERION-SPARK-X 
 
-
-_CYBERION-SPARK-X FEATURES_
-
-Cyberion is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Cyberion is here to assist you.
-
-## Key Features
-
-
-
-1. **Natural Language Processing**: Cyberion is powered by NLP technology can understand human language better and carry out meaningful conversations.
-
-2. **Personalization**: Cyberion can remember past interactions and tailor responses based on user preferences, making the conversation more relevant and engaging.
-
-3. **Multi-platform Integration**:  Cyberion can be integrated with various messaging platforms such as Facebook Messenger, WhatsApp, and Slack, ensuring a seamless user experience across different channels.
-
-4. **Voice Recognition** Cyberion is equipped with voice recognition technology can interact with users through speech, offering a hands-free and convenient experience.
-
-5. **Sentiment Analysis**: Cyberion can analyze the sentiment behind user messages to gauge emotions and respond accordingly, providing a more empathetic and human-like interaction.
-
-6. **Context Retention**: Cyberion can maintain context throughout a conversation, allowing for more fluid and coherent interactions, even across multiple topics or queries.
-
-7. **Interactive Elements**: Cyberion can incorporate interactive elements such as buttons, carousels, and quick replies to enhance user engagement and facilitate decision-making.
-
-8. **Advanced Analytics**: Cyberion can collect and analyze user data to provide insights into user behavior, preferences, and trends, enabling businesses to make data-driven decisions and improve customer interactions.
-## 𝐀𝐍𝐃 𝐌𝐀𝐍𝐘 𝐌𝐎𝐑𝐄 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -106,7 +79,8 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
 
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
-
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
    ●IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
    <a href="https://heroku.com"><img title="CREATE ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="180" height="38.45"/></a></p>
@@ -116,6 +90,8 @@ Cyberion is a multi-device bot designed to enhance your WhatsApp conversations w
  <a href="https://dashboard.heroku.com/new?template=https://github.com/carltechzz/Cyberion-Spark-"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
