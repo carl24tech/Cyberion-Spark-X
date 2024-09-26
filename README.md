@@ -24,19 +24,12 @@
 <a href="https://github.com/carl24tech/Cyberion-Spak-X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/carl24tech/Cyberion-V1?label=Watching&style=social"></a>
 </p>></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
 
 
 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
