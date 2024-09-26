@@ -35,7 +35,7 @@
 
 ## HOW TO GET CYBERION-SPARK-X
 <details>
-<summary>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐈𝐎𝐍𝐒</summary> 
+<summary>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐑𝐄𝐀𝐃 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐈𝐎𝐍𝐒</summary> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
@@ -71,7 +71,7 @@
    
    <a href="https://heroku.com"><img title="CREATE ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="180" height="38.45"/></a></p>
 <details>
-<summary>𝐏𝐑𝐄𝐒𝐒 𝐁𝐔𝐓𝐓𝐎𝐍</summary>
+<summary>𝐏𝐑𝐄𝐒𝐒 𝐁𝐔𝐓𝐓𝐎𝐍 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘</summary>
    ●IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
  <a href="https://dashboard.heroku.com/new?template=https://github.com/carltechzz/Cyberion-Spark-"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
