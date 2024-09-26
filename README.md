@@ -1,4 +1,6 @@
 
+<details>
+<summary>𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐃𝐄𝐓𝐀𝐈𝐋𝐒</summary>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
 
@@ -15,6 +17,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
+<details>
+<summary>𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒</summary>
 <p/>
 <p align="center">
 
@@ -29,22 +33,9 @@
 
 
 
-
-
-
-
-
-
 ## HOW TO GET CYBERION-SPARK-X
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗖𝗢𝗗𝗘+𝗕𝗬+𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛🤗)](https://git.io/typing-svg)
-
-
-
-
-
-
+<details>
+<summary>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐈𝐎𝐍𝐒</summary> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
