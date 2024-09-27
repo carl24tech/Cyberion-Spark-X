@@ -28,6 +28,8 @@
 
 <a href="https://github.com/carl24tech/Cyberion-Spak-X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/carl24tech/Cyberion-V1?label=Watching&style=social"></a>
 
+ <p align="center"><img src="https://profile-counter.glitch.me/{Cyberion-Spark-X}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{carl24tech}/count.svg" /></p>
+
 
 
 
