@@ -15,7 +15,9 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
+## 👇👇𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐎𝐏𝐄𝐍 𝐄𝐕𝐄𝐑𝐘𝐓𝐇𝐈𝐍𝐆💯
 <details>
 <summary>𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒</summary>
 
@@ -37,8 +39,7 @@
 
 
 ## HOW TO GET CYBERION-SPARK-X
-<details>
-<summary>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐑𝐄𝐀𝐃 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐈𝐎𝐍𝐒</summary> 
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
