@@ -42,7 +42,7 @@
 
   
    
-   <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=black&style=for-the-badge&logo=msi" width="290" height="38.45"/></a></p>
+   <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=msi" width="290" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -53,7 +53,7 @@
  
 
 
-  <a href="https://github.com/carl24tech/SESSION-SITE"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=black&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://github.com/carl24tech/SESSION-SITE"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -69,12 +69,12 @@
 <summary>𝐏𝐑𝐄𝐒𝐒 𝐁𝐔𝐓𝐓𝐎𝐍</summary>
    ●IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
-   <a href="https://heroku.com"><img title="CREATE ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="180" height="38.45"/></a></p>
+   <a href="https://heroku.com"><img title="CREATE-ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="180" height="38.45"/></a></p>
 <details>
 <summary>𝐏𝐑𝐄𝐒𝐒 𝐁𝐔𝐓𝐓𝐎𝐍 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘</summary>
    ●IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/carltechzz/Cyberion-Spark-"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/carltechzz/Cyberion-Spark-"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
