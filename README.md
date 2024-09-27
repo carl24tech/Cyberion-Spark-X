@@ -1,8 +1,5 @@
 ## 𝐃𝐎 𝐍𝐎𝐓 𝐂𝐎𝐏𝐘 𝐀𝐍𝐘𝐓𝐇𝐈𝐍𝐆....𝐉𝐔𝐒𝐓 𝐁𝐄 𝐔𝐍𝐈𝐐𝐔𝐄..
 
-## 👇👇𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐄 𝐀𝐁𝐎𝐕𝐄 𝐁𝐔𝐓𝐓𝐎𝐍 𝐓𝐎 𝐎𝐏𝐄𝐍 𝐓𝐇𝐄 𝐁𝐎𝐓 𝐑𝐄𝐀𝐃𝐌𝐄
-<details>
-<summary>𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐃𝐄𝐓𝐀𝐈𝐋𝐒</summary>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
 
