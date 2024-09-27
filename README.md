@@ -53,7 +53,7 @@
  
 
 
-  <a href="https://github.com/carl24tech/SESSION-SITE"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/GET SESSION ID HERE-h?color=black&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://github.com/carl24tech/SESSION-SITE"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=black&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
