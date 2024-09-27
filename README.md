@@ -19,14 +19,16 @@
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
 <details>
 <summary>𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒</summary>
-<p/>
+
 <p align="center">
-
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-V1?&style=social"></a>
-
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Fork" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?style=social"></a>
-
-<a href="https://github.com/carl24tech/Cyberion-Spak-X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/carl24tech/Cyberion-V1?label=Watching&style=social"></a>
+<a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/Cyberion-Spark-X?style=flat-square&color=blue"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{Cyberion-Spark-X}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{carl24tech}/count.svg" /></p>
 
@@ -68,12 +70,11 @@
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 <details>
-<summary>𝐏𝐑𝐄𝐒𝐒 𝐁𝐔𝐓𝐓𝐎𝐍</summary>
+<summary>𝐏𝐑𝐄𝐒𝐒 𝐁𝐔𝐓𝐓𝐎𝐍 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘</summary>
    ●IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
    <a href="https://heroku.com"><img title="CREATE-ACC" src="https://img.shields.io/badge/CREATE ACC-h?color=black&style=for-the-badge&logo=heroku" width="180" height="38.45"/></a></p>
-<details>
-<summary>𝐏𝐑𝐄𝐒𝐒 𝐁𝐔𝐓𝐓𝐎𝐍 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘</summary>
+
    ●IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
  <a href="https://dashboard.heroku.com/new?template=https://github.com/carltechzz/Cyberion-Spark-"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
