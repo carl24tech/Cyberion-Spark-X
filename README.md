@@ -10,6 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵+𝑺𝑷𝑨𝑹𝑲+𝑿+𝑪𝑹𝑬𝑨𝑻𝑬𝑫+𝑩𝒀+𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯)](https://git.io/typing-svg) 
 
+<img src="https://files.catbox.moe/5qomg9.jpg" width="500" height="500" />
 
 
 
@@ -34,7 +35,7 @@
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Cyberion-Spark-X}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{carl24tech}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Cyberion-Spark-X}/count.svg" alt="carl24tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{carl24tech}/count.svg" /></p>
 
 
 
