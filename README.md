@@ -1,4 +1,4 @@
-## 𝐃𝐎 𝐍𝐎𝐓 𝐂𝐎𝐏𝐘 𝐀𝐍𝐘𝐓𝐇𝐈𝐍𝐆....𝐉𝐔𝐒𝐓 𝐁𝐄 𝐔𝐍𝐈𝐐𝐔𝐄..
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵+𝑺𝑷𝑨𝑹𝑲+𝑿+𝑪𝑹𝑬𝑨𝑻𝑬𝑫+𝑩𝒀+𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://files.catbox.moe/5qomg9.jpg" width="500" height="500" />
+<p align="centre"><img src="https://i.imgur.com/vYg1iNr.jpeg" width="500" height="500" />
 
 
 
