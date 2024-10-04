@@ -21,9 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
-## 👇👇𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐎𝐏𝐄𝐍 𝐄𝐕𝐄𝐑𝐘𝐓𝐇𝐈𝐍𝐆💯
-<details>
-<summary>𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒</summary>
+
 
 <p align="center">
 <a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
@@ -94,9 +92,7 @@
 
 
 
-<details>
-<summary>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`𝐒 𝐈𝐍𝐅𝐎</summary>
-## Developer INFO:
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
