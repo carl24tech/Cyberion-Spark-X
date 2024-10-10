@@ -10,8 +10,7 @@
 const {
   zokou
 } = require("../framework/zokou");
-const yts = require("yt-search");
-zokou({
+const yts = require("yt-search"){
   'nomCom': "video",
   'categorie': "Search",
   'reaction': '🎥'
@@ -32,7 +31,7 @@ zokou({
     _0x277bf6 = _0x39f3a9.videos;
     if (_0x277bf6 && _0x277bf6.length > 0x0) {
       const _0x4f5867 = _0x277bf6[0x0].url;
-      const + encodeURIComponent(_0x4f5867) + "&apikey=" + 'ibrahimtech_ai');
+      const + encodeURIComponent(_0x4f5867) + "&apai');
       const _0x9ae1c5 = await _0x4c8e2f.json();
       if (_0x9ae1c5.status === 0xc8 && _0x9ae1c5.success) {
         const _0x14e0b8 = _0x9ae1c5.result.download_url;
@@ -67,7 +66,7 @@ zokou({
 zokou({
   'nomCom': 'play',
   'categorie': "Download",
-  'reaction': '🎧'
+  ': '🎧'
 }, async (_0x5907cc, _0x9b0e3f, _0x533f2) => {
   const {
     ms: _0x848f3d,
@@ -84,8 +83,7 @@ zokou({
     const _0x40b93d = await yts(_0x5d5f82);
     _0x5769b7 = _0x40b93d.videos;
     if (_0x5769b7 && _0x5769b7.length > 0x0) {
-      const _0x4ce76e = _0x5769b7[0x0].url;
-      const _0x7ee3b9 = await fetch("https://api-gifted-tech.onrender.com/api/download/ytmp3?url=" + encodeURIComponent(_0x4ce76e) + "&apikey=" + 'ibrahimtech_ai');
+      const _0x4ce76e = /download/ytmp3?url=" + encodeURIComponent(_0x4ce76e) + "&apikey=" + 'ibrahimtech_ai');
       const _0x511182 = await _0x7ee3b9.json();
       if (_0x511182.status === 0xc8 && _0x511182.success) {
         const _0x9b3606 = _0x511182.result.download_url;
@@ -106,7 +104,7 @@ zokou({
         }, {
           'quoted': ");
       } else {
-        _0x2482ca("Failed to download audio. Please try again later.");
+        _0x2482ca("Failed to downloalease try again later.");
       }
     } else {
       _0x2482ca("No audio found.");
