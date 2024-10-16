@@ -1,6 +1,6 @@
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
 
@@ -85,6 +85,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+## FINAL REMARKS ON MY REPO (STATS)
+
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=carl24tech&repo=Cyberion-Spark-X&show_owner=true&theme=dark)
 
 
 
