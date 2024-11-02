@@ -10,9 +10,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵+𝑺𝑷𝑨𝑹𝑲+𝑿+𝑪𝑹𝑬𝑨𝑻𝑬𝑫+𝑩𝒀+𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://i.imgur.com/vYg1iNr.jpeg" width="500" height="500" />
-
-
+<a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/oXnmMDw.jpeg" alt="01" border="0" /></a>                     
+    <h1 align="center">CYBERION-SPARK-X</h1>
+  </a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
