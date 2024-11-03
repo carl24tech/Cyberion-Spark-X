@@ -85,11 +85,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL REMARKS ON MY REPO (STATS)
-
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=carl24tech&repo=Cyberion-Spark-X&show_owner=true&theme=dark)
-
-
 
 
 
