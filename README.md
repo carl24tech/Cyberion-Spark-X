@@ -1,15 +1,5 @@
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵+𝑺𝑷𝑨𝑹𝑲+𝑿+𝑪𝑹𝑬𝑨𝑻𝑬𝑫+𝑩𝒀+𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯)](https://git.io/typing-svg) 
-
 <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/RG95YCw.jpeg" alt="01" border="0" /></a>                     
     <h1 align="center">CYBERION-SPARK-X</h1>
   </a>
@@ -26,8 +16,8 @@
 <p align="center">
 <a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/Cyberion-Spark-X?style=flat-square&color=blue"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?color=yellow&style=flat-square"></a>
+<a href="https://github.com/carl24tech/Cyberion-Spark-X/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/Cyberion-Spark-X?style=flat-square&color=pink"></a>
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
