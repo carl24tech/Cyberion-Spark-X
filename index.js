@@ -1,5 +1,7 @@
 
-
+//AUTO_LIKE_STATUS and throt to avoid overflow reaction
+//AUTO_READ_STATUS and const auto reactions....
+//Adding aliases reaction from cron.schedule 
 
 
 
