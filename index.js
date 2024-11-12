@@ -24,6 +24,46 @@ var __createBinding = (this && this.__createBinding) || (Object.create ? (functi
 }) : (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     o[k2] = m[k];
+
+  //Change directories of chatbot incase of overflow  reactions
+const { Client } = require('whatsapp-web.js');
+
+const client = new Client();
+
+client.initialize();
+
+client.on('qr', qr => {
+    console.log('QR Code:', qr);
+});
+
+client.on('ready', () => {
+    console.log('Client is ready!');
+});
+
+client.on('message', async msg => {
+    if (msg.fromMe) {
+        return;
+    }
+
+    const chatId = msg.from;
+    const messageText = msg.body;
+
+    // Check for specific keywords or commands
+    if (messageText.toLowerCase().includes('hello')) {
+        client.sendMessage(chatId, 'Hello! How can I help you today?');
+    } else if (messageText.toLowerCase().includes('help')) {
+        client.sendMessage(chatId, 'Here are some things I can do:\n- Answer your questions\n- Provide information\n- Assist with tasks');
+    } else {
+        // Process the message and generate a response
+        // (e.g., using a language model or rule-based system)
+        const response = 'I\'m still learning. Please try again later.';
+        client.sendMessage(chatId, response);
+    }
+});
+
+
+}));
+By building upon this basic structure and incorporating advanced AI techniques, you can create a powerful and engaging WhatsApp bot.
 }));
 var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
     Object.defineProperty(o, "default", { enumerable: true, value: v });
@@ -62,7 +102,7 @@ const  {add..ka kGroupToBanList,isGroupBanned,removeGroupFromBanList} = require(
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/Zokou-MD-WHATSAPP-BOT;;;=>/g,"");
+var session = conf.session.replace(/CarlTech;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
