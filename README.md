@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/carl24tech/followers"><img title="CarlTech-Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
     
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
 
