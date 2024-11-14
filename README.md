@@ -15,9 +15,13 @@
 
 <p align="center">
 <a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
+    
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
+
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?color=yellow&style=flat-square"></a>
+
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/Cyberion-Spark-X?style=flat-square&color=pink"></a>
+
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
