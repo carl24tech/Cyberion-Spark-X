@@ -1,4 +1,11 @@
 
+
+
+
+
+
+
+
 // heroku_antiban.js
 
 // Function to check if the bot is safely running on Heroku
