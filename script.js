@@ -1,6 +1,11 @@
 
 
 
+
+
+
+
+
 // script.js
 const inputField = document.getElementById('chat-input');
 const chatBox = document.getElementById('chat-box');
