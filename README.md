@@ -1,6 +1,6 @@
 
 
-<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://i.imgur.com/5zda1uw.jpeg" alt="02" border="0" /></a>                     
+<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/ql71vo.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">CYBERION-SPARK-X</h1>
   </a>
 
@@ -88,10 +88,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT CARLTECH HERE
-  DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT-CARLTECH" src="https://img.shields.io/badge/CONTACT-CARLTECH-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/ql71vo.jpg" alt="02" border="0" /></a>                     
+    <h1 align="center">HAPPY HOLIDAY</h1>
+  </a>
