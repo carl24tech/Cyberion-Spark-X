@@ -4,8 +4,8 @@
 
 //Restrict the code from working on other bots..
 
-
-
+//Require ibraah server......authorised with password [carltech]
+//Use a simple technique to obfuscate the codes....
 
 function antiClone(arr) {
     return arr.filter((item, index) => arr.indexOf(item) === index);
