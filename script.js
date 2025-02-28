@@ -1,52 +1,64 @@
-
-
-
-
-
-
 // script.js
 const inputField = document.getElementById('chat-input');
 const chatBox = document.getElementById('chat-box');
 
-inputField.addEventListener('keydown', (event) => {
+inputField.addEventListener('keydown', handleUserInput);
+
+function handleUserInput(event) {
   if (event.key === 'Enter') {
     const userMessage = inputField.value;
     inputField.value = '';
 
-    // Display user message
-    const userMessageDiv = document.createElement('div');
-    userMessageDiv.classList.add('user-message');
-    userMessageDiv.textContent = userMessage;
-    chatBox.appendChild(userMessageDiv);
+    displayUserMessage(userMessage);
 
-    // Check if user has accepted the license
-    if (!localStorage.getItem('licenseAccepted')) {
-      const licenseMessage = document.createElement('div');
-      licenseMessage.classList.add('bot-message');
-      licenseMessage.textContent = "Please agree to our terms of service and privacy policy before using the chatbot.";
-      chatBox.appendChild(licenseMessage);
-
-      const acceptButton = document.createElement('button');
-      acceptButton.textContent = "Accept";
-      acceptButton.addEventListener('click', () => {
-        localStorage.setItem('licenseAccepted', 'true');
-        chatBox.removeChild(licenseMessage);
-        chatBox.removeChild(acceptButton);
-
-        // Bot's response
-        const botMessage = document.createElement('div');
-        botMessage.classList.add('bot-message');
-        botMessage.textContent = "How can I help you today?";
-        chatBox.appendChild(botMessage);
-      });
-      chatBox.appendChild(acceptButton);
+    if (!isLicenseAccepted()) {
+      displayLicenseMessage();
       return;
     }
 
-    // Bot's response (replace with actual AI logic)
-    const botMessage = document.createElement('div');
-    botMessage.classList.add('bot-message');
-    botMessage.textContent = "You said: " + userMessage; // Replace with a more sophisticated response
-    chatBox.appendChild(botMessage);
+    displayBotResponse(userMessage);
   }
-});
+}
+
+function displayUserMessage(message) {
+  const userMessageDiv = document.createElement('div');
+  userMessageDiv.classList.add('user-message');
+  userMessageDiv.textContent = message;
+  chatBox.appendChild(userMessageDiv);
+}
+
+function isLicenseAccepted() {
+  return localStorage.getItem('licenseAccepted');
+}
+
+function displayLicenseMessage() {
+  const licenseMessage = document.createElement('div');
+  licenseMessage.classList.add('bot-message');
+  licenseMessage.textContent = "Please agree to our terms of service and privacy policy before using the chatbot.";
+  chatBox.appendChild(licenseMessage);
+
+  const acceptButton = document.createElement('button');
+  acceptButton.textContent = "Accept";
+  acceptButton.addEventListener('click', acceptLicense);
+  chatBox.appendChild(acceptButton);
+}
+
+function acceptLicense() {
+  localStorage.setItem('licenseAccepted', 'true');
+  clearLicenseMessage();
+  displayBotResponse("How can I help you today?");
+}
+
+function clearLicenseMessage() {
+  const licenseMessage = document.querySelector('.bot-message');
+  const acceptButton = document.querySelector('button');
+  chatBox.removeChild(licenseMessage);
+  chatBox.removeChild(acceptButton);
+}
+
+function displayBotResponse(userMessage) {
+  const botMessage = document.createElement('div');
+  botMessage.classList.add('bot-message');
+  botMessage.textContent = `You said: ${userMessage}`; // Replace with actual AI logic
+  chatBox.appendChild(botMessage);
+}
