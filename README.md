@@ -88,6 +88,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a href=" BUN "><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
+<a href=" BUN "><img src="jk " alt="02" border="0" /></a>                     
     <h1 align="center">CREDITS TO IBRAHIM ADAMS</h1>
   </a>
