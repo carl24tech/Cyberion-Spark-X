@@ -1,6 +1,6 @@
 
-<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
-    <h1 align="center">CYBERION-SPARK-X</h1>
+<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="nk" alt="02" border="0" /></a>                     
+    <h1 align="center">BOT UNDER DEVELOPMENT</h1>
   </a>
 
 
@@ -9,7 +9,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐒𝐏𝐀𝐑𝐊 𝐗 
+## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 {COMING SOON}
 
 
 <p align="center">
@@ -71,7 +71,7 @@
 
    💫IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Slayer128/heroku-ios"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/ ADD BOT NAME ><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -88,6 +88,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
-    <h1 align="center">CREDITS TO IBRAHIM ADAMS FOR HIS BASE FOR SPARK-X</h1>
+<a href=" BUN "><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
+    <h1 align="center">CREDITS TO IBRAHIM ADAMS</h1>
   </a>
