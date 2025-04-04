@@ -8,6 +8,6 @@
 
  ## HERE IS THE UPDATED VERSION OF CYBERION-SPARK-X. 
    
-   <a href="https://github.com/Slayer128/Carltech-Bot/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Slayer128/Carltech-Bot/"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
 
