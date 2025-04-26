@@ -130,4 +130,4 @@ async function copyFolderSync(source, target, filesToSkip = []) {
     }
 }
 
-export default update; 
+export default update; ***/
