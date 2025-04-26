@@ -16,10 +16,14 @@
 
 ## SCAN QR CODE
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=SCAN+WITH+EXTERNAL+CAMERA)](https://git.io/typing-svg)
+
   <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="SCAN-QR" src="https://img.shields.io/badge/SCAN-QR-h?color=blue&style=for-the-badge&logo=scania" width="297" height="40.45"/></a></p>
 
 
 ## PAIR CODES
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=USE+YOUR+NUMBER)](https://git.io/typing-svg)
 
  <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="PAIR-CODES" src="https://img.shields.io/badge/PAIR-CODES-h?color=black&style=for-the-badge&logo=apple" width="297" height="40.45"/></a></p>
 
@@ -32,7 +36,9 @@
 
 ## DEPLOYMENT METHODS
 
- <a href="https://render.com/deploy?repo=https://github.com/carl24tech/Cyberion-Spark-X"><img title="Deploy-OnRender" src="https://img.shields.io/badge/FORK-REPO-h?color=black&style=for-the-badge&logo=render" width="297" height="40.45"/></a></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=DEPLOY+ON+RENDER)](https://git.io/typing-svg)
+
+ <a href="https://render.com/deploy?repo=https://github.com/carl24tech/Cyberion-Spark-X"><img title="Deploy-OnRender" src="https://img.shields.io/badge/ON-RENDERh?color=black&style=for-the-badge&logo=render" width="297" height="40.45"/></a></p>
 
 
 
