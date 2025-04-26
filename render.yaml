@@ -5486,7 +5486,7 @@ services:
     name: Buddy-XTR
     env: node
     plan: free
-    repo: https://github.com/...
+    repo: https://github.com/carl24tech/Cyberion-Spark-X
     branch: main
     buildCommand: npm install
     startCommand: npm start
