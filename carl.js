@@ -69659,8 +69659,6 @@
 
 
 
-// sex is bad😍😍
-// clone tu Mungu anakuona😁
 import dotenv from 'dotenv';
 dotenv.config();
 
