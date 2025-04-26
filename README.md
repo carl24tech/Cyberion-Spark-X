@@ -29,6 +29,8 @@
 
 
 ## ALL IN GENERAL
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=ALL+OPTIONS)](https://git.io/typing-svg)
 
 <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="GENERAL" src="https://img.shields.io/badge/GENERAL-h?color=black&style=for-the-badge&logo=samsung" width="297" height="40.45"/></a></p>
 
