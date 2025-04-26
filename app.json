@@ -3,7 +3,7 @@
   "description": "Buddy-XTR by carl william.",
   "logo": "https://files.catbox.moe/waszph.jpg",
   "keywords": ["CARL-TECH", "whatsapp-bot", "whatsapp-md-bot"],
-  "repository": "https://github.com/carl24tech/Buddy-XTR",
+  "repository": "https://github.com/carl24tech/Cyberion-Spark-X",
   "stack": "container",
   "env": { 
     "SESSION_ID": {
