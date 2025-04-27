@@ -38,9 +38,10 @@
 
 ## DEPLOYMENT METHODS
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=DEPLOY+ON+RENDER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=DEPLOY+ON+HEROKU)](https://git.io/typing-svg)
 
- <a href="https://render.com/deploy?repo=https://github.com/carl24tech/Buddy-XTR"><img title="Deploy-OnRender" src="https://img.shields.io/badge/ON-RENDER-h?color=black&style=for-the-badge&logo=render" width="297" height="40.45"/></a></p>
+ <a href="https://deploy-buddy-xtr.vercel.app/"><img title="Deploy-On+HEROKU" src="https://img.shields.io/badge/ON-HEROKU-h?color=black&style=for-the-badge&logo=heroku" width="297" height="40.45"/></a></p>
 
 
 
+## RENDER TUTORIAL TO BE ADDED.
