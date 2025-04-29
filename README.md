@@ -123491,5 +123491,3 @@
   </table>
 </div>
 
-
-## RENDER TUTORIAL TO BE ADDED.
