@@ -123437,7 +123437,11 @@
 
 
 ## WELCOME TO BUDDY-XTR REPOSITORY
-
+<div align="center">
+  <a href="https://github.com/carl24tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=carl24tech&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
