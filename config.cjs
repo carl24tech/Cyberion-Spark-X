@@ -117,7 +117,7 @@ const config = {
   MODE: process.env.MODE || "public",
   OWNER_NAME: process.env.OWNER_NAME || "CARL-TECH",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "2547000000",
-  GEMINI_KEY: process.env.GEMINI_KEY || "",
+  GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 
   // New Features
