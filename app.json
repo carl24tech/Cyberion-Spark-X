@@ -3,7 +3,7 @@
   "description": "Buddy-XTR by carl william.",
   "logo": "https://files.catbox.moe/waszph.jpg",
   "keywords": ["CARL-TECH", "whatsapp-bot", "whatsapp-md-bot"],
-  "repository": "https://github.com/carl24tech/Cyberion-Spark-X",
+  "repository": "https://github.com/carl24tech/Buddy-XTR",
   "stack": "container",
   "env": { 
     "SESSION_ID": {
@@ -58,7 +58,7 @@
     },
     "ANTI_DELETE": {
       "description": "Enable anti-delete feature (true/false)",
-      "required": true,
+      "required": false,
       "value": "true"
     },
     "AUTO_STATUS_SEEN": {
@@ -66,15 +66,10 @@
       "required": false,
       "value": "true"
     },
-    "AUTO_STATUS_REPLY": {
+    "AUTO_STATUS_REACT": {
       "description": "Enable bot to reply after viewing a status (true/false)",
       "required": false,
       "value": "false"
-    },
-    "STATUS_READ_MSG": {
-      "description": "Set the message bot sends after viewing a status",
-      "required": false,
-      "value": "*Status Seen*"
     },
     "AUTO_BLOCK": {
       "description": "Enable bot to auto-block specific numbers (true/false)",
