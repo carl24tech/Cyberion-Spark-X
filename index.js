@@ -403428,7 +403428,7 @@ https://tinyurl.com/yx2b6u3n
         });
 
         Matrix.ev.on('creds.update', saveCreds);
-         Matrix.ev.on("messages.upsert", async chatUpdate => await Handler(chatUpdate, Matrix, logger));
+        Matrix.ev.on("messages.upsert", async chatUpdate => await Handler(chatUpdate, Matrix, logger));
         Matrix.ev.on("call", async (json) => await Callupdate(json, Matrix));
         Matrix.ev.on("group-participants.update", async (messag) => await GroupUpdate(Matrix, messag));
 
