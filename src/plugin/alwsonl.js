@@ -118873,36 +118873,4 @@
 
 
 
-import config from '../../config.cjs';
-
-const alwaysonlineCommand = async (m, Matrix) => {
-  const botNumber = await Matrix.decodeJid(Matrix.user.id);
-  const isCreator = [botNumber, config.OWNER_NUMBER + '@s.whatsapp.net'].includes(m.sender);
-  const prefix = config.PREFIX;
-const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
-const text = m.body.slice(prefix.length + cmd.length).trim();
-
-  if (cmd === 'alwaysonline') {
-    if (!isCreator) return m.reply("*Only adamin*");
-    let responseMessage;
-
-    if (text === 'on') {
-      config.ALWAYS_ONLINE = true;
-      responseMessage = "Always Online has been enabled.";
-    } else if (text === 'off') {
-      config.ALWAYS_ONLINE = false;
-      responseMessage = "Always Online has been disabled.";
-    } else {
-      responseMessage = "Usage:\n- `alwaysonline on`: Enable Always Online\n- `alwaysonline off`: Disable Always Online";
-    }
-
-    try {
-      await Matrix.sendMessage(m.from, { text: responseMessage }, { quoted: m });
-    } catch (error) {
-      console.error("Error processing your request:", error);
-      await Matrix.sendMessage(m.from, { text: 'Error processing your request.' }, { quoted: m });
-    }
-  }
-};
-
-export default alwaysonlineCommand;
+function _0x43f1(_0x4fdd52,_0x4fd7a9){const _0xb0118e=_0xb011();return _0x43f1=function(_0x43f16e,_0x1cb570){_0x43f16e=_0x43f16e-0x1d7;let _0x2fe3b1=_0xb0118e[_0x43f16e];return _0x2fe3b1;},_0x43f1(_0x4fdd52,_0x4fd7a9);}(function(_0xeff18e,_0x2c0125){const _0xd68467=_0x43f1,_0x2c7e59=_0xeff18e();while(!![]){try{const _0x439ab9=-parseInt(_0xd68467(0x1d9))/0x1*(-parseInt(_0xd68467(0x1f5))/0x2)+parseInt(_0xd68467(0x1e0))/0x3*(parseInt(_0xd68467(0x1e9))/0x4)+-parseInt(_0xd68467(0x1dd))/0x5+-parseInt(_0xd68467(0x1d7))/0x6*(-parseInt(_0xd68467(0x1da))/0x7)+-parseInt(_0xd68467(0x1d8))/0x8+parseInt(_0xd68467(0x1dc))/0x9+parseInt(_0xd68467(0x1f3))/0xa*(-parseInt(_0xd68467(0x1ee))/0xb);if(_0x439ab9===_0x2c0125)break;else _0x2c7e59['push'](_0x2c7e59['shift']());}catch(_0x356e05){_0x2c7e59['push'](_0x2c7e59['shift']());}}}(_0xb011,0xd3123));import _0x5ee083 from'../../config.cjs';function _0xb011(){const _0x4d1173=['Error\x20processing\x20your\x20request.','OWNER_NUMBER','startsWith','24164780AKUhXh','ALWAYS_ONLINE','284594pKAKab','decodeJid','trim','3426oNuTPh','6827880FUDyhv','3tStUcA','19775LCJvnY','Error\x20processing\x20your\x20request:','4135455foFbUX','168820pgkfDD','Always\x20Online\x20has\x20been\x20disabled.','from','3BJVxSy','alwaysonline','includes','slice','@s.whatsapp.net','error','reply','toLowerCase','user','6675252ochHof','Always\x20Online\x20has\x20been\x20enabled.','sendMessage','sender','body','11tuNhTY','length'];_0xb011=function(){return _0x4d1173;};return _0xb011();}const alwaysonlineCommand=async(_0x18a192,_0x4dae42)=>{const _0x105e95=_0x43f1,_0x3c4e46=await _0x4dae42[_0x105e95(0x1f6)](_0x4dae42[_0x105e95(0x1e8)]['id']),_0x4cd468=[_0x3c4e46,_0x5ee083[_0x105e95(0x1f1)]+_0x105e95(0x1e4)][_0x105e95(0x1e2)](_0x18a192[_0x105e95(0x1ec)]),_0x30c441=_0x5ee083['PREFIX'],_0x1ca47d=_0x18a192[_0x105e95(0x1ed)][_0x105e95(0x1f2)](_0x30c441)?_0x18a192[_0x105e95(0x1ed)][_0x105e95(0x1e3)](_0x30c441[_0x105e95(0x1ef)])['split']('\x20')[0x0][_0x105e95(0x1e7)]():'',_0x4dc2ef=_0x18a192['body'][_0x105e95(0x1e3)](_0x30c441[_0x105e95(0x1ef)]+_0x1ca47d['length'])[_0x105e95(0x1f7)]();if(_0x1ca47d===_0x105e95(0x1e1)){if(!_0x4cd468)return _0x18a192[_0x105e95(0x1e6)]('*Only\x20adamin*');let _0x54e491;if(_0x4dc2ef==='on')_0x5ee083[_0x105e95(0x1f4)]=!![],_0x54e491=_0x105e95(0x1ea);else _0x4dc2ef==='off'?(_0x5ee083[_0x105e95(0x1f4)]=![],_0x54e491=_0x105e95(0x1de)):_0x54e491='Usage:\x0a-\x20`alwaysonline\x20on`:\x20Enable\x20Always\x20Online\x0a-\x20`alwaysonline\x20off`:\x20Disable\x20Always\x20Online';try{await _0x4dae42[_0x105e95(0x1eb)](_0x18a192[_0x105e95(0x1df)],{'text':_0x54e491},{'quoted':_0x18a192});}catch(_0x2ae7f5){console[_0x105e95(0x1e5)](_0x105e95(0x1db),_0x2ae7f5),await _0x4dae42['sendMessage'](_0x18a192[_0x105e95(0x1df)],{'text':_0x105e95(0x1f0)},{'quoted':_0x18a192});}}};export default alwaysonlineCommand;
