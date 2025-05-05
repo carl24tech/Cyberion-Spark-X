@@ -115822,37 +115822,4 @@
 
 
 
-import config from '../../config.cjs';
-
-// Main command function
-const anticallcommand = async (m, Matrix) => {
-  const botNumber = await Matrix.decodeJid(Matrix.user.id);
-  const isCreator = [botNumber, config.OWNER_NUMBER + '@s.whatsapp.net'].includes(m.sender);
-  const prefix = config.PREFIX;
-const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
-const text = m.body.slice(prefix.length + cmd.length).trim();
-
-  if (cmd === 'anticall') {
-    if (!isCreator) return m.reply("*Only admin*");
-    let responseMessage;
-
-    if (text === 'on') {
-      config.REJECT_CALL = true;
-      responseMessage = "Anti-Call has been enabled.";
-    } else if (text === 'off') {
-      config.REJECT_CALL = false;
-      responseMessage = "Anti-Call has been disabled.";
-    } else {
-      responseMessage = "Usage:\n- `anticall on`: Enable Anti-Call\n- `anticall off`: Disable Anti-Call";
-    }
-
-    try {
-      await Matrix.sendMessage(m.from, { text: responseMessage }, { quoted: m });
-    } catch (error) {
-      console.error("Error processing your request:", error);
-      await Matrix.sendMessage(m.from, { text: 'Error processing your request.' }, { quoted: m });
-    }
-  }
-};
-
-export default anticallcommand;
+function _0xf7a5(_0x116677,_0x29f2ab){const _0x371d09=_0x371d();return _0xf7a5=function(_0xf7a53a,_0x25c4ec){_0xf7a53a=_0xf7a53a-0x167;let _0x17c458=_0x371d09[_0xf7a53a];return _0x17c458;},_0xf7a5(_0x116677,_0x29f2ab);}(function(_0x3c7c8f,_0x2cac4d){const _0x22c0ef=_0xf7a5,_0xc0fb79=_0x3c7c8f();while(!![]){try{const _0x1a84b3=parseInt(_0x22c0ef(0x167))/0x1*(-parseInt(_0x22c0ef(0x177))/0x2)+parseInt(_0x22c0ef(0x171))/0x3+parseInt(_0x22c0ef(0x17d))/0x4+-parseInt(_0x22c0ef(0x173))/0x5+-parseInt(_0x22c0ef(0x168))/0x6+-parseInt(_0x22c0ef(0x16d))/0x7*(parseInt(_0x22c0ef(0x179))/0x8)+parseInt(_0x22c0ef(0x176))/0x9;if(_0x1a84b3===_0x2cac4d)break;else _0xc0fb79['push'](_0xc0fb79['shift']());}catch(_0x4540e2){_0xc0fb79['push'](_0xc0fb79['shift']());}}}(_0x371d,0x18c59));import _0x1ff1d6 from'../../config.cjs';function _0x371d(){const _0x273d7a=['REJECT_CALL','toLowerCase','37EASIfH','287196kdxRmE','from','anticall','trim','includes','7dwqfnT','slice','Error\x20processing\x20your\x20request.','body','529851yqqgWy','length','768180NbHpVJ','user','sendMessage','1608912EZEEOM','1802eABcCf','Error\x20processing\x20your\x20request:','1601448cfIYmR','Anti-Call\x20has\x20been\x20enabled.','decodeJid','PREFIX','724400NJMgWw'];_0x371d=function(){return _0x273d7a;};return _0x371d();}const anticallcommand=async(_0x4911c3,_0x2996f3)=>{const _0x178a22=_0xf7a5,_0x2b6ca7=await _0x2996f3[_0x178a22(0x17b)](_0x2996f3[_0x178a22(0x174)]['id']),_0x58201c=[_0x2b6ca7,_0x1ff1d6['OWNER_NUMBER']+'@s.whatsapp.net'][_0x178a22(0x16c)](_0x4911c3['sender']),_0x537565=_0x1ff1d6[_0x178a22(0x17c)],_0x56c448=_0x4911c3[_0x178a22(0x170)]['startsWith'](_0x537565)?_0x4911c3[_0x178a22(0x170)]['slice'](_0x537565['length'])['split']('\x20')[0x0][_0x178a22(0x17f)]():'',_0x5d2097=_0x4911c3['body'][_0x178a22(0x16e)](_0x537565[_0x178a22(0x172)]+_0x56c448['length'])[_0x178a22(0x16b)]();if(_0x56c448===_0x178a22(0x16a)){if(!_0x58201c)return _0x4911c3['reply']('*Only\x20admin*');let _0x2f29a0;if(_0x5d2097==='on')_0x1ff1d6['REJECT_CALL']=!![],_0x2f29a0=_0x178a22(0x17a);else _0x5d2097==='off'?(_0x1ff1d6[_0x178a22(0x17e)]=![],_0x2f29a0='Anti-Call\x20has\x20been\x20disabled.'):_0x2f29a0='Usage:\x0a-\x20`anticall\x20on`:\x20Enable\x20Anti-Call\x0a-\x20`anticall\x20off`:\x20Disable\x20Anti-Call';try{await _0x2996f3['sendMessage'](_0x4911c3[_0x178a22(0x169)],{'text':_0x2f29a0},{'quoted':_0x4911c3});}catch(_0x1873ef){console['error'](_0x178a22(0x178),_0x1873ef),await _0x2996f3[_0x178a22(0x175)](_0x4911c3[_0x178a22(0x169)],{'text':_0x178a22(0x16f)},{'quoted':_0x4911c3});}}};export default anticallcommand;
