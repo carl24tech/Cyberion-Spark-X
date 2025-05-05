@@ -403296,7 +403296,7 @@ import {
     useMultiFileAuthState,
     getContentType
 } from '@whiskeysockets/baileys';
-import { Handler, Callupdate, GroupUpdate } from './data/index.js';
+import { Handler, Callupdate, GroupUpdate } from './src/event/index.js';
 import express from 'express';
 import pino from 'pino';
 import fs from 'fs';
@@ -403508,8 +403508,8 @@ async function init() {
 
 init();
 
-app.get('index.html', (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.html'));
+app.get('/', (req, res) => {
+    res.send('BMW MD CONNECTED SUCCESSFULLY ✅');
 });
 
 app.listen(PORT, () => {
