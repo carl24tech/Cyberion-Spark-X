@@ -152398,32 +152398,4 @@
 
 
 
-import axios from 'axios';
-import config from '../../config.cjs';
-
-const stickerCommandHandler = async (m, gss) => {
-  const prefix = config.PREFIX;
-const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
-const text = m.body.slice(prefix.length + cmd.length).trim();
-  
-  const stickerCommands = ['cry', 'kiss', 'kill', 'kick', 'hug', 'pat', 'lick', 'bite', 'yeet', 'bully', 'bonk', 'wink', 'poke', 'nom', 'slap', 'smile', 'wave', 'awoo', 'blush', 'smug', 'dance', 'happy', 'sad', 'cringe', 'cuddle', 'shinobu', 'handhold', 'glomp', 'highfive'];
-
-  if (stickerCommands.includes(cmd)) {
-    const packname = `ByteBuddy`;
-    const author = '';
-
-    try {
-      const { data } = await axios.get(`https://api.waifu.pics/sfw/${cmd}`);
-      if (data && data.url) {
-        gss.sendImageAsSticker(m.from, data.url, m, { packname, author });
-      } else {
-        m.reply('Error fetching sticker.');
-      }
-    } catch (error) {
-      console.error('Error fetching sticker:', error);
-      m.reply('Error fetching sticker.');
-    }
-  }
-};
-
-export default stickerCommandHandler;
+(function(_0x220df0,_0x39b8d6){const _0x53f8fb=_0x5f0f,_0x23fbdd=_0x220df0();while(!![]){try{const _0x5bb027=parseInt(_0x53f8fb(0x1ba))/0x1+-parseInt(_0x53f8fb(0x1a7))/0x2*(parseInt(_0x53f8fb(0x1a3))/0x3)+parseInt(_0x53f8fb(0x1b2))/0x4+-parseInt(_0x53f8fb(0x1b1))/0x5*(-parseInt(_0x53f8fb(0x19b))/0x6)+-parseInt(_0x53f8fb(0x19f))/0x7+-parseInt(_0x53f8fb(0x1c3))/0x8+parseInt(_0x53f8fb(0x1a9))/0x9*(parseInt(_0x53f8fb(0x1ac))/0xa);if(_0x5bb027===_0x39b8d6)break;else _0x23fbdd['push'](_0x23fbdd['shift']());}catch(_0x35a542){_0x23fbdd['push'](_0x23fbdd['shift']());}}}(_0x5501,0xca885));import _0x5048a4 from'axios';import _0x25b59a from'../../config.cjs';function _0x5f0f(_0x1eac59,_0x317032){const _0x550142=_0x5501();return _0x5f0f=function(_0x5f0fc0,_0x2d135b){_0x5f0fc0=_0x5f0fc0-0x19a;let _0x208567=_0x550142[_0x5f0fc0];return _0x208567;},_0x5f0f(_0x1eac59,_0x317032);}function _0x5501(){const _0x41fb6f=['bonk','1198770AVHiBE','lick','from','split','handhold','awoo','get','body','smile','3005800LuOjeJ','https://api.waifu.pics/sfw/','dance','url','slap','blush','wave','yeet','6356802DCdxQA','Error\x20fetching\x20sticker:','nom','poke','10306023HNlRhz','includes','kill','PREFIX','4723881OWQGUT','highfive','Error\x20fetching\x20sticker.','glomp','2jxTqlr','error','832500JMSKVb','slice','length','130eCRZIi','startsWith','ByteBuddy','kick','sendImageAsSticker','5RqzyVG','3165908MVzCQg','cringe','bite','bully','shinobu','hug','cuddle'];_0x5501=function(){return _0x41fb6f;};return _0x5501();}const stickerCommandHandler=async(_0x58d180,_0x4b5574)=>{const _0xac1053=_0x5f0f,_0x441490=_0x25b59a[_0xac1053(0x1a2)],_0x123dd7=_0x58d180['body'][_0xac1053(0x1ad)](_0x441490)?_0x58d180[_0xac1053(0x1c1)][_0xac1053(0x1aa)](_0x441490[_0xac1053(0x1ab)])[_0xac1053(0x1bd)]('\x20')[0x0]['toLowerCase']():'',_0x19aa30=_0x58d180[_0xac1053(0x1c1)]['slice'](_0x441490[_0xac1053(0x1ab)]+_0x123dd7[_0xac1053(0x1ab)])['trim'](),_0xb1d47e=['cry','kiss',_0xac1053(0x1a1),_0xac1053(0x1af),_0xac1053(0x1b7),'pat',_0xac1053(0x1bb),_0xac1053(0x1b4),_0xac1053(0x19a),_0xac1053(0x1b5),_0xac1053(0x1b9),'wink',_0xac1053(0x19e),_0xac1053(0x19d),_0xac1053(0x1c7),_0xac1053(0x1c2),_0xac1053(0x1c9),_0xac1053(0x1bf),_0xac1053(0x1c8),'smug',_0xac1053(0x1c5),'happy','sad',_0xac1053(0x1b3),_0xac1053(0x1b8),_0xac1053(0x1b6),_0xac1053(0x1be),_0xac1053(0x1a6),_0xac1053(0x1a4)];if(_0xb1d47e[_0xac1053(0x1a0)](_0x123dd7)){const _0x429172=_0xac1053(0x1ae),_0x314ece='';try{const {data:_0x1f2fc6}=await _0x5048a4[_0xac1053(0x1c0)](_0xac1053(0x1c4)+_0x123dd7);_0x1f2fc6&&_0x1f2fc6[_0xac1053(0x1c6)]?_0x4b5574[_0xac1053(0x1b0)](_0x58d180[_0xac1053(0x1bc)],_0x1f2fc6[_0xac1053(0x1c6)],_0x58d180,{'packname':_0x429172,'author':_0x314ece}):_0x58d180['reply']('Error\x20fetching\x20sticker.');}catch(_0x285570){console[_0xac1053(0x1a8)](_0xac1053(0x19c),_0x285570),_0x58d180['reply'](_0xac1053(0x1a5));}}};export default stickerCommandHandler;
