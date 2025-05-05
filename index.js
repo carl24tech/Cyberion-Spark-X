@@ -403509,7 +403509,7 @@ async function init() {
 init();
 
 app.get('/', (req, res) => {
-    res.send('BMW MD CONNECTED SUCCESSFULLY ✅');
+    res.send('CONNECTED SUCCESSFULLY ✅');
 });
 
 app.listen(PORT, () => {
